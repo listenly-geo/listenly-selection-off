@@ -214,6 +214,56 @@ def http(url):
         return None
 
 
+# 25/11/2026 (Etienne) : la selection privilegie les fiches DEJA EN LIGNE sur listenly.org (200), y compris celles
+# en noindex (trop fines) : une fois rallongees et envoyees au site, elles deviennent indexables. Les fiches absentes
+# du site (404) ne passent qu'en dernier recours. On sonde l'ancienne adresse (code), qui suit la redirection vers
+# l'adresse par question si le site la connait deja.
+EN_LIGNE = {}      # slug/id -> {"status", "url", "noindex"}
+ADRESSES = {}      # slug/id -> adresse reellement en ligne choisie
+CACHE_LIGNE = f"{PAGES}/data/en_ligne.json"
+
+
+def sonder(key):
+    url = BASE + "m/" + key
+    try:
+        r = requests.get(url, allow_redirects=True, timeout=30, headers={"User-Agent": "Mozilla/5.0 (listenly-selection)"})
+    except requests.RequestException:
+        return {"status": None}
+    corps = (r.text or "")[:80000].lower()
+    noindex = "noindex" in r.headers.get("X-Robots-Tag", "").lower() or 'name="robots" content="noindex' in corps
+    return {"status": r.status_code, "url": r.url.split("?")[0], "noindex": bool(noindex)}
+
+
+def sonder_lot(keys, maxi=400):
+    """Sonde les premieres fiches de la liste (8 en parallele), cache du jour dans en_ligne.json."""
+    from concurrent.futures import ThreadPoolExecutor
+    jour = datetime.date.today().isoformat()
+    if not EN_LIGNE:
+        try:
+            c = json.load(open(CACHE_LIGNE, encoding="utf-8"))
+            if c.get("date") == jour:
+                EN_LIGNE.update(c.get("fiches", {}))
+        except (OSError, json.JSONDecodeError):
+            pass
+    a_faire = [k for k in keys[:maxi] if k not in EN_LIGNE]
+    if a_faire:
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            for k, r in zip(a_faire, ex.map(sonder, a_faire)):
+                EN_LIGNE[k] = r
+        try:
+            json.dump({"date": jour, "fiches": EN_LIGNE}, open(CACHE_LIGNE, "w", encoding="utf-8"), ensure_ascii=False)
+        except OSError:
+            pass
+
+
+def prioriser_en_ligne(keys, maxi=200):
+    """Fiches deja en ligne d'abord (indexables avant noindex), puis les autres, ordre de note conserve."""
+    sonder_lot(keys, maxi)
+    ok = [k for k in keys if (EN_LIGNE.get(k) or {}).get("status") == 200]
+    ok.sort(key=lambda k: bool(EN_LIGNE[k].get("noindex")))   # tri stable : indexables d'abord
+    return ok + [k for k in keys if k not in set(ok)]
+
+
 def main():
     items = []
     try:
@@ -221,6 +271,11 @@ def main():
     except Exception:
         tok = None
     cands, titres = choisir()
+    sonder_lot([a + "/" + b for a, b, _ in cands], 400)
+    def _en_ligne(c):
+        return (EN_LIGNE.get(c[0] + "/" + c[1]) or {}).get("status") == 200
+    cands_ligne = sorted([c for c in cands if _en_ligne(c)], key=lambda c: bool(EN_LIGNE[c[0] + "/" + c[1]].get("noindex")))
+    cands_reste = [c for c in cands if not _en_ligne(c)]
     nouveaux = {}
     chosen = []
     par_podcast = {}
@@ -262,8 +317,15 @@ def main():
             titre = j["titre"]
             nouveaux[slug + "/" + mid] = titre
         # 21/11/2026 : adresse par question. Le slug est tire du titre FINAL (apres le filtre « sens »).
-        mu.assign(slug + "/" + mid, titre)
-        adresse = mu.url(slug + "/" + mid)
+        live = EN_LIGNE.get(slug + "/" + mid) or {}
+        if live.get("status") == 200:
+            adresse = live["url"]   # adresse reellement en ligne (question si le site la connait, sinon code)
+            if adresse.rstrip("/") != BASE + "m/" + slug + "/" + mid:
+                mu.assign(slug + "/" + mid, titre)
+        else:
+            mu.assign(slug + "/" + mid, titre)
+            adresse = mu.url(slug + "/" + mid)
+        ADRESSES[slug + "/" + mid] = adresse
         # 02/11/2026 : controle reel dans la Search Console (API) avant de choisir.
         # Une page deja indexee n'est pas proposee : elle est notee dans indexees_verifiees.json.
         if tok:
@@ -284,22 +346,26 @@ def main():
     # l'autre complete. Chaque fiche porte son etiquette de source pour le suivi Search Console.
     def n_source(src):
         return sum(1 for c in chosen if SOURCES.get(c[0] + "/" + c[1]) == src)
-    # passe 0 (09/11/2026) : les fiches en retard d'abord, sans quota de groupe
-    for slug, mid, score in cands:
-        if len(chosen) >= N:
-            break
-        if slug + "/" + mid in RETARD:
-            essayer(slug, mid, score)
-    for src, quota in (("connu", QUOTA_CONNU), ("mot_cle", QUOTA_MOTCLE)):
-        for slug, mid, score in cands:
-            if n_source(src) >= quota:
+    def passes(liste):
+        # passe 0 (09/11/2026) : les fiches en retard d'abord, sans quota de groupe
+        for slug, mid, score in liste:
+            if len(chosen) >= N:
                 break
-            if SOURCES.get(slug + "/" + mid) == src:
+            if slug + "/" + mid in RETARD:
                 essayer(slug, mid, score)
-    for slug, mid, score in cands:
-        if len(chosen) >= N:
-            break
-        essayer(slug, mid, score)
+        for src, quota in (("connu", QUOTA_CONNU), ("mot_cle", QUOTA_MOTCLE)):
+            for slug, mid, score in liste:
+                if len(chosen) >= N or n_source(src) >= quota:
+                    break
+                if SOURCES.get(slug + "/" + mid) == src:
+                    essayer(slug, mid, score)
+        for slug, mid, score in liste:
+            if len(chosen) >= N:
+                break
+            essayer(slug, mid, score)
+    passes(cands_ligne)      # 25/11/2026 : fiches deja en ligne d'abord
+    if len(chosen) < N:
+        passes(cands_reste)  # dernier recours : fiches absentes du site (404)
     if deja_indexees_nouvelles:
         vp = f"{PAGES}/data/indexees_verifiees.json"
         try:
@@ -309,15 +375,17 @@ def main():
         vd["urls"] = sorted(set(vd.get("urls", [])) | set(deja_indexees_nouvelles))
         json.dump(vd, open(vp, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     for slug, mid, score, titre in chosen:
-        url = mu.url(slug + "/" + mid)   # 21/11/2026 : adresse par question (ancienne adresse si pas de slug possible)
-        item = {"url": url, "titre": titre, "score_qualite": score, "source": SOURCES.get(slug + "/" + mid, "connu"), "http": http(url)}
+        url = ADRESSES.get(slug + "/" + mid) or mu.url(slug + "/" + mid)   # adresse reellement en ligne si la fiche existe
+        lv = EN_LIGNE.get(slug + "/" + mid) or {}
+        item = {"url": url, "titre": titre, "score_qualite": score, "source": SOURCES.get(slug + "/" + mid, "connu"), "http": http(url),
+                "existante": lv.get("status") == 200, "noindex": bool(lv.get("noindex"))}
         if tok:
             try:
                 item.update(inspecter(tok, url))
             except Exception as e:
                 item["inspection_erreur"] = str(e)[:120]
         # Pret = en ligne, pas bloquee par robots.txt ni par balise noindex, et pas encore indexee.
-        item["pret_pour_demande"] = (item["http"] == 200 and item.get("verdict") != "PASS"
+        item["pret_pour_demande"] = (item["http"] == 200 and not item["noindex"] and item.get("verdict") != "PASS"
                                      and item.get("robots") != "DISALLOWED"
                                      and item.get("indexation_bloquee") not in ("BLOCKED_BY_META_TAG", "BLOCKED_BY_HTTP_HEADER"))
         items.append(item)
@@ -330,6 +398,8 @@ def main():
            "repartition": {"connu": sum(1 for i in items if i.get("source") == "connu"), "mot_cle": sum(1 for i in items if i.get("source") == "mot_cle")},
            "selection": "50/50 connus + mots-cles ; volumes du jour + note" if volumes_ok else "note seule (volumes non a jour, Keyword Planner en echec)",
            "pretes": sum(1 for i in items if i["pret_pour_demande"]),
+           "existantes": sum(1 for i in items if i.get("existante")),
+           "a_rendre_indexables": sum(1 for i in items if i.get("existante") and i.get("noindex")),
            "urls": items,
            "ecartees_sens_recherche": REJETS}
     if nouveaux:

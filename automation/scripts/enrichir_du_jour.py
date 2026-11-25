@@ -137,7 +137,8 @@ def main():
                 continue
             out.append((tri(k, v), k))
         out.sort(key=lambda x: -x[0])
-        return [k for _, k in out]
+        # 25/11/2026 : on rallonge d'abord les fiches DEJA EN LIGNE (trop fines = noindex) pour les rendre indexables
+        return ij.prioriser_en_ligne([k for _, k in out], 200)
 
     c_connu = pool((k for k in keys_connus if niv.get(k.split("/")[0]) == "A"), lambda k, v: v.get("score_final", 0))
     # 13/11/2026 : podcasts moins connus (niveaux B/C) ; le volume Google Ads est un simple bonus de tri
