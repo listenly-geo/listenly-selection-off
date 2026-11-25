@@ -6,39 +6,49 @@
   "mot_cle": 10
  },
  "selection": "note seule (volumes non a jour, Keyword Planner en echec)",
- "pretes": 3,
+ "pretes": 10,
+ "existantes": 10,
+ "a_rendre_indexables": 0,
  "urls": [
   {
-   "url": "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/how-does-ca-insurance-affect-home-sales",
+   "url": "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/1fd3482a24",
    "titre": "How does CA insurance affect home sales? | Kern County",
    "score_qualite": 65,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/the-jay-maymi-talk-show/when-did-solar-tax-credits-end",
+   "url": "https://listenly.org/podcast-btb/m/the-jay-maymi-talk-show/c782d2ed34",
    "titre": "When did solar tax credits end? | The Jay Maymi Talk Show",
    "score_qualite": 72,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/point-of-impact-with-aaron-hale/why-quit-the-marines",
+   "url": "https://listenly.org/podcast-btb/m/point-of-impact-with-aaron-hale/28904cea37",
    "titre": "Why quit the Marines? | Point Of Impact With Aaron Hale",
    "score_qualite": 60,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/engineering-unblocked/how-long-did-swarmias-build-take",
+   "url": "https://listenly.org/podcast-btb/m/engineering-unblocked/8e0a6faf0d",
    "titre": "How long did Swarmia's build take? | Engineering Unblocked",
    "score_qualite": 65,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
    "url": "https://listenly.org/podcast-btb/m/more-than-commas/can-losses-offset-gambling-gains",
@@ -46,23 +56,29 @@
    "score_qualite": 72,
    "source": "mot_cle",
    "http": 200,
+   "existante": true,
+   "noindex": false,
    "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/paid-vocation-with-lupe-prado/when-did-birds-open",
+   "url": "https://listenly.org/podcast-btb/m/paid-vocation-with-lupe-prado/f9b8588cd0",
    "titre": "When did Bird's open? | Paid Vocation with Lupe Prado",
    "score_qualite": 72,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/best-franchise-brands-podcast/what-makes-redbox-unique",
+   "url": "https://listenly.org/podcast-btb/m/best-franchise-brands-podcast/6847ae5310",
    "titre": "What makes Redbox+ unique? | Best Franchise Brands Podcast",
    "score_qualite": 68,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
    "url": "https://listenly.org/podcast-btb/m/more-than-commas/can-gambling-losses-offset-winnings-for-taxes",
@@ -70,15 +86,19 @@
    "score_qualite": 60,
    "source": "mot_cle",
    "http": 200,
+   "existante": true,
+   "noindex": false,
    "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/what-is-attack-surface-management",
+   "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/c9c6a07784",
    "titre": "What is attack surface management? | Federal Tech Podcast",
    "score_qualite": 72,
    "source": "mot_cle",
-   "http": 404,
-   "pret_pour_demande": false
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   },
   {
    "url": "https://listenly.org/podcast-btb/m/southeast-texas-works/how-to-become-a-texas-game-warden",
@@ -86,6 +106,8 @@
    "score_qualite": 56,
    "source": "mot_cle",
    "http": 200,
+   "existante": true,
+   "noindex": false,
    "pret_pour_demande": true
   }
  ],

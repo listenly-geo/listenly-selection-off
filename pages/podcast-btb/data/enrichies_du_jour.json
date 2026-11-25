@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "cles": [
   "3-take-away/6d1a7e7a3e",
-  "the-mel-robbins-podcast/d035335e63",
+  "date-line-nbc/6bcce2ed29",
   "techbytes/dd657fe9b1"
  ],
  "rapport": [
@@ -14,14 +14,20 @@
   },
   {
    "groupe": "connu",
+   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
    "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
    "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
-   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "cle": "the-daily-podcast/c790a2fa36",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -39,14 +45,8 @@
   },
   {
    "groupe": "connu",
-   "cle": "the-daily-podcast/c790a2fa36",
-   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
-   "resultat": "transcription insuffisante"
-  },
-  {
-   "groupe": "connu",
-   "cle": "the-mel-robbins-podcast/d035335e63",
-   "question": "What did Dr. Eric Thomas realize about his wife Didi's sacrifice when she was diagnosed with multiple sclerosis?",
+   "cle": "date-line-nbc/6bcce2ed29",
+   "question": "What evidence did prosecutors present that Andrew Griffin traveled to Ohio to commit the Strushan murders?",
    "resultat": "ok"
   },
   {

@@ -35607,16 +35607,16 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 6,
+"richesse": 20,
 "sujet": 5
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "Dateline NBC",
 "podcast": "date-line-nbc",
 "question": "What evidence did prosecutors present that Andrew Griffin traveled to Ohio to commit the Strushan murders?",
-"score": 56,
-"score_final": 45,
+"score": 70,
+"score_final": 56,
 "t": 1259
 },
 "date-line-nbc/802c1416e0": {
