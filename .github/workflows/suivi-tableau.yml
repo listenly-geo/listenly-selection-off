@@ -1,0 +1,75 @@
+name: Tableau de suivi - mise a jour et mise en ligne (25/11/2026)
+
+# Apres la selection du jour (ou chaque jour a 08h30 Berlin, ou a la main) :
+# 1) ajoute les fiches demandees au suivi, 2) met a jour Reservoir / En cours (les 10 fiches du jour),
+# 3) met a jour le statut Indexe via Search Console SI le secret GSC_SERVICE_ACCOUNT_JSON existe,
+# 4) envoie UNIQUEMENT la page du tableau et ses donnees sur listenly.org (secrets FTP_SERVER / FTP_USERNAME / FTP_PASSWORD).
+on:
+  workflow_dispatch: {}
+  workflow_run:
+    workflows: ["Selection du jour - 10 fiches moment (sans Search Console)"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths: ['pages/podcast-btb/data/index_requests.json']
+  schedule:
+    - cron: '30 7 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi-tableau
+  cancel-in-progress: false
+
+jobs:
+  suivi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q requests google-auth
+      - name: Statut d'indexation (Search Console, si la cle existe)
+        continue-on-error: true
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: |
+          if [ -n "$GSC_SERVICE_ACCOUNT_JSON" ]; then python3 automation/scripts/gsc_pull.py; else echo "Pas de cle Search Console : statut Indexe non mis a jour"; fi
+      - name: Suivi des fiches demandees, Reservoir et En cours
+        run: |
+          python3 automation/scripts/sync_suivi_fiches.py
+          python3 automation/scripts/build_suivi_vues.py
+      - name: Sauvegarde dans le depot
+        run: |
+          git config user.name "marketforge-bot"; git config user.email "bot@listenly.fr"
+          git add pages/podcast-btb/data/suivi_fiches.json pages/podcast-btb/data/suivi_vues.json pages/podcast-btb/data/statut_indexation.json data/gsc || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Tableau de suivi : mise a jour automatique"
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs origin main && git push -q && exit 0; sleep $((i*5)); done
+          exit 1
+      - name: Preparer les fichiers du tableau uniquement
+        run: |
+          mkdir -p _tableau/data
+          cp pages/podcast-btb/suivi-indexation-7hQ2xK9pL4mW.html _tableau/
+          for f in suivi_vues suivi_fiches statut_indexation; do cp pages/podcast-btb/data/$f.json _tableau/data/; done
+      - name: Verifier la presence des acces FTP
+        id: ftp
+        env:
+          S: ${{ secrets.FTP_SERVER }}
+        run: |
+          if [ -n "$S" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; echo "::warning::Secrets FTP absents : le tableau est a jour dans le depot mais pas envoye sur listenly.org"; fi
+      - name: Mise en ligne du tableau (FTP, fichiers du tableau seulement)
+        if: steps.ftp.outputs.ok == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server:    ${{ secrets.FTP_SERVER }}
+          username:  ${{ secrets.FTP_USERNAME }}
+          password:  ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./_tableau/
+          server-dir: /listenly.fr/podcast-btb/
+          state-name: .ftp-deploy-sync-state-tableau.json
