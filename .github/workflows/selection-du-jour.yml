@@ -1,0 +1,40 @@
+name: Selection du jour - 10 fiches moment (sans Search Console)
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '23 6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: selection-du-jour
+  cancel-in-progress: false
+jobs:
+  selection:
+    timeout-minutes: 30
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q requests
+      - name: Note des moments (avant enrichissement)
+        run: python3 automation/scripts/moteur_autonome_moments.py
+      - name: Rallonger la reponse des fiches candidates
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 automation/scripts/enrichir_du_jour.py
+      - name: Note des moments (apres enrichissement)
+        run: python3 automation/scripts/moteur_autonome_moments.py
+      - name: Liste du jour (sans verification Search Console)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 automation/scripts/indexation_du_jour.py
+      - name: Sauvegarde dans le depot
+        run: |
+          git config user.name "selection-bot"; git config user.email "bot@listenly.fr"
+          git add pages/podcast-btb/data
+          git diff --cached --quiet && exit 0
+          git commit -m "Selection du jour : liste des 10 fiches"
+          git push -q origin HEAD:main
