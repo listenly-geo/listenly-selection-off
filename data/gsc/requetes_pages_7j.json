@@ -8,28 +8,12 @@
   "position": 85.8
  },
  {
-  "requete": "office of the cfo",
-  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
-  "clics": 0,
-  "impressions": 7,
-  "ctr": 0,
-  "position": 89.9
- },
- {
   "requete": "b2b brand storytelling",
   "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
   "position": 84.8
- },
- {
-  "requete": "b2b storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 80
  },
  {
   "requete": "we study billionaires podcast",
@@ -40,12 +24,28 @@
   "position": 68.5
  },
  {
+  "requete": "b2b storytelling",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 75.3
+ },
+ {
   "requete": "evaluate the music discovery platforms company spotify on steven bartlett",
   "page": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/9ed9bf7833",
   "clics": 0,
   "impressions": 3,
   "ctr": 0,
   "position": 5.3
+ },
+ {
+  "requete": "office of the cfo",
+  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 83.7
  },
  {
   "requete": "b2b marketing in apac",
@@ -96,20 +96,12 @@
   "position": 86
  },
  {
-  "requete": "janssoone",
-  "page": "https://listenly.org/podcast-btb/in-the-air-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 86
- },
- {
-  "requete": "nyt daily podcast",
+  "requete": "new york times the daily",
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
-  "position": 83
+  "position": 66
  },
  {
   "requete": "podcast about podcasts npr",
@@ -128,14 +120,6 @@
   "position": 71
  },
  {
-  "requete": "road to autonomy youtube",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 93
- },
- {
   "requete": "staffing podcasts",
   "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
   "clics": 0,
@@ -150,21 +134,5 @@
   "impressions": 1,
   "ctr": 0,
   "position": 63
- },
- {
-  "requete": "the road to autonomy",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 29
- },
- {
-  "requete": "the road to autonomy podcast",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 48
  }
 ]

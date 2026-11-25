@@ -3,15 +3,15 @@
   "requete": "b2b brand storytelling",
   "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
-  "impressions": 24,
+  "impressions": 20,
   "ctr": 0,
-  "position": 51.2
+  "position": 56
  },
  {
   "requete": "collective advantage",
   "page": "https://listenly.org/podcast-btb/the-collective-advantage-podcast.html",
   "clics": 0,
-  "impressions": 22,
+  "impressions": 20,
   "ctr": 0,
   "position": 8.7
  },
@@ -19,25 +19,17 @@
   "requete": "commercial real estate investor",
   "page": "https://listenly.org/podcast-btb/the-commercial-real-estate-investor-podc-podcast.html",
   "clics": 0,
-  "impressions": 21,
+  "impressions": 20,
   "ctr": 0,
-  "position": 60.9
+  "position": 62.3
  },
  {
   "requete": "b2b storytelling",
   "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
-  "impressions": 18,
+  "impressions": 16,
   "ctr": 0,
-  "position": 81.1
- },
- {
-  "requete": "grow your law firm",
-  "page": "https://listenly.org/podcast-btb/grow-your-law-firm-podcast.html",
-  "clics": 0,
-  "impressions": 17,
-  "ctr": 0,
-  "position": 29.2
+  "position": 82.8
  },
  {
   "requete": "healthcare ai podcast",
@@ -46,6 +38,14 @@
   "impressions": 14,
   "ctr": 0,
   "position": 73.1
+ },
+ {
+  "requete": "grow your law firm",
+  "page": "https://listenly.org/podcast-btb/grow-your-law-firm-podcast.html",
+  "clics": 0,
+  "impressions": 12,
+  "ctr": 0,
+  "position": 30.8
  },
  {
   "requete": "commercial real estate podcast",
@@ -72,22 +72,6 @@
   "position": 89.9
  },
  {
-  "requete": "the road to autonomy",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
-  "clics": 0,
-  "impressions": 7,
-  "ctr": 0,
-  "position": 25
- },
- {
-  "requete": "vivlio health",
-  "page": "https://listenly.org/podcast-btb/vivlio-health-improving-the-medical-reco-podcast.html",
-  "clics": 0,
-  "impressions": 7,
-  "ctr": 0,
-  "position": 6.4
- },
- {
   "requete": "we study billionaires podcast",
   "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
   "clics": 0,
@@ -104,22 +88,6 @@
   "position": 63.8
  },
  {
-  "requete": "fast money podcast",
-  "page": "https://listenly.org/podcast-btb/cnbc-s-fast-money-podcast.html",
-  "clics": 0,
-  "impressions": 6,
-  "ctr": 0,
-  "position": 28
- },
- {
-  "requete": "rare a l'ecoute",
-  "page": "https://listenly.org/podcast-btb/rare-a-ecoute-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 6,
-  "ctr": 0,
-  "position": 24.5
- },
- {
   "requete": "the investor's podcast",
   "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
   "clics": 0,
@@ -128,20 +96,12 @@
   "position": 90.8
  },
  {
-  "requete": "b2b brand story",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "requete": "vivlio health",
+  "page": "https://listenly.org/podcast-btb/vivlio-health-improving-the-medical-reco-podcast.html",
   "clics": 0,
-  "impressions": 5,
+  "impressions": 6,
   "ctr": 0,
-  "position": 23.2
- },
- {
-  "requete": "big 4 accounting",
-  "page": "https://listenly.org/podcast-btb/the-big-4-accounting-firms-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 5,
-  "ctr": 0,
-  "position": 39.6
+  "position": 5.2
  },
  {
   "requete": "comment le plaidoyer pour les maladies rares peut-il amplifier efficacement les voix sous-représentées dans le secteur de la santé ?",
@@ -168,22 +128,6 @@
   "position": 8.8
  },
  {
-  "requete": "the road to autonomy podcast",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
-  "clics": 0,
-  "impressions": 5,
-  "ctr": 0,
-  "position": 27
- },
- {
-  "requete": "angela duckworth husband",
-  "page": "https://listenly.org/podcast-btb/m/3-take-away/4c372f45cd",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 9.8
- },
- {
   "requete": "apac b2b agency",
   "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
@@ -192,12 +136,28 @@
   "position": 23.2
  },
  {
-  "requete": "construire la wallonie",
-  "page": "https://listenly.org/podcast-btb/construire-la-wallonie-podcast.html",
+  "requete": "b2b brand story",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
-  "position": 5.8
+  "position": 22.5
+ },
+ {
+  "requete": "big 4 accounting",
+  "page": "https://listenly.org/podcast-btb/the-big-4-accounting-firms-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 4,
+  "ctr": 0,
+  "position": 40.5
+ },
+ {
+  "requete": "fast money podcast",
+  "page": "https://listenly.org/podcast-btb/cnbc-s-fast-money-podcast.html",
+  "clics": 0,
+  "impressions": 4,
+  "ctr": 0,
+  "position": 29.2
  },
  {
   "requete": "founder friendly funding features",
@@ -208,28 +168,20 @@
   "position": 7
  },
  {
-  "requete": "janssoone",
-  "page": "https://listenly.org/podcast-btb/in-the-air-podcast.html",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 78
- },
- {
-  "requete": "podcast maladies",
-  "page": "https://listenly.org/podcast-btb/rare-a-ecoute-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 35.8
- },
- {
   "requete": "podsmart marketing for manufacturing",
   "page": "https://listenly.org/podcast-btb/made-to-grow-the-sme-manufacturing-podca-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
   "position": 63.2
+ },
+ {
+  "requete": "rare a l'ecoute",
+  "page": "https://listenly.org/podcast-btb/rare-a-ecoute-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 4,
+  "ctr": 0,
+  "position": 28.2
  },
  {
   "requete": "renewables brand agency",
@@ -240,20 +192,20 @@
   "position": 37.2
  },
  {
-  "requete": "storytelling b2b marketing",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "requete": "the road to autonomy",
+  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
-  "position": 50.5
+  "position": 36.8
  },
  {
-  "requete": "we study billionaires",
-  "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
+  "requete": "the road to autonomy podcast",
+  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
-  "position": 41.5
+  "position": 28
  },
  {
   "requete": "we study markets",
@@ -272,20 +224,20 @@
   "position": 9
  },
  {
-  "requete": "women in utilities",
-  "page": "https://listenly.org/podcast-btb/women-in-utilities-podcast.html",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 19.5
- },
- {
   "requete": "workforce upskilling programs for automotive engineering teams",
   "page": "https://listenly.org/podcast-btb/automotive-engineering-daily-a-workforce-podcast.html",
   "clics": 0,
   "impressions": 4,
   "ctr": 0,
   "position": 9.8
+ },
+ {
+  "requete": "angela duckworth husband",
+  "page": "https://listenly.org/podcast-btb/m/3-take-away/4c372f45cd",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 9.7
  },
  {
   "requete": "apac b2b marketing",
@@ -328,6 +280,14 @@
   "position": 8.7
  },
  {
+  "requete": "construire la wallonie",
+  "page": "https://listenly.org/podcast-btb/construire-la-wallonie-podcast.html",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 5.3
+ },
+ {
   "requete": "enter the polish market with a local b2b partner",
   "page": "https://listenly.org/podcast-btb/architecture-of-sales-enter-polish-b2b-m-podcast.html",
   "clics": 0,
@@ -342,14 +302,6 @@
   "impressions": 3,
   "ctr": 0,
   "position": 5.3
- },
- {
-  "requete": "ey women in utilities",
-  "page": "https://listenly.org/podcast-btb/women-in-utilities-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 18
  },
  {
   "requete": "founder friendly vc",
@@ -384,20 +336,12 @@
   "position": 9.3
  },
  {
-  "requete": "marketing millennials",
-  "page": "https://listenly.org/podcast-btb/the-marketing-millennials-podcast.html",
+  "requete": "janssoone",
+  "page": "https://listenly.org/podcast-btb/in-the-air-podcast.html",
   "clics": 0,
   "impressions": 3,
   "ctr": 0,
-  "position": 83.3
- },
- {
-  "requete": "payroll podcast",
-  "page": "https://listenly.org/podcast-btb/the-payroll-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 42.7
+  "position": 86.3
  },
  {
   "requete": "php tutorial for podcasters",
@@ -416,20 +360,12 @@
   "position": 10
  },
  {
-  "requete": "sme podcast",
-  "page": "https://listenly.org/podcast-btb/made-to-grow-the-sme-manufacturing-podca-podcast.html",
+  "requete": "storytelling b2b marketing",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
   "impressions": 3,
   "ctr": 0,
-  "position": 49.3
- },
- {
-  "requete": "staffing podcasts",
-  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 54.7
+  "position": 54.3
  },
  {
   "requete": "tbpm",
@@ -456,6 +392,14 @@
   "position": 15
  },
  {
+  "requete": "we study billionaires",
+  "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 45
+ },
+ {
   "requete": "zendesk insights",
   "page": "https://listenly.org/podcast/show/zendesk-insights-exploring-the-trends-technologies-and-innovations-shaping-the-future-of-customer-service",
   "clics": 0,
@@ -480,14 +424,6 @@
   "position": 86.5
  },
  {
-  "requete": "b2b tech executive interviews",
-  "page": "https://listenly.org/podcast-btb/leaders-of-b2b-podcast-interviews-on-bus-podcast.html",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 13
- },
- {
   "requete": "big 4 m",
   "page": "https://listenly.org/podcast-btb/the-big-4-accounting-firms-podcast-podcast.html",
   "clics": 0,
@@ -510,22 +446,6 @@
   "impressions": 2,
   "ctr": 0,
   "position": 18.5
- },
- {
-  "requete": "build what's next",
-  "page": "https://listenly.org/podcast-btb/build-what-s-next-digital-product-perspe-podcast.html",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 15.5
- },
- {
-  "requete": "clean energy podcast",
-  "page": "https://listenly.org/podcast/show/clean-energy-podcast",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 45
  },
  {
   "requete": "construction leadership",
@@ -584,12 +504,28 @@
   "position": 6.5
  },
  {
+  "requete": "marketing millennials",
+  "page": "https://listenly.org/podcast-btb/the-marketing-millennials-podcast.html",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 93
+ },
+ {
   "requete": "medtech commercialization podcast",
   "page": "https://listenly.org/podcast-btb/medtech-business-academy-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
   "position": 75.5
+ },
+ {
+  "requete": "new york times the daily",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 81
  },
  {
   "requete": "next gen cmo",
@@ -608,14 +544,6 @@
   "position": 50.5
  },
  {
-  "requete": "npr podcasts",
-  "page": "https://listenly.org/podcast/creator/npr",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 63.5
- },
- {
   "requete": "podcast about podcasts npr",
   "page": "https://listenly.org/podcast/creator/npr",
   "clics": 0,
@@ -624,12 +552,12 @@
   "position": 76
  },
  {
-  "requete": "podcast maladies rares",
+  "requete": "podcast maladies",
   "page": "https://listenly.org/podcast-btb/rare-a-ecoute-podcast-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 64.5
+  "position": 36
  },
  {
   "requete": "rare à l'écoute",
@@ -648,20 +576,20 @@
   "position": 10
  },
  {
-  "requete": "road to autonomy youtube",
-  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
+  "requete": "sme podcast",
+  "page": "https://listenly.org/podcast-btb/made-to-grow-the-sme-manufacturing-podca-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 53.5
+  "position": 58.5
  },
  {
-  "requete": "slow marketing",
-  "page": "https://listenly.org/podcast-btb/slow-marketing-le-podcast-des-cmo-a-impact-podcast.html",
+  "requete": "staffing podcasts",
+  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 39
+  "position": 57.5
  },
  {
   "requete": "tbpn podcast",
@@ -704,12 +632,12 @@
   "position": 26
  },
  {
-  "requete": "women in power and utilities",
+  "requete": "women in utilities",
   "page": "https://listenly.org/podcast-btb/women-in-utilities-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 25
+  "position": 19.5
  },
  {
   "requete": "\"laurel mintz\"",
@@ -776,14 +704,6 @@
   "position": 18
  },
  {
-  "requete": "b2b brand storytelling",
-  "page": "https://listenly.org/podcast/show/storydriven-marketing-the-b2b-brand-storytelling-podcast",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 46
- },
- {
   "requete": "b2b content marketing apac",
   "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
@@ -816,12 +736,12 @@
   "position": 36
  },
  {
-  "requete": "best diversity podcasts",
-  "page": "https://listenly.org/podcast-btb/the-top-5-dei-podcast-podcast.html",
+  "requete": "b2b tech executive interviews",
+  "page": "https://listenly.org/podcast-btb/leaders-of-b2b-podcast-interviews-on-bus-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
-  "position": 67
+  "position": 14
  },
  {
   "requete": "best of the best podcast",
@@ -832,22 +752,6 @@
   "position": 6
  },
  {
-  "requete": "beyond fulfillment podcast",
-  "page": "https://listenly.org/podcast-btb/beyond-fulfillment-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 10
- },
- {
-  "requete": "black rock podcast",
-  "page": "https://listenly.org/podcast-btb/the-bid-an-investing-podcast-from-blackr-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 22
- },
- {
   "requete": "brand storytelling for b2b",
   "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
@@ -856,12 +760,28 @@
   "position": 58
  },
  {
+  "requete": "build what's next",
+  "page": "https://listenly.org/podcast-btb/build-what-s-next-digital-product-perspe-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 16
+ },
+ {
   "requete": "changingenergy-ltd",
   "page": "https://listenly.org/podcast-btb/changing-energy-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 4
+ },
+ {
+  "requete": "clean energy podcast",
+  "page": "https://listenly.org/podcast/show/clean-energy-podcast",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 44
  },
  {
   "requete": "cmo podcast",
@@ -918,6 +838,14 @@
   "impressions": 1,
   "ctr": 0,
   "position": 59
+ },
+ {
+  "requete": "ey women in utilities",
+  "page": "https://listenly.org/podcast-btb/women-in-utilities-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 25
  },
  {
   "requete": "founder friendly funding",
@@ -992,30 +920,6 @@
   "position": 4
  },
  {
-  "requete": "housing experts podcast",
-  "page": "https://listenly.org/podcast/category/immobilier",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 16
- },
- {
-  "requete": "ideal room temperature for toddler",
-  "page": "https://listenly.org/podcast-btb/m/the-toddle-about-show/ca6f9f1469",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 15
- },
- {
-  "requete": "ideal sleeping temperature for toddler",
-  "page": "https://listenly.org/podcast-btb/m/the-toddle-about-show/ca6f9f1469",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 22
- },
- {
   "requete": "industry animation",
   "page": "https://listenly.org/podcast-btb/animation-industry-podcast-podcast.html",
   "clics": 0,
@@ -1046,14 +950,6 @@
   "impressions": 1,
   "ctr": 0,
   "position": 9
- },
- {
-  "requete": "john coogan jordi hayes",
-  "page": "https://listenly.org/podcast-btb/tbpn-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 35
  },
  {
   "requete": "jordi hays wikipedia",
@@ -1112,14 +1008,6 @@
   "position": 55
  },
  {
-  "requete": "mining leadership",
-  "page": "https://listenly.org/podcast-btb/hearts-mines-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 27
- },
- {
   "requete": "nathan chan foundr",
   "page": "https://listenly.org/podcast-btb/the-foundr-podcast-with-nathan-chan-podcast.html",
   "clics": 0,
@@ -1144,14 +1032,6 @@
   "position": 23
  },
  {
-  "requete": "new york times the daily",
-  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 96
- },
- {
   "requete": "nextgen cmo academy",
   "page": "https://listenly.org/podcast-btb/the-next-cmo-podcast.html",
   "clics": 0,
@@ -1166,6 +1046,14 @@
   "impressions": 1,
   "ctr": 0,
   "position": 95
+ },
+ {
+  "requete": "npr podcasts",
+  "page": "https://listenly.org/podcast/creator/npr",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 82
  },
  {
   "requete": "ny times michael barbaro",
@@ -1200,20 +1088,28 @@
   "position": 28
  },
  {
-  "requete": "nytimes the daily",
-  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 92
- },
- {
   "requete": "optimal sleeping temperature for toddlers",
   "page": "https://listenly.org/podcast-btb/m/the-toddle-about-show/ca6f9f1469",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 30
+ },
+ {
+  "requete": "payroll podcast",
+  "page": "https://listenly.org/podcast-btb/the-payroll-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 45
+ },
+ {
+  "requete": "podcast maladies rares",
+  "page": "https://listenly.org/podcast-btb/rare-a-ecoute-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 93
  },
  {
   "requete": "pophatch",
@@ -1224,28 +1120,12 @@
   "position": 26
  },
  {
-  "requete": "property coach",
-  "page": "https://listenly.org/podcast-btb/the-property-couch-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 11
- },
- {
   "requete": "raise podcast",
   "page": "https://listenly.org/podcast-btb/raise-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 65
- },
- {
-  "requete": "rapid response podcast",
-  "page": "https://listenly.org/podcast/show/rapid-response",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 30
  },
  {
   "requete": "richard triggs podcast",
@@ -1262,6 +1142,14 @@
   "impressions": 1,
   "ctr": 0,
   "position": 8
+ },
+ {
+  "requete": "road to autonomy youtube",
+  "page": "https://listenly.org/podcast-btb/the-road-to-autonomy-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 93
  },
  {
   "requete": "robot industry",
@@ -1304,6 +1192,14 @@
   "position": 7
  },
  {
+  "requete": "slow marketing",
+  "page": "https://listenly.org/podcast-btb/slow-marketing-le-podcast-des-cmo-a-impact-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 37
+ },
+ {
   "requete": "sme production",
   "page": "https://listenly.org/podcast-btb/made-to-grow-the-sme-manufacturing-podca-podcast.html",
   "clics": 0,
@@ -1326,22 +1222,6 @@
   "impressions": 1,
   "ctr": 0,
   "position": 24
- },
- {
-  "requete": "springfield restaurant group owner",
-  "page": "https://listenly.org/podcast-btb/restaurant-influencers-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 37
- },
- {
-  "requete": "storytelling b2b",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 78
  },
  {
   "requete": "talent buzz",
@@ -1382,14 +1262,6 @@
   "impressions": 1,
   "ctr": 0,
   "position": 78
- },
- {
-  "requete": "the distribution podcast",
-  "page": "https://listenly.org/podcast-btb/the-distribution-by-juniper-square-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 8
  },
  {
   "requete": "the foundr podcast",
@@ -1448,28 +1320,12 @@
   "position": 9
  },
  {
-  "requete": "who owns late july snacks",
-  "page": "https://listenly.org/podcast-btb/m/how-i-built-this-with-guy-raz/ee6ef1e4a5",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 30
- },
- {
   "requete": "why does the federal reserve meet in jackson hole",
   "page": "https://listenly.org/podcast-btb/m/morning-brew-daily/401792ffbf",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 8
- },
- {
-  "requete": "wise content",
-  "page": "https://listenly.org/podcast/show/wise-content-creates-wealth",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 10
  },
  {
   "requete": "yield asset management",

@@ -1022,6 +1022,13 @@
   "position": 75.5
  },
  {
+  "requete": "new york times the daily",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 81
+ },
+ {
   "requete": "next gen cmo",
   "clics": 0,
   "impressions": 2,
@@ -1923,13 +1930,6 @@
   "impressions": 1,
   "ctr": 0,
   "position": 23
- },
- {
-  "requete": "new york times the daily",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 96
  },
  {
   "requete": "nextgen cmo academy",
