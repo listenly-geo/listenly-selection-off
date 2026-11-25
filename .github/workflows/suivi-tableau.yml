@@ -64,7 +64,9 @@ jobs:
         run: |
           if [ -n "$S" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; echo "::warning::Secrets FTP_USERNAME / FTP_PASSWORD absents : le tableau est a jour dans le depot mais pas envoye sur listenly.org"; fi
       - name: Mise en ligne du tableau (FTP, fichiers du tableau seulement)
+        id: ftpdeploy
         if: steps.ftp.outputs.ok == 'true'
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server:    ${{ secrets.FTP_SERVER || 'pendule.o2switch.net' }}   # 25/11/2026 : serveur par defaut (le port 2083 est celui de cPanel, pas du FTP)
@@ -75,3 +77,10 @@ jobs:
           state-name: .ftp-deploy-sync-state-tableau.json
           protocol: ftps
           security: loose
+      - name: Mise en ligne du tableau par cPanel (si le FTP est refuse)
+        if: steps.ftpdeploy.outcome != 'success'
+        env:
+          CPANEL_USER: ${{ secrets.CPANEL_USER }}
+          CPANEL_TOKEN: ${{ secrets.CPANEL_TOKEN }}
+          CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
+        run: python3 automation/scripts/deploy_tableau_cpanel.py
