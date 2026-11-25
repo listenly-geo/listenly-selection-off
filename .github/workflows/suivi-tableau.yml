@@ -17,6 +17,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: suivi-tableau
@@ -84,3 +86,29 @@ jobs:
           CPANEL_TOKEN: ${{ secrets.CPANEL_TOKEN }}
           CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
         run: python3 automation/scripts/deploy_tableau_cpanel.py
+
+  pages:
+    # 25/11/2026 : hebergement du tableau sur GitHub Pages (sans FTP). Necessite Settings > Pages > Source = GitHub Actions.
+    needs: suivi
+    if: always() && needs.suivi.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fichiers du tableau
+        run: |
+          mkdir -p _site/data
+          cp pages/podcast-btb/suivi-indexation-7hQ2xK9pL4mW.html _site/
+          cp pages/podcast-btb/suivi-indexation-7hQ2xK9pL4mW.html _site/index.html
+          for f in suivi_vues suivi_fiches statut_indexation; do cp pages/podcast-btb/data/$f.json _site/data/; done
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
