@@ -3,7 +3,7 @@ name: Tableau de suivi - mise a jour et mise en ligne (25/11/2026)
 # Apres la selection du jour (ou chaque jour a 08h30 Berlin, ou a la main) :
 # 1) ajoute les fiches demandees au suivi, 2) met a jour Reservoir / En cours (les 10 fiches du jour),
 # 3) met a jour le statut Indexe via Search Console SI le secret GSC_SERVICE_ACCOUNT_JSON existe,
-# 4) envoie UNIQUEMENT la page du tableau et ses donnees sur listenly.org (secrets FTP_SERVER / FTP_USERNAME / FTP_PASSWORD).
+# 4) envoie UNIQUEMENT la page du tableau et ses donnees sur listenly.org (serveur pendule.o2switch.net ; secrets FTP_USERNAME / FTP_PASSWORD, FTP_SERVER facultatif).
 on:
   workflow_dispatch: {}
   workflow_run:
@@ -60,14 +60,14 @@ jobs:
       - name: Verifier la presence des acces FTP
         id: ftp
         env:
-          S: ${{ secrets.FTP_SERVER }}
+          S: ${{ secrets.FTP_USERNAME }}
         run: |
-          if [ -n "$S" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; echo "::warning::Secrets FTP absents : le tableau est a jour dans le depot mais pas envoye sur listenly.org"; fi
+          if [ -n "$S" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; echo "::warning::Secrets FTP_USERNAME / FTP_PASSWORD absents : le tableau est a jour dans le depot mais pas envoye sur listenly.org"; fi
       - name: Mise en ligne du tableau (FTP, fichiers du tableau seulement)
         if: steps.ftp.outputs.ok == 'true'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server:    ${{ secrets.FTP_SERVER }}
+          server:    ${{ secrets.FTP_SERVER || 'pendule.o2switch.net' }}   # 25/11/2026 : serveur par defaut (le port 2083 est celui de cPanel, pas du FTP)
           username:  ${{ secrets.FTP_USERNAME }}
           password:  ${{ secrets.FTP_PASSWORD }}
           local-dir: ./_tableau/
