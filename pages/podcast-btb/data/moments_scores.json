@@ -1027,7 +1027,7 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 6,
+"richesse": 11,
 "sujet": 5
 },
 "gate": false,
@@ -1035,8 +1035,8 @@
 "nom": "3 Takeaways™",
 "podcast": "3-take-away",
 "question": "How did Chicago public school teachers cheat on No Child Left Behind tests and what did this reveal?",
-"score": 56,
-"score_final": 45,
+"score": 61,
+"score_final": 49,
 "t": 400
 },
 "3-take-away/6eda23f533": {
@@ -107827,16 +107827,16 @@
 "credibilite": 15,
 "forme": 5,
 "maillage": 10,
-"richesse": 8,
-"sujet": 5
+"richesse": 20,
+"sujet": 15
 },
 "gate": false,
 "impressions": 0,
 "nom": "TechBytes",
 "podcast": "techbytes",
 "question": "What is Jack's Family Restaurants and how many locations does it operate?",
-"score": 43,
-"score_final": 34,
+"score": 65,
+"score_final": 52,
 "t": 104
 },
 "techbytes/df3b0f941d": {
@@ -126207,7 +126207,7 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 6,
+"richesse": 15,
 "sujet": 5
 },
 "gate": false,
@@ -126215,8 +126215,8 @@
 "nom": "The Mel Robbins Podcast",
 "podcast": "the-mel-robbins-podcast",
 "question": "How should women who fear disappointing their family by stopping caregiving duties respond, according to Dr. Eric Thomas?",
-"score": 56,
-"score_final": 45,
+"score": 65,
+"score_final": 52,
 "t": 1096
 },
 "the-mel-robbins-podcast/e86eb12ca4": {

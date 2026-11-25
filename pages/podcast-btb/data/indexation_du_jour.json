@@ -6,18 +6,38 @@
   "mot_cle": 10
  },
  "selection": "note seule (volumes non a jour, Keyword Planner en echec)",
- "pretes": 9,
+ "pretes": 3,
  "urls": [
   {
-   "url": "https://listenly.org/podcast-btb/m/the-retirement-ready-show/revocable-vs-irrevocable-trust",
-   "titre": "Revocable vs irrevocable trust? | Listenly",
-   "score_qualite": 57,
+   "url": "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/how-does-ca-insurance-affect-home-sales",
+   "titre": "How does CA insurance affect home sales? | Kern County",
+   "score_qualite": 65,
    "source": "mot_cle",
    "http": 404,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
+   "pret_pour_demande": false
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/the-jay-maymi-talk-show/when-did-solar-tax-credits-end",
+   "titre": "When did solar tax credits end? | The Jay Maymi Talk Show",
+   "score_qualite": 72,
+   "source": "mot_cle",
+   "http": 404,
+   "pret_pour_demande": false
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/point-of-impact-with-aaron-hale/why-quit-the-marines",
+   "titre": "Why quit the Marines? | Point Of Impact With Aaron Hale",
+   "score_qualite": 60,
+   "source": "mot_cle",
+   "http": 404,
+   "pret_pour_demande": false
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/engineering-unblocked/how-long-did-swarmias-build-take",
+   "titre": "How long did Swarmia's build take? | Engineering Unblocked",
+   "score_qualite": 65,
+   "source": "mot_cle",
+   "http": 404,
    "pret_pour_demande": false
   },
   {
@@ -26,11 +46,23 @@
    "score_qualite": 72,
    "source": "mot_cle",
    "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
    "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/paid-vocation-with-lupe-prado/when-did-birds-open",
+   "titre": "When did Bird's open? | Paid Vocation with Lupe Prado",
+   "score_qualite": 72,
+   "source": "mot_cle",
+   "http": 404,
+   "pret_pour_demande": false
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/best-franchise-brands-podcast/what-makes-redbox-unique",
+   "titre": "What makes Redbox+ unique? | Best Franchise Brands Podcast",
+   "score_qualite": 68,
+   "source": "mot_cle",
+   "http": 404,
+   "pret_pour_demande": false
   },
   {
    "url": "https://listenly.org/podcast-btb/m/more-than-commas/can-gambling-losses-offset-winnings-for-taxes",
@@ -38,11 +70,15 @@
    "score_qualite": 60,
    "source": "mot_cle",
    "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
    "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/what-is-attack-surface-management",
+   "titre": "What is attack surface management? | Federal Tech Podcast",
+   "score_qualite": 72,
+   "source": "mot_cle",
+   "http": 404,
+   "pret_pour_demande": false
   },
   {
    "url": "https://listenly.org/podcast-btb/m/southeast-texas-works/how-to-become-a-texas-game-warden",
@@ -50,140 +86,8 @@
    "score_qualite": 56,
    "source": "mot_cle",
    "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/insight-out-big-ideas-decoded/heart-rate-variability-and-stress",
-   "titre": "Heart rate variability and stress? | Listenly",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/msp-unplugged/can-msps-win-with-human-risk-management",
-   "titre": "Can MSPs win with human risk management? | MSP Unplugged",
-   "score_qualite": 94,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/small-business-finance-your-guide-to-bus/how-do-s-corp-owners-use-self-rental-strategy",
-   "titre": "How do S-Corp owners build real estate equity? | Listenly",
-   "score_qualite": 83,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/beyond-luxury/can-luxury-brands-build-real-culture",
-   "titre": "Can luxury brands build real culture? | Beyond Luxury",
-   "score_qualite": 82,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/why-do-advisors-shun-alternatives",
-   "titre": "Why do advisors shun alternatives? | Commercially Speaking",
-   "score_qualite": 82,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/empowering-industry-podcast-a-production/how-do-professional-networks-solve-logistics",
-   "titre": "How do professional networks solve logistics? | Listenly",
-   "score_qualite": 82,
-   "source": "mot_cle",
-   "http": 200,
-   "verdict": "NEUTRAL",
-   "etat": "URL is unknown to Google",
-   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
-   "indexation_bloquee": "INDEXING_STATE_UNSPECIFIED",
    "pret_pour_demande": true
   }
  ],
- "ecartees_sens_recherche": [
-  {
-   "cle": "the-jay-maymi-talk-show/c782d2ed34",
-   "titre": "When did solar tax credits end? | The Jay Maymi Talk Show",
-   "raison": "La question dépend du contexte d'un épisode spécifique et repose sur des détails localisés (impact au Texas). Elle n'est pas générale et n'est pas utile de manière durable - elle mélange un fait histo"
-  },
-  {
-   "cle": "point-of-impact-with-aaron-hale/28904cea37",
-   "titre": "Why quit the Marines? | Point Of Impact With Aaron Hale",
-   "raison": "La page dépend d'une personne peu connue du public (Jon Sheldon). Sans contexte de l'épisode, un inconnu ne chercherait pas spécifiquement 'Why quit the Marines' en rapport avec cet individu particuli"
-  },
-  {
-   "cle": "engineering-unblocked/8e0a6faf0d",
-   "titre": "How long did Swarmia's build take? | Engineering Unblocked",
-   "raison": "Swarmia est une petite entreprise peu connue du grand public. La question porte sur un détail spécifique et privé de cette entreprise (durée de construction d'une intégration), pas sur un sujet durabl"
-  },
-  {
-   "cle": "paid-vocation-with-lupe-prado/f9b8588cd0",
-   "titre": "When did Bird's open? | Paid Vocation with Lupe Prado",
-   "raison": "Bird's Bookstore est une petite entreprise locale peu connue du public, pas une marque célèbre. La question porte sur un fait historique spécifique et anecdotique (date d'ouverture) plutôt que sur un "
-  },
-  {
-   "cle": "best-franchise-brands-podcast/6847ae5310",
-   "titre": "What makes Redbox+ unique? | Best Franchise Brands Podcast",
-   "raison": "La question originale porte sur Kaizen et son application par Sean Foley chez Redbox+ Dumpsters. Le titre actuel est vague et ne reflète pas le contenu réel. De plus, Redbox+ Dumpsters est une petite "
-  },
-  {
-   "cle": "extropy-on-air-finance-transformation-ap/3bd756b678",
-   "titre": "Skills leaders need digital transformation? | Listenly",
-   "raison": "Le titre actuel est vague et mal formulé. La question originale porte spécifiquement sur les LACUNES/MANQUES de compétences, pas simplement sur les compétences nécessaires. Le titre doit clarifier ce  (titre clair impossible en 58 caracteres)"
-  },
-  {
-   "cle": "lcr-media-podcast/b5d5d43569",
-   "titre": "Can owners close for conferences? | LCR Media Podcast",
-   "raison": "Le titre actuel est vague et ne reflète pas clairement le sujet. La question originale porte sur la communication de congés professionnels, pas simplement sur la fermeture. Un titre plus clair et plus (titre clair impossible en 58 caracteres)"
-  },
-  {
-   "cle": "the-astonishing-healthcare-podcast/4a05f2ea68",
-   "titre": "Why validate claims data for drug pricing? | Healthcare",
-   "raison": "Le titre actuel est trop vague et technique. Il suppose une connaissance du contexte (fichiers de transparence tarifaire, données de réclamations). Un étranger ne chercherait pas exactement cette ques (titre clair impossible en 58 caracteres)"
-  },
-  {
-   "cle": "billion-dollar-backstory/c1e329b50c",
-   "titre": "Relationship roles equal PMs? | Billion Dollar Backstory",
-   "raison": "Le titre actuel est vague et incompréhensible hors contexte (« Relationship roles equal PMs? »). La question originale porte sur un conseil d'investissement stratégique pour les gestionnaires d'actifs (titre clair impossible en 58 caracteres)"
-  },
-  {
-   "cle": "extropy-on-air-finance-transformation-ap/0a55250484",
-   "titre": "Why finance teams need peer communities? | Listenly",
-   "raison": "Le titre est vague et perd le contexte important de la transformation numérique. La question originale est plus spécifique et utile pour une recherche Google. Le titre actuel ne montre pas clairement  (titre clair impossible en 58 caracteres)"
-  },
-  {
-   "cle": "the-josh-bersin-podcast/616e46088f",
-   "titre": "How do teams shift to AI-driven performance? | Bersin",
-   "raison": "Le titre actuel est trop vague ('How do teams shift to AI-driven performance?'). Il perd le contexte spécifique de la question originale (passage de la formation traditionnelle à l'AI dans le flux de  (titre clair impossible en 58 caracteres)"
-  }
- ]
+ "ecartees_sens_recherche": []
 }

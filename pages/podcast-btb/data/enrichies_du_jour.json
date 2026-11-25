@@ -1,8 +1,9 @@
 {
  "date": "2026-11-25",
  "cles": [
-  "the-retirement-ready-show/8993dac98b",
-  "the-entrepreneurial-strategy-series/3f1027a4ca"
+  "3-take-away/6d1a7e7a3e",
+  "the-mel-robbins-podcast/e0fb589281",
+  "techbytes/dd657fe9b1"
  ],
  "rapport": [
   {
@@ -25,9 +26,28 @@
   },
   {
    "groupe": "connu",
-   "cle": "how-i-built-this-with-guy-raz/4c0330f93f",
-   "question": "What was the key difference between Dell computers and IBM computers in the mid-1980s?",
+   "cle": "the-daily-podcast/c790a2fa36",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
    "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "the-bob-lefsetz-podcast/e6810db1d5",
+   "question": "When did Val Garay leave Stanford School of Medicine to pursue music?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "3-take-away/6d1a7e7a3e",
+   "question": "How did Chicago public school teachers cheat on No Child Left Behind tests and what did this reveal?",
+   "resultat": "ok",
+   "titre": "Chicago teachers cheating NCLB tests? | 3 Takeaways™"
+  },
+  {
+   "groupe": "connu",
+   "cle": "the-mel-robbins-podcast/e0fb589281",
+   "question": "How should women who fear disappointing their family by stopping caregiving duties respond, according to Dr. Eric Thomas?",
+   "resultat": "ok"
   },
   {
    "groupe": "mot_cle",
@@ -49,6 +69,12 @@
   },
   {
    "groupe": "mot_cle",
+   "cle": "the-integration-hub/5d2bc14a8f",
+   "question": "What is the main thesis of 'The Comfort Crisis' by Michael Easter according to Dave Finnegan?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
    "cle": "the-campaign-a-marketing-podcast-by-97th/225a09e8b9",
    "question": "Why should marketers adopt short-form video as their primary creative practice in the zero click era?",
    "resultat": "transcription insuffisante"
@@ -61,15 +87,8 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "the-retirement-ready-show/8993dac98b",
-   "question": "What is the difference between a revocable trust and an irrevocable trust?",
-   "resultat": "ok",
-   "titre": "Revocable vs irrevocable trust? | Listenly"
-  },
-  {
-   "groupe": "mot_cle",
-   "cle": "the-entrepreneurial-strategy-series/3f1027a4ca",
-   "question": "What are the four main types of intellectual property and how do they differ?",
+   "cle": "techbytes/dd657fe9b1",
+   "question": "What is Jack's Family Restaurants and how many locations does it operate?",
    "resultat": "ok"
   }
  ]
