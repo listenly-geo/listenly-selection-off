@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "cles": [
   "3-take-away/6d1a7e7a3e",
-  "the-mel-robbins-podcast/e0fb589281",
+  "the-mel-robbins-podcast/d035335e63",
   "techbytes/dd657fe9b1"
  ],
  "rapport": [
@@ -14,20 +14,14 @@
   },
   {
    "groupe": "connu",
-   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
-   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
-   "resultat": "transcription insuffisante"
-  },
-  {
-   "groupe": "connu",
    "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
    "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "the-daily-podcast/c790a2fa36",
-   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -45,8 +39,14 @@
   },
   {
    "groupe": "connu",
-   "cle": "the-mel-robbins-podcast/e0fb589281",
-   "question": "How should women who fear disappointing their family by stopping caregiving duties respond, according to Dr. Eric Thomas?",
+   "cle": "the-daily-podcast/c790a2fa36",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "the-mel-robbins-podcast/d035335e63",
+   "question": "What did Dr. Eric Thomas realize about his wife Didi's sacrifice when she was diagnosed with multiple sclerosis?",
    "resultat": "ok"
   },
   {
@@ -89,7 +89,8 @@
    "groupe": "mot_cle",
    "cle": "techbytes/dd657fe9b1",
    "question": "What is Jack's Family Restaurants and how many locations does it operate?",
-   "resultat": "ok"
+   "resultat": "ok",
+   "titre": "How many Jack's Family Restaurants locations? | Listenly"
   }
  ]
 }

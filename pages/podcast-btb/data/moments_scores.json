@@ -126167,7 +126167,7 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 6,
+"richesse": 15,
 "sujet": 5
 },
 "gate": false,
@@ -126175,8 +126175,8 @@
 "nom": "The Mel Robbins Podcast",
 "podcast": "the-mel-robbins-podcast",
 "question": "What did Dr. Eric Thomas realize about his wife Didi's sacrifice when she was diagnosed with multiple sclerosis?",
-"score": 56,
-"score_final": 45,
+"score": 65,
+"score_final": 52,
 "t": 767
 },
 "the-mel-robbins-podcast/da511dfca6": {
