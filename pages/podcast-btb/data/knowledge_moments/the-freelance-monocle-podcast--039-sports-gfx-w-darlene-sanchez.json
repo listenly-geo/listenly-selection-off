@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "The Freelance Monocle Podcast",
+    "episode_title": "039 - Sports GFX w/ Darlene Sanchez",
+    "audio_url": "https://anchor.fm/s/116c96604/podcast/play/125108766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431053520-44100-2-a6b29ed5a21f7.mp3",
+    "question": "What tools does Darlene Sanchez use for creating Tampa Bay Lightning venue graphics?",
+    "transcript_excerpt": "After Effects is the primary tool used hands down because in a fast-paced environment you do not always have time to be in C4D and have to move quick inside After Effects. Animation Composer was very popular and used frequently. For more complex 3D work, she uses Cinema 4D with plugins like Grayscale Gorilla for quick lighting and texturing, then brings it into After Effects as a PNG.",
+    "expert_name": "Darlene Sanchez",
+    "start_seconds": 403,
+    "end_seconds": 574
+  },
+  {
+    "podcast_name": "The Freelance Monocle Podcast",
+    "episode_title": "039 - Sports GFX w/ Darlene Sanchez",
+    "audio_url": "https://anchor.fm/s/116c96604/podcast/play/125108766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431053520-44100-2-a6b29ed5a21f7.mp3",
+    "question": "How did Darlene Sanchez use AI tools to speed up cannon animation for the NHL Stadium Series?",
+    "transcript_excerpt": "She customized a 3D cannon model in Substance Painter to match the graphics package, then used Envato to generate the cannon fire animation rather than animate it manually. She composited the isolated cannon fire and looped it, which allowed her to add it to different places on the LED ribbons and main boards with a fraction of the time it would have taken to animate it completely.",
+    "expert_name": "Darlene Sanchez",
+    "start_seconds": 883,
+    "end_seconds": 1030
+  },
+  {
+    "podcast_name": "The Freelance Monocle Podcast",
+    "episode_title": "039 - Sports GFX w/ Darlene Sanchez",
+    "audio_url": "https://anchor.fm/s/116c96604/podcast/play/125108766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431053520-44100-2-a6b29ed5a21f7.mp3",
+    "question": "What was the attendance difference between the NHL Stadium Series game in Tampa Bay versus a regular arena?",
+    "transcript_excerpt": "The game went from 20,000 fans in a regular arena to 60,000 fans in attendance at the outdoor stadium for the Tampa Bay Lightning versus Boston Bruins NHL Stadium Series game.",
+    "expert_name": "Darlene Sanchez",
+    "start_seconds": 498,
+    "end_seconds": 641
+  },
+  {
+    "podcast_name": "The Freelance Monocle Podcast",
+    "episode_title": "039 - Sports GFX w/ Darlene Sanchez",
+    "audio_url": "https://anchor.fm/s/116c96604/podcast/play/125108766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431053520-44100-2-a6b29ed5a21f7.mp3",
+    "question": "How many different aspect ratios did Darlene Sanchez need to design graphics for at Tampa Bay Lightning?",
+    "transcript_excerpt": "She had to design for nine to twelve different ratios, which was significantly more challenging than the standard 16 by 9 ratio used for normal productions, since the graphics had to work across all the LEDs and boards inside the building.",
+    "expert_name": "Darlene Sanchez",
+    "start_seconds": 108,
+    "end_seconds": 306
+  },
+  {
+    "podcast_name": "The Freelance Monocle Podcast",
+    "episode_title": "039 - Sports GFX w/ Darlene Sanchez",
+    "audio_url": "https://anchor.fm/s/116c96604/podcast/play/125108766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431053520-44100-2-a6b29ed5a21f7.mp3",
+    "question": "What was the typical workload and hours for Darlene Sanchez during Tampa Bay Lightning seasons?",
+    "transcript_excerpt": "She wanted 60 to 80 hours of work during peak seasons. Project turnarounds varied from a few days or a month or two depending on playoff progression, to some projects that were turn and burn situations that had to go live at 7 p.m. the same day.",
+    "expert_name": "Darlene Sanchez",
+    "start_seconds": 363,
+    "end_seconds": 499
+  }
+]

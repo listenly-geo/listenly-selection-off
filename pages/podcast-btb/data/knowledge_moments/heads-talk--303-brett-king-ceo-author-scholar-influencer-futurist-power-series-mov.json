@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Heads Talk ®",
+    "episode_title": "303 - Brett King, CEO, Author, Scholar, Influencer, Futurist: Power Series, Moven - On Whose Account?",
+    "audio_url": "https://www.buzzsprout.com/1431250/episodes/19852034-303-brett-king-ceo-author-scholar-influencer-futurist-power-series-moven-on-whose-account.mp3",
+    "question": "What is Bank 5.0 and how does agentic banking represent a fundamental shift from traditional banking?",
+    "transcript_excerpt": "Bank 5.0 represents the biggest change in banking since the Medici's in the 14th century. Banking moves beyond human limits, with humans no longer being the primary customer of the financial system. Instead of everything being engineered for a human signature on a piece of paper at the end of the chain, the new financial system will be geared towards agentic operation. This requires a fit-for-purpose financial system designed for AI agents conducting business and commerce at machine speed and scale.",
+    "expert_name": "Brett King",
+    "start_seconds": 370,
+    "end_seconds": 605
+  },
+  {
+    "podcast_name": "Heads Talk ®",
+    "episode_title": "303 - Brett King, CEO, Author, Scholar, Influencer, Futurist: Power Series, Moven - On Whose Account?",
+    "audio_url": "https://www.buzzsprout.com/1431250/episodes/19852034-303-brett-king-ceo-author-scholar-influencer-futurist-power-series-moven-on-whose-account.mp3",
+    "question": "What is agentic regulation and why is it necessary for financial system stability with AI agents?",
+    "transcript_excerpt": "Agentic regulation is a supervisory layer built into the orchestration layer of every bank to supervise agentic behavior from a regulatory perspective. Without that architecture in place, we will see fraud, hacking of banks, and manipulation of the market at a scale never seen before. The first requirement is identity infrastructure for machines so that agents have credentials like passports and driver's licenses, allowing regulators to know that an agent truly represents you and has your authority to operate financially.",
+    "expert_name": "Brett King",
+    "start_seconds": 703,
+    "end_seconds": 950
+  },
+  {
+    "podcast_name": "Heads Talk ®",
+    "episode_title": "303 - Brett King, CEO, Author, Scholar, Influencer, Futurist: Power Series, Moven - On Whose Account?",
+    "audio_url": "https://www.buzzsprout.com/1431250/episodes/19852034-303-brett-king-ceo-author-scholar-influencer-futurist-power-series-moven-on-whose-account.mp3",
+    "question": "How many AI agents does Brett King estimate will be active in business by 2030?",
+    "transcript_excerpt": "According to estimates in Bank 5.0, the mean estimate is somewhere around 10 billion agents actively involved in business by 2030, with upper estimates reaching north of 15 to 20 billion agents. This means there will be more agents than humans in the system, which is why the volume of agentic swarms could cause unprecedented chaos if the financial system is not properly regulated and architected.",
+    "expert_name": "Brett King",
+    "start_seconds": 745,
+    "end_seconds": 920
+  },
+  {
+    "podcast_name": "Heads Talk ®",
+    "episode_title": "303 - Brett King, CEO, Author, Scholar, Influencer, Futurist: Power Series, Moven - On Whose Account?",
+    "audio_url": "https://www.buzzsprout.com/1431250/episodes/19852034-303-brett-king-ceo-author-scholar-influencer-futurist-power-series-moven-on-whose-account.mp3",
+    "question": "Why is AI fundamentally incompatible with capitalism according to Brett King?",
+    "transcript_excerpt": "When AI gets up to speed, essentially it is going to break capitalism. We need new economic language and new means of value exchange that will emerge beyond money, taking us into new value systems as a species. Capitalism and AI are not compatible in the medium term, which is why Bank 6.0 will likely delve into what the means of value exchange will be beyond traditional money.",
+    "expert_name": "Brett King",
+    "start_seconds": 512,
+    "end_seconds": 747
+  },
+  {
+    "podcast_name": "Heads Talk ®",
+    "episode_title": "303 - Brett King, CEO, Author, Scholar, Influencer, Futurist: Power Series, Moven - On Whose Account?",
+    "audio_url": "https://www.buzzsprout.com/1431250/episodes/19852034-303-brett-king-ceo-author-scholar-influencer-futurist-power-series-moven-on-whose-account.mp3",
+    "question": "What example does Brett King give of AI agents already overwhelming infrastructure at scale?",
+    "transcript_excerpt": "Personal AI agents like Muse, Instinct, Tab, and GrokBot are being used by people, particularly in Silicon Valley, to book restaurants. The volume of agents requesting restaurant reservations is so high that restaurant apps in the Silicon Valley area keep crashing as if facing denial-of-service attacks. This is a glimpse of what could happen to banking systems when inbound agent activity exceeds infrastructure capacity.",
+    "expert_name": "Brett King",
+    "start_seconds": 865,
+    "end_seconds": 1093
+  }
+]

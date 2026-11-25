@@ -1,0 +1,62 @@
+[
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "What is the next stage of AI integration in business applications beyond bolted-on AI features?",
+    "transcript_excerpt": "The next stage will be that there is no form. Instead of logging into a website and clicking on forms, you will log in and it will be your AI business application. As a salesperson, you come in and say what you need to do—who you need to call—and the AI handles everything: getting them on the phone, telling them information, and reporting the result back to you.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 840,
+    "end_seconds": 900
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "How does Microsoft's Copilot strategy differentiate from free public AI tools like ChatGPT?",
+    "transcript_excerpt": "Microsoft's advantage is that they have a fence around your data. Public ChatGPT can see data from competitors and other businesses, which is risky. With Microsoft's Copilot, you can query your own business data while keeping it private—no one else can see it. That data security justification is what makes their paid versions worth the cost.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 1440,
+    "end_seconds": 1500
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "Why is ChatGPT adoption faster than previous technologies like mobile phones and the internet?",
+    "transcript_excerpt": "ChatGPT is free or very cheap to access, unlike mobile phones which cost $2,500 per month when they first launched, or the internet through CompuServe which charged by the minute. Because AI has no cost barrier, adoption will move much more quickly. There is also intense competition and investment dollars flowing in, with companies prioritizing becoming the leader over making money.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 1350,
+    "end_seconds": 1560
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "What problem did machine learning solve before large language models like ChatGPT existed?",
+    "transcript_excerpt": "Machine learning applied mathematical algorithms to data to determine probabilities and generate insights that users could not figure out any other way. However, the results were too abstract—customers saw the output but had no idea how to get it, implement it, or where to start. ChatGPT made AI instantly accessible because it used a familiar chat interface, which is why it caused such rapid adoption.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 1155,
+    "end_seconds": 1254
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "How will AI agents replace traditional customer service call centers?",
+    "transcript_excerpt": "AI agents will be more efficient, faster, never take vacations or ask for raises, and always have 100% access to information while being able to take autonomous actions. As a user experience, this is better. However, this represents a replacement factor for many jobs—massive call centers worldwide will be replaced by AI that operates without pause or cost.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 540,
+    "end_seconds": 615
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Adapting to Technological Changes with Steve Mordue of RapidStart Global",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/b492fe2e-8b1a-4dc4-baa2-3e8741ef418f/episode_58ab7a6a76f74ae1e73c17f7fce0bedd.mp3",
+    "question": "What is shadow IT and why do employees create it when IT policies lock them down?",
+    "transcript_excerpt": "Shadow IT occurs when employees use unapproved tools to do their jobs because they are locked down by organizational restrictions. When asking customers if they have a CRM, they typically say no—but then you realize 12 people are already using free tools from the internet for CRM purposes without management knowing. Employees are like water; they will find a way around any dam or restriction put in place.",
+    "expert_name": "Steve Mordue",
+    "start_seconds": 405,
+    "end_seconds": 480
+  }
+]

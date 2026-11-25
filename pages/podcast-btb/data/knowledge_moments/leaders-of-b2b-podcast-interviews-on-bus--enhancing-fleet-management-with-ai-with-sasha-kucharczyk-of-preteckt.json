@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Enhancing Fleet Management With AI with Sasha Kucharczyk of Preteckt",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/40f37ece-62ac-495d-bc23-759003d3abcd/episode_4ef2de3c2eb6825b4209435362741b62.mp3",
+    "question": "How did Preteckt pivot from personal vehicle maintenance to municipal transit fleet management?",
+    "transcript_excerpt": "After starting with personal vehicles, an early advisor recommended targeting vehicles that operate on a P&L statement, specifically trucking fleets. Through introductions, Sasha discovered municipal transit offered a larger addressable market: buses cost about $1 million, are kept 12 to 18 years, and spend $35,000 to $40,000 annually on maintenance, compared to trucks at $150,000 with four to five year lifecycles and $15,000 to $20,000 yearly maintenance costs. The company began exploring transit and experienced significant growth in that market.",
+    "expert_name": "Sasha Kucharczyk",
+    "start_seconds": 300,
+    "end_seconds": 450
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Enhancing Fleet Management With AI with Sasha Kucharczyk of Preteckt",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/40f37ece-62ac-495d-bc23-759003d3abcd/episode_4ef2de3c2eb6825b4209435362741b62.mp3",
+    "question": "What are the key operational differences between municipal transit buses and long-haul trucking for predictive maintenance modeling?",
+    "transcript_excerpt": "Municipal transit vehicles operate within a city with approximately 40,000 miles per year, while long-haul trucking vehicles operate between cities and countries with over 100,000 miles per year. Buses are kept 12 to 18 years with refurbishment, whereas long-haul trucks typically last four to five years due to engine wear. Additionally, urban driving causes more frequent acceleration patterns than highway driving, requiring different physical models and contextual factors even though the underlying core technology remains similar.",
+    "expert_name": "Sasha Kucharczyk",
+    "start_seconds": 840,
+    "end_seconds": 960
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Enhancing Fleet Management With AI with Sasha Kucharczyk of Preteckt",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/40f37ece-62ac-495d-bc23-759003d3abcd/episode_4ef2de3c2eb6825b4209435362741b62.mp3",
+    "question": "How should entrepreneurs evaluate whether to pivot toward a demanding customer segment or focus on the addressable market?",
+    "transcript_excerpt": "It's important to ensure you are building a product business, not a service business customized for one customer. You must verify the solution is relevant to a broader target customer base, not just one vocal customer. Use a wedge model—identify an initial customer subsector willing to buy, then design how to grow horizontally to similar segments and scale the total addressable market over time, rather than wasting resources trying to validate a massive market claim from day one.",
+    "expert_name": "Sasha Kucharczyk",
+    "start_seconds": 660,
+    "end_seconds": 840
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Enhancing Fleet Management With AI with Sasha Kucharczyk of Preteckt",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/40f37ece-62ac-495d-bc23-759003d3abcd/episode_4ef2de3c2eb6825b4209435362741b62.mp3",
+    "question": "What experimental design challenges does Preteckt face when validating maintenance prediction outcomes with transit fleet customers?",
+    "transcript_excerpt": "If a customer acts on a maintenance prediction, you never know what would have happened without action. If they wait, you cannot verify they could have acted or what the benefit would have been. Additionally, two similar vehicles operate completely differently over time, making it hard to establish proper control groups without massive resource commitments like comparing 200 buses against 200 buses over three years—which most transit agencies cannot afford.",
+    "expert_name": "Sasha Kucharczyk",
+    "start_seconds": 1380,
+    "end_seconds": 1500
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Enhancing Fleet Management With AI with Sasha Kucharczyk of Preteckt",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/40f37ece-62ac-495d-bc23-759003d3abcd/episode_4ef2de3c2eb6825b4209435362741b62.mp3",
+    "question": "How does human-centered design differ from feature-based product strategy in B2B software?",
+    "transcript_excerpt": "The shift from feature lists to usability and human-centered design became clear through the failure of Microsoft's Zune, which competed on impressive features against the iPod but lost because it overlooked user experience. Sasha's realization was that technology should be understood not as a feature set but as an experience, addressing the question: how do you turn something overwhelming or scary into a beneficial experience that users want to interact with?",
+    "expert_name": "Sasha Kucharczyk",
+    "start_seconds": 120,
+    "end_seconds": 220
+  }
+]

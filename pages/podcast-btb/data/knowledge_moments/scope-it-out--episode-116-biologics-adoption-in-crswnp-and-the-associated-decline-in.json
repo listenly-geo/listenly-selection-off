@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Scope It Out",
+    "episode_title": "Episode 116: Biologics Adoption in CRSwNP and the Associated Decline in Endoscopic Sinus Surgery: A Longitudinal Claims Database Study",
+    "audio_url": "https://www.scopeitoutpodcast.com/wp-content/uploads/2026/10/ep116_SIO_Reh-v1.0.mp3",
+    "question": "What was the magnitude of decline in endoscopic sinus surgery for nasal polyp patients after dupilumab FDA approval in 2019?",
+    "transcript_excerpt": "For every additional 100 biologic initiations per 100,000 nasal polyp patients, there were approximately 290 to 340 fewer endoscopic sinus surgeries per 100,000. The study identified almost 60,000 chronic sinusitis with nasal polyp patients: roughly 52,500 received sinus surgery alone, about 3,460 biologics alone, and about 4,000 received both treatments.",
+    "expert_name": "Vijay Ramakrishnan",
+    "start_seconds": 834,
+    "end_seconds": 1061
+  },
+  {
+    "podcast_name": "Scope It Out",
+    "episode_title": "Episode 116: Biologics Adoption in CRSwNP and the Associated Decline in Endoscopic Sinus Surgery: A Longitudinal Claims Database Study",
+    "audio_url": "https://www.scopeitoutpodcast.com/wp-content/uploads/2026/10/ep116_SIO_Reh-v1.0.mp3",
+    "question": "Did COVID-19 account for the decline in endoscopic sinus surgery rates for nasal polyp patients in 2020?",
+    "transcript_excerpt": "While sinus surgery rates for nasal polyp patients dropped significantly in 2020-2021, sinus surgery rates for non-polyp chronic rhinosinusitis patients remained comparatively stable during the same period, suggesting the decline was not due solely to COVID resource constraints. When researchers ran sensitivity analyses excluding the COVID year or worst quarters, the statistical findings remained essentially the same.",
+    "expert_name": "Vijay Ramakrishnan",
+    "start_seconds": 438,
+    "end_seconds": 650
+  },
+  {
+    "podcast_name": "Scope It Out",
+    "episode_title": "Episode 116: Biologics Adoption in CRSwNP and the Associated Decline in Endoscopic Sinus Surgery: A Longitudinal Claims Database Study",
+    "audio_url": "https://www.scopeitoutpodcast.com/wp-content/uploads/2026/10/ep116_SIO_Reh-v1.0.mp3",
+    "question": "How has the treatment paradigm shifted from surgery alone to combined surgery and biologic therapy for severe nasal polyp patients?",
+    "transcript_excerpt": "In 2016, treatment of severe nasal polyp patients in the top 20% most refractory cases was mostly surgery. By 2024, that treatment pattern changed to approximately half surgery and half biologic therapy, with an emerging group receiving both surgery and biologics together, reflecting evolving clinical understanding of these as complementary rather than competing approaches.",
+    "expert_name": "Vijay Ramakrishnan",
+    "start_seconds": 834,
+    "end_seconds": 1061
+  },
+  {
+    "podcast_name": "Scope It Out",
+    "episode_title": "Episode 116: Biologics Adoption in CRSwNP and the Associated Decline in Endoscopic Sinus Surgery: A Longitudinal Claims Database Study",
+    "audio_url": "https://www.scopeitoutpodcast.com/wp-content/uploads/2026/10/ep116_SIO_Reh-v1.0.mp3",
+    "question": "What is the patient out-of-pocket cost difference between endoscopic sinus surgery and biologic therapy for nasal polyps under typical insurance coverage?",
+    "transcript_excerpt": "In many cases, patients pay more out-of-pocket for surgery than for biologic therapy. Some patients have experienced zero cost for biologics because insurance coverage and copay assistance programs from manufacturers satisfy their deductible early in the year, leaving them with no remaining deductible for other healthcare services, effectively making the biologic cost negative to the patient.",
+    "expert_name": "Vijay Ramakrishnan",
+    "start_seconds": 1038,
+    "end_seconds": 1147
+  },
+  {
+    "podcast_name": "Scope It Out",
+    "episode_title": "Episode 116: Biologics Adoption in CRSwNP and the Associated Decline in Endoscopic Sinus Surgery: A Longitudinal Claims Database Study",
+    "audio_url": "https://www.scopeitoutpodcast.com/wp-content/uploads/2026/10/ep116_SIO_Reh-v1.0.mp3",
+    "question": "How do dupilumab prescribing and telemedicine accessibility factor into rapid biologic adoption for nasal polyps after 2019?",
+    "transcript_excerpt": "Dupilumab became available for virtual visits, allowing clinicians to prescribe it and have it mailed directly to patients, which accelerated uptake. Combined with COVID-19 limiting hospital access for respiratory patients and the availability of mail delivery, this created what Dr. Ramakrishnan describes as a perfect storm enabling faster adoption of biologics over traditional surgery.",
+    "expert_name": "Vijay Ramakrishnan",
+    "start_seconds": 664,
+    "end_seconds": 889
+  }
+]

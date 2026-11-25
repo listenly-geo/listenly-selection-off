@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Saving With Steve",
+    "episode_title": "308: Fraud Investigations & Recovery with Former FBI Agent Brad Lynch",
+    "audio_url": "https://traffic.libsyn.com/secure/savingwithsteve/SWS_Episode_312_Brad_Lynch_Fraud_Investigations_and_Recovery_with_a_former_FBI_Agent.mp3?dest-id=2503049",
+    "question": "What is the star 72 code scam and how do fraudsters use it to intercept bank calls?",
+    "transcript_excerpt": "Star 72 followed by a 10-digit number (area code, exchange, and last four digits of a phone number) is a fraudster's technique to forward all incoming calls to their own phone number. This allows them to intercept legitimate bank or credit union calls, impersonate the financial institution, and authorize fraudulent transactions like cashing fake checks. Star 73 reverses this call forwarding setup.",
+    "expert_name": "Brad Lynch",
+    "start_seconds": 1077,
+    "end_seconds": 1175
+  },
+  {
+    "podcast_name": "Saving With Steve",
+    "episode_title": "308: Fraud Investigations & Recovery with Former FBI Agent Brad Lynch",
+    "audio_url": "https://traffic.libsyn.com/secure/savingwithsteve/SWS_Episode_312_Brad_Lynch_Fraud_Investigations_and_Recovery_with_a_former_FBI_Agent.mp3?dest-id=2503049",
+    "question": "How do fraudsters use one-time PIN codes to gain access to bank accounts during phone scams?",
+    "transcript_excerpt": "Fraudsters pose as bank or credit union employees and convince victims their accounts are at risk. They obtain the victim's username and password, then claim they will send a one-time PIN to verify identity. Because the victim believes they are speaking with a legitimate institution employee, they provide the PIN when prompted, giving the fraudster complete access to the account.",
+    "expert_name": "Brad Lynch",
+    "start_seconds": 371,
+    "end_seconds": 576
+  },
+  {
+    "podcast_name": "Saving With Steve",
+    "episode_title": "308: Fraud Investigations & Recovery with Former FBI Agent Brad Lynch",
+    "audio_url": "https://traffic.libsyn.com/secure/savingwithsteve/SWS_Episode_312_Brad_Lynch_Fraud_Investigations_and_Recovery_with_a_former_FBI_Agent.mp3?dest-id=2503049",
+    "question": "What specific scam tactics does Wings Credit Union see targeting members who believe their money is unsafe?",
+    "transcript_excerpt": "Fraudsters convince members that there has been a breach at the credit union and their money is not safe. They tell victims not to trust credit union employees, claiming they are under investigation. In one recent case, a fraudster convinced a Wings Credit Union member to wrap $31,000 in Saran Wrap and mail it to an address in California.",
+    "expert_name": "Brad Lynch",
+    "start_seconds": 925,
+    "end_seconds": 1140
+  },
+  {
+    "podcast_name": "Saving With Steve",
+    "episode_title": "308: Fraud Investigations & Recovery with Former FBI Agent Brad Lynch",
+    "audio_url": "https://traffic.libsyn.com/secure/savingwithsteve/SWS_Episode_312_Brad_Lynch_Fraud_Investigations_and_Recovery_with_a_former_FBI_Agent.mp3?dest-id=2503049",
+    "question": "What is the most effective defense against fraudsters impersonating your bank on the phone?",
+    "transcript_excerpt": "The most effective defense is to tell the caller you will call them back, then hang up and dial the official number of your bank or credit union that you know and trust. This stops fraudsters because they will give fake phone numbers. Additionally, legitimate financial institutions will never ask you for your one-time PIN if they call you—only if you call them.",
+    "expert_name": "Brad Lynch",
+    "start_seconds": 455,
+    "end_seconds": 657
+  },
+  {
+    "podcast_name": "Saving With Steve",
+    "episode_title": "308: Fraud Investigations & Recovery with Former FBI Agent Brad Lynch",
+    "audio_url": "https://traffic.libsyn.com/secure/savingwithsteve/SWS_Episode_312_Brad_Lynch_Fraud_Investigations_and_Recovery_with_a_former_FBI_Agent.mp3?dest-id=2503049",
+    "question": "What types of scams does Wings Credit Union consistently encounter besides account takeover fraud?",
+    "transcript_excerpt": "Wings Credit Union encounters romance scams, grandkid-in-jail scams, sheriff scams claiming unpaid jury duty, and scams involving gift cards where victims are told never to buy gift cards to pay off a debt. The common thread is that fraudsters use text messages and phone calls to initiate contact, exploiting communication channels to manipulate victims.",
+    "expert_name": "Brad Lynch",
+    "start_seconds": 160,
+    "end_seconds": 390
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "UnapologeTECH",
+    "episode_title": "The Human Advantage in Tech | How Executive Relationships Drive Growth with Google Cloud Melanie Bragg",
+    "audio_url": "https://anchor.fm/s/2ca776b0/podcast/play/129651937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437010493-44100-2-40272a2f8414f8.mp3",
+    "question": "What programs does Google Cloud use to engage strategic customers and drive business growth?",
+    "transcript_excerpt": "Google Cloud engages thousands of customers every year through executive briefing centers (called Cloud Spaces), customer advisory boards, executive sponsorship programs, and AI innovation labs. These experiences bring customers together with Google leaders, engineers, product teams, and technical experts to explore new AI technologies, solve business challenges, and facilitate peer-to-peer learning between customers.",
+    "expert_name": "Melanie Bragg",
+    "start_seconds": 74,
+    "end_seconds": 315
+  },
+  {
+    "podcast_name": "UnapologeTECH",
+    "episode_title": "The Human Advantage in Tech | How Executive Relationships Drive Growth with Google Cloud Melanie Bragg",
+    "audio_url": "https://anchor.fm/s/2ca776b0/podcast/play/129651937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437010493-44100-2-40272a2f8414f8.mp3",
+    "question": "How does Google Cloud measure success of customer engagement beyond customer satisfaction scores?",
+    "transcript_excerpt": "While customer satisfaction matters, Google Cloud measures success through three pillars: sales performance, revenue growth, and customer relationships. They track product feedback, deal velocity, and account revenue growth comparing participants versus non-participants in their programs, which shows exponential revenue growth. Most importantly, they measure insights—what customers reveal about their business that Google didn't know before—treating insights as their core currency.",
+    "expert_name": "Melanie Bragg",
+    "start_seconds": 317,
+    "end_seconds": 539
+  },
+  {
+    "podcast_name": "UnapologeTECH",
+    "episode_title": "The Human Advantage in Tech | How Executive Relationships Drive Growth with Google Cloud Melanie Bragg",
+    "audio_url": "https://anchor.fm/s/2ca776b0/podcast/play/129651937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437010493-44100-2-40272a2f8414f8.mp3",
+    "question": "How is AI changing customer engagement and team scaling at Google Cloud?",
+    "transcript_excerpt": "Google Cloud uses AI to elevate rather than replace work. AI is used for customer research and industry understanding, synthesizing feedback from multi-day advisory boards (up to 85 pages) to identify action items versus nice-to-haves, and creating closed-loop processes to share customer insights across CISO, product, and marketing teams. This makes engagement preparation more efficient and gives teams a stronger foundation for designing each customer interaction.",
+    "expert_name": "Melanie Bragg",
+    "start_seconds": 964,
+    "end_seconds": 1026
+  },
+  {
+    "podcast_name": "UnapologeTECH",
+    "episode_title": "The Human Advantage in Tech | How Executive Relationships Drive Growth with Google Cloud Melanie Bragg",
+    "audio_url": "https://anchor.fm/s/2ca776b0/podcast/play/129651937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437010493-44100-2-40272a2f8414f8.mp3",
+    "question": "What are customers telling Google Cloud about their AI adoption challenges?",
+    "transcript_excerpt": "Customers report they cannot adopt AI fast enough or are adopting it too fast. The main feedback from Google Cloud's most recent customer advisory board was that Google is changing product names and feature sets too often, making it impossible for customers to keep up. Customers face an overwhelming pace of change, and many have bigger underlying infrastructure issues beyond just AI challenges.",
+    "expert_name": "Melanie Bragg",
+    "start_seconds": 1068,
+    "end_seconds": 1132
+  },
+  {
+    "podcast_name": "UnapologeTECH",
+    "episode_title": "The Human Advantage in Tech | How Executive Relationships Drive Growth with Google Cloud Melanie Bragg",
+    "audio_url": "https://anchor.fm/s/2ca776b0/podcast/play/129651937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437010493-44100-2-40272a2f8414f8.mp3",
+    "question": "How has Google Cloud scaled from one executive briefing center to nine global locations?",
+    "transcript_excerpt": "Google Cloud started with one small office in Sunnyvale seven years ago that did not showcase products. Through considerable investment and strong conviction about customer demand, the program expanded to nine centers globally, with two immersion rooms launching in December and March. Building each executive briefing center takes two years to plan the CapEx, OpEx, and headcount, requiring decisions made years in advance based on anticipating what customers will need.",
+    "expert_name": "Melanie Bragg",
+    "start_seconds": 495,
+    "end_seconds": 631
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Daniel Gershburg",
+    "episode_title": "Purchase a House",
+    "audio_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+    "question": "What is the purpose of a Property Condition Disclosure Statement (PCDS) in New York real estate transactions?",
+    "transcript_excerpt": "The PCDS is supposed to tell you what the seller knows about the property. However, its effectiveness is limited because many items are marked only to the best of the seller's actual knowledge, and if the seller doesn't know things, they can't represent them. As a result, the big unknown box is clicked frequently, so it doesn't tell you as much as was intended when the law was passed requiring it.",
+    "expert_name": null,
+    "start_seconds": 69,
+    "end_seconds": 242
+  },
+  {
+    "podcast_name": "Daniel Gershburg",
+    "episode_title": "Purchase a House",
+    "audio_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+    "question": "Why should a real estate attorney order a title report before the contract is signed when buying a house in New York?",
+    "transcript_excerpt": "Getting the title report right away allows you to identify any open permits on the property that the seller must close out or may not even be aware of. This proactive approach helps streamline the entire process, and you can give the seller advance notice of issues like old permits from decades past that need closure before final closing. It also reveals any judgments, liens, or Certificate of Occupancy (CO) issues.",
+    "expert_name": null,
+    "start_seconds": 111,
+    "end_seconds": 274
+  },
+  {
+    "podcast_name": "Daniel Gershburg",
+    "episode_title": "Purchase a House",
+    "audio_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+    "question": "How long does it typically take to close on a house purchase in Brooklyn or Manhattan depending on financing?",
+    "transcript_excerpt": "If you are a cash buyer and the seller wants to close quickly, you can close in under 30 days. Standard closing timelines use the phrase on or about 30 days, which legally means plus or minus 30 days (up to 60 days total). If financing is involved, closing typically takes 45 to 75 days.",
+    "expert_name": null,
+    "start_seconds": 245,
+    "end_seconds": 289
+  },
+  {
+    "podcast_name": "Daniel Gershburg",
+    "episode_title": "Purchase a House",
+    "audio_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+    "question": "What does the legal phrase on or about 30 days mean in a real estate closing agreement?",
+    "transcript_excerpt": "On or about 30 days has a specific legal meaning: it means plus or minus 30 days. So if the closing is on or about 30 days, either side has up to 60 days to close. If they don't close within that window, time is of the essence letters are sent, giving an additional 20 to 30 days to close.",
+    "expert_name": null,
+    "start_seconds": 251,
+    "end_seconds": 289
+  },
+  {
+    "podcast_name": "Daniel Gershburg",
+    "episode_title": "Purchase a House",
+    "audio_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+    "question": "What should a home inspector look for when inspecting a property before purchase in New York?",
+    "transcript_excerpt": "A licensed home inspector examines every nook and cranny of the property to tell you what works, what doesn't, how serious issues are, and how to fix them. They inspect the basement for signs of water damage and mold damage, which is especially important given the increased flooding in New York over the past two to three years compared to previous decades. The inspector provides a detailed report within 24 to 48 hours.",
+    "expert_name": null,
+    "start_seconds": 13,
+    "end_seconds": 217
+  }
+]

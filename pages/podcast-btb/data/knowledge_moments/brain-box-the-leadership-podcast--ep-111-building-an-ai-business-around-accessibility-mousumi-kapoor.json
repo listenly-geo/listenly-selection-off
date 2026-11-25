@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Brain Box - The Leadership Podcast",
+    "episode_title": "Ep. 111 | Building an AI Business Around Accessibility | Mousumi Kapoor",
+    "audio_url": "https://anchor.fm/s/6a0c1114/podcast/play/129806268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437219995-44100-2-5f5ef3b5d99f58.mp3",
+    "question": "What technology does Continual Engine use to make digital content accessible at scale?",
+    "transcript_excerpt": "Continual Engine uses computer vision, NLP, and deep learning technologies to understand patterns in structured digital content like images, documents, websites, and videos. The company processes images and gathers insights from them, and after the explosion of generative AI, LLMs can now process 10x to 100x more images and gather way more insights to come up with descriptions. However, human review remains critical for mission-critical content to ensure accuracy and context appropriateness.",
+    "expert_name": "Mousumi Kapoor",
+    "start_seconds": 290,
+    "end_seconds": 518
+  },
+  {
+    "podcast_name": "Brain Box - The Leadership Podcast",
+    "episode_title": "Ep. 111 | Building an AI Business Around Accessibility | Mousumi Kapoor",
+    "audio_url": "https://anchor.fm/s/6a0c1114/podcast/play/129806268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437219995-44100-2-5f5ef3b5d99f58.mp3",
+    "question": "How has generative AI fundamentally changed the accessibility industry?",
+    "transcript_excerpt": "Generative AI has given LLMs tremendous compute power to process significantly more images and gather more insights than previous technologies. However, the narrative sometimes gets ahead of what the technology can deliver. For example, GPT can explain an image but sometimes does not explain it in the context the image is supposed to impart to a student or reader. This is where human in the loop review becomes critical, especially for educational and mission-critical content.",
+    "expert_name": "Mousumi Kapoor",
+    "start_seconds": 279,
+    "end_seconds": 390
+  },
+  {
+    "podcast_name": "Brain Box - The Leadership Podcast",
+    "episode_title": "Ep. 111 | Building an AI Business Around Accessibility | Mousumi Kapoor",
+    "audio_url": "https://anchor.fm/s/6a0c1114/podcast/play/129806268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437219995-44100-2-5f5ef3b5d99f58.mp3",
+    "question": "Will human review still be needed for accessibility in four or five years?",
+    "transcript_excerpt": "Yes, human in the loop will likely remain necessary even at the end of the decade. While AI confidence scores will improve and reduce the need for human review, the requirement will not reach zero. Human supervision is needed to check for bias, ensure balance, and prevent rogue elements in the models. Additionally, there is a need to verify that models are learning the right way and that content quality is maintained.",
+    "expert_name": "Mousumi Kapoor",
+    "start_seconds": 413,
+    "end_seconds": 637
+  },
+  {
+    "podcast_name": "Brain Box - The Leadership Podcast",
+    "episode_title": "Ep. 111 | Building an AI Business Around Accessibility | Mousumi Kapoor",
+    "audio_url": "https://anchor.fm/s/6a0c1114/podcast/play/129806268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437219995-44100-2-5f5ef3b5d99f58.mp3",
+    "question": "How did COVID impact the market adoption of accessibility solutions?",
+    "transcript_excerpt": "During COVID, digital content mushroomed and many online learning platforms emerged. As communication shifted dramatically to digital channels, people with disabilities suddenly needed mechanisms to access this content. This made accessibility a very human problem, and governments recognized it. Publishers and higher education institutions already understood the importance, but then financial institutions, insurance companies, municipalities, and federal and state governments all began to understand the importance of accessibility solutions.",
+    "expert_name": "Mousumi Kapoor",
+    "start_seconds": 535,
+    "end_seconds": 774
+  },
+  {
+    "podcast_name": "Brain Box - The Leadership Podcast",
+    "episode_title": "Ep. 111 | Building an AI Business Around Accessibility | Mousumi Kapoor",
+    "audio_url": "https://anchor.fm/s/6a0c1114/podcast/play/129806268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437219995-44100-2-5f5ef3b5d99f58.mp3",
+    "question": "What is an example of how building for accessibility improves product quality?",
+    "transcript_excerpt": "Building for accessibility makes products universally usable and much better. For example, checking color contrast between text and background makes PDFs and web pages readable not only for low vision people but for everyone. Similarly, captions in videos were created for hearing-impaired people but are now used by approximately 60-70% of people who browse social media with volume turned off. Alt text for images, originally for accessibility, is now used for SEO and other purposes.",
+    "expert_name": "Mousumi Kapoor",
+    "start_seconds": 622,
+    "end_seconds": 809
+  }
+]

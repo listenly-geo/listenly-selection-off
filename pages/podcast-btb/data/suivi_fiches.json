@@ -1,0 +1,988 @@
+{
+ "fiches": [
+  {
+   "date": "2026-11-09",
+   "url": "https://listenly.org/podcast-btb/m/masters-of-scale/c0a43d9155",
+   "question": "AI agents security risks personal data? | Masters of Scale",
+   "podcast": "Masters of Scale"
+  },
+  {
+   "date": "2026-11-09",
+   "url": "https://listenly.org/podcast-btb/m/date-line-nbc/64bb1bb99d",
+   "question": "What was andrew griffins motive for murder? | Dateline NBC",
+   "podcast": "Dateline NBC"
+  },
+  {
+   "date": "2026-11-09",
+   "url": "https://listenly.org/podcast-btb/m/freakonomics-radio/a6f98e781c",
+   "question": "How do citizens assemblies work? | Freakonomics Radio",
+   "podcast": "Freakonomics Radio"
+  },
+  {
+   "date": "2026-11-09",
+   "url": "https://listenly.org/podcast-btb/m/masters-of-scale/cdfc5eb74b",
+   "question": "How does prompt injection affect AI? | Masters of Scale",
+   "podcast": "Masters of Scale"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-doctor-s-crossing-carpe-diem-podcast/646e6f0747",
+   "question": "What jobs qualify for PSLF? | The Doctor's Crossing Carp",
+   "podcast": "The Doctor's Crossing Carp"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/msp-unplugged/13a34219c7",
+   "question": "Why does security awareness training fail? | MSP Unplugged",
+   "podcast": "MSP Unplugged"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-daily-podcast/ae9de9569e",
+   "question": "Why did Trump skip strikes on the Houthis? | The Daily",
+   "podcast": "The Daily"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/924e99d4b3",
+   "question": "Can AI boost thinking, not dull it? | The Diary Of A CEO",
+   "podcast": "The Diary Of A CEO"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/b93c97d66b",
+   "question": "What to do when family ignores health? | Mel Robbins",
+   "podcast": "Mel Robbins"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/3f570157d7",
+   "question": "What do cancer survivors expect? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/masters-of-scale/1b93679847",
+   "question": "Do AI agents improve privacy practices? | Masters of Scale",
+   "podcast": "Masters of Scale"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/masters-of-scale/3e5f0c1039",
+   "question": "How do AI agents differ from malware? | Masters of Scale",
+   "podcast": "Masters of Scale"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/764329b23d",
+   "question": "How to choose a creative project? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-10",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/9c76b848ca",
+   "question": "Is phonics solved for reading? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/b2b-vault-the-biz-to-biz-podcast/3c65cb5ff6",
+   "question": "MATCH list vape CBD merchants? | B2B Vault: The Biz To Biz",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/eca14c9697",
+   "question": "How does Mentava speed up learning? | The Tim Ferriss Show",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/wait-wait-dont-tell-me/490463c148",
+   "question": "Which Ohio poets and musicians stand out? | Wait Wait",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/ad28449aa4",
+   "question": "How does service-first selling work? | Young and Profiting",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/ba3dfc6b99",
+   "question": "Can poverty become a path to wealth? | Young and Profiting",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/ecommerce-australia/00665cace3",
+   "question": "What sparked Maple Movement's start? | eCommerce Australia",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/npte-clinical-files-physical-therapy/490629f1bb",
+   "question": "Do MCA strokes affect arms more? | NPTE Clinical Files",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/the-abic-podcast/cb553f8589",
+   "question": "Does interruption cover lost income? | The ABIC Podcast",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/ea2ef5e585",
+   "question": "Why does your spouse matter so much? | Young and Profiting",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-11",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/470cacac8c",
+   "question": "How do journalists vet biased sources? | ACQ2 by Acquired",
+   "podcast": ""
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/pod-save-america/74bd7cf51b",
+   "question": "Why didn't Sanders endorse Hong? | Pod Save America",
+   "podcast": "Pod Save America"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/the-bob-lefsetz-podcast/6892ad417f",
+   "question": "How did Low Cut Connie begin? | The Bob Lefsetz Podcast",
+   "podcast": "The Bob Lefsetz Podcast"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/e86eb12ca4",
+   "question": "Does screen time weaken bonds? | The Mel Robbins Podcast",
+   "podcast": "The Mel Robbins Podcast"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/3b284c628b",
+   "question": "Do family duties drain writers? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/a6013cc99e",
+   "question": "Which parents need Mentava first? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/f683fd4366",
+   "question": "How fast can kids learn to read? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://listenly.org/podcast-btb/m/this-american-life/445346ea4a",
+   "question": "How was a prolapsed cord handled? | This American Life",
+   "podcast": "This American Life"
+  },
+  {
+   "date": "2026-11-13",
+   "url": "https://listenly.org/podcast-btb/m/the-angel-next-door/901b239770",
+   "question": "Fabric VC Series A graduation rate? | The Angel Next Door",
+   "podcast": "The Angel Next Door"
+  },
+  {
+   "date": "2026-11-13",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/8083488071",
+   "question": "What is Sierra's AI agent mission? | ACQ2 by Acquired",
+   "podcast": "ACQ2 by Acquired"
+  },
+  {
+   "date": "2026-11-13",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/3d6c6453c7",
+   "question": "Is AI a transformational technology? | ACQ2 by Acquired",
+   "podcast": "ACQ2 by Acquired"
+  },
+  {
+   "date": "2026-11-13",
+   "url": "https://listenly.org/podcast-btb/m/b2b-vault-the-biz-to-biz-podcast/d4c7bd64eb",
+   "question": "VIP Smoke Shops charges? | B2B Vault: The Biz To Biz",
+   "podcast": "B2B Vault: The Biz To Biz"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/coffee-cap-rates-commercial-real-estate/7454d64b9f",
+   "question": "Is Brooklyn adding affordable homes? | Coffee & Cap Rates",
+   "podcast": "Coffee & Cap Rates"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/14a389d5f0",
+   "question": "What is private credit? | Commercially Speaking Podcast",
+   "podcast": "Commercially Speaking Podcast"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/this-american-life/81532615dd",
+   "question": "Why did Katie's home birth go wrong? | This American Life",
+   "podcast": "This American Life"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/wait-wait-dont-tell-me/31cce4ce8b",
+   "question": "What pressure did Lilly King describe? | Wait Wait...",
+   "podcast": "Wait Wait"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/wait-wait-dont-tell-me/ba071d9aa4",
+   "question": "What design flaws hit short-term rentals? | Wait Wait...",
+   "podcast": "Wait Wait"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/world-war-2-podcast/d81690aae3",
+   "question": "What human cost does the WWII series show? | World War II",
+   "podcast": "World War II"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/3d1db310f9",
+   "question": "Does SSO simplify two-factor login? | Young and Profiting",
+   "podcast": "Young and Profiting"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/pivot-to-profit/d130b84a48",
+   "question": "What does imposter syndrome signal? | Pivot to Profit",
+   "podcast": "Pivot to Profit"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/annex-wealth-management-show/c49b3fb793",
+   "question": "What is sequence risk? | Annex Wealth Management Show",
+   "podcast": "Annex Wealth Management Show"
+  },
+  {
+   "date": "2026-11-14",
+   "url": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/70cb367c6d",
+   "question": "Are handmade gifts better? | Commercially Speaking Podcast",
+   "podcast": "Commercially Speaking Podcast"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/how-i-built-this-with-guy-raz/2aa431fdbe",
+   "question": "How did michael dell start? | How I Built This with Guy",
+   "podcast": "How I Built This with Guy Raz"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/the-angel-next-door/54f084bbc3",
+   "question": "Fabric VC portfolio companies? | The Angel Next Door",
+   "podcast": "The Angel Next Door"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/6d053f85f7",
+   "question": "How do hackers breach midsize firms? | Young and Profiting",
+   "podcast": "Young and Profiting"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/ai-pulse-podcast/87b23ecc80",
+   "question": "Generative vs agentic AI differences? | AI Pulse Podcast",
+   "podcast": "AI Pulse Podcast"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/dailycyber-the-truth-about-cyber-securit/ef9efa1a69",
+   "question": "US data centers vs China? | DailyCyber The Truth About",
+   "podcast": "DailyCyber The Truth About"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/0b40827962",
+   "question": "Why do lawn care owners underprice? | LCR Media Podcast",
+   "podcast": "LCR Media Podcast"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/8afda803db",
+   "question": "Do retail skills help lawn care? | LCR Media Podcast",
+   "podcast": "LCR Media Podcast"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/best-damn-coach-podcast-conversations-fo/eb97b64625",
+   "question": "Why do coaches lack a framework? | Best Damn Coach",
+   "podcast": "Best Damn Coach"
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://listenly.org/podcast-btb/m/beyond-luxury/1a55291ad7",
+   "question": "Why did Assouline shelve finished books? | Beyond Luxury",
+   "podcast": "Beyond Luxury"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/the-angel-next-door/3f4ed0a520",
+   "question": "How did Fabric VC fund women? | The Angel Next Door",
+   "podcast": "The Angel Next Door"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/b2b-vault-the-biz-to-biz-podcast/82fc328808",
+   "question": "Penalties for vaping products? | B2B Vault: The Biz To Biz",
+   "podcast": "B2B Vault The Biz To Biz Podcast"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/the-daily-podcast/7c74ac3fd6",
+   "question": "Why did Bottoms skip Atlanta's mayoral race? | The Daily",
+   "podcast": "The Daily Podcast"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/the-retirement-ready-show/bc356e1f36",
+   "question": "What papers do retirees need? | The Retirement Ready Show",
+   "podcast": "The Retirement Ready Show"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/black-women-s-health/2a1eefdf6b",
+   "question": "How much does Midwest Express cost? | Black Women’s Health",
+   "podcast": "Black Women S Health"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/16c4357b24",
+   "question": "How did Taliaferro shift from retail? | LCR Media Podcast",
+   "podcast": "Lcr Media Podcast"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/fa4843f006",
+   "question": "Which metrics drive lawn care profit? | LCR Media Podcast",
+   "podcast": "Lcr Media Podcast"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/beyond-luxury/c27f0614f9",
+   "question": "How should luxury brands record heritage? | Beyond Luxury",
+   "podcast": "Beyond Luxury"
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/74a2147546",
+   "question": "When should you buy zero-turn mowers? | LCR Media Podcast",
+   "podcast": "Lcr Media Podcast"
+  },
+  {
+   "date": "2026-10-19",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/66e33d5c97",
+   "question": "How is financial freedom defined? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-19",
+   "url": "https://listenly.org/podcast-btb/m/the-rest-is-history/32f58f000f",
+   "question": "What led to Ireland's partition? | The Rest Is History",
+   "podcast": "The Rest Is History"
+  },
+  {
+   "date": "2026-10-19",
+   "url": "https://listenly.org/podcast-btb/m/morning-brew-daily/f6b60b708c",
+   "question": "What did NVIDIA pay for Hugging Face? | Morning Brew Daily",
+   "podcast": "Morning Brew Daily"
+  },
+  {
+   "date": "2026-10-19",
+   "url": "https://listenly.org/podcast-btb/m/freakonomics-radio/e5f2823dde",
+   "question": "What problem did Hayek identify? | Freakonomics Radio",
+   "podcast": "Freakonomics Radio"
+  },
+  {
+   "date": "2026-10-19",
+   "url": "https://listenly.org/podcast-btb/m/morning-brew-daily/412a895c23",
+   "question": "What is Shein's new direction? | Morning Brew Daily",
+   "podcast": "Morning Brew Daily"
+  },
+  {
+   "date": "2026-10-20",
+   "url": "https://listenly.org/podcast-btb/m/freakonomics-radio/e7f243d0dd",
+   "question": "Were Iowa markets better than polls? | Freakonomics Radio",
+   "podcast": "Freakonomics Radio"
+  },
+  {
+   "date": "2026-10-20",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/7c7f11fe02",
+   "question": "How much lifting boosts the brain? | The Diary Of A CEO",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-10-20",
+   "url": "https://listenly.org/podcast-btb/m/morning-brew-daily/401792ffbf",
+   "question": "Why is Jackson Hole the Fed's venue? | Morning Brew Daily",
+   "podcast": "Morning Brew Daily"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/money-guy-show/32c3046b1b",
+   "question": "Why avoid riskier investing when behind? | Money Guy Show",
+   "podcast": "Money Guy Show"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/freakonomics-radio/d99c42589a",
+   "question": "How did Kalshi win its court case? — Freakonomics Radio",
+   "podcast": "Freakonomics Radio"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/6243c3f645",
+   "question": "Will AI sink Wikipedia? | Guy Kawasaki's Remarkable People",
+   "podcast": "Guy Kawasaki S Remarkable People"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/7df64452fa",
+   "question": "Why a Wikipedia-only AI? | Guy Kawasaki's Remarkable People",
+   "podcast": "Guy Kawasaki S Remarkable People"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/f9112357c4",
+   "question": "How do LLMs treat facts? | Guy Kawasaki's Remarkable People",
+   "podcast": "Guy Kawasaki S Remarkable People"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/money-guy-show/fa65a49575",
+   "question": "Why fund retirement before kids' college? | Money Guy Show",
+   "podcast": "Money Guy Show"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/money-guy-show/ff6f646790",
+   "question": "How should you cut expenses when behind? | Money Guy Show",
+   "podcast": "Money Guy Show"
+  },
+  {
+   "date": "2026-10-21",
+   "url": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/f9ca264f43",
+   "question": "What helps protect teens online? | The Mel Robbins Podcast",
+   "podcast": "The Mel Robbins Podcast"
+  },
+  {
+   "date": "2026-10-22",
+   "url": "https://listenly.org/podcast-btb/m/morning-brew-daily/bd309575a3",
+   "question": "Who develops new hair loss drugs? | Morning Brew Daily",
+   "podcast": "Morning Brew Daily"
+  },
+  {
+   "date": "2026-10-22",
+   "url": "https://listenly.org/podcast-btb/m/morning-brew-daily/6587148dcf",
+   "question": "How does Tesla's self-driving differ? | Morning Brew Daily",
+   "podcast": "Morning Brew Daily"
+  },
+  {
+   "date": "2026-10-22",
+   "url": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/94069356e1",
+   "question": "Can AI help Wikipedia? | Guy Kawasaki's Remarkable People",
+   "podcast": "Guy Kawasaki S Remarkable People"
+  },
+  {
+   "date": "2026-10-22",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/d6bbf30692",
+   "question": "How fast can a home sell today? | The Diary Of A CEO",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-10-22",
+   "url": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/d75b2dbf48",
+   "question": "Is Wikipedia reliable? | Guy Kawasaki's Remarkable People",
+   "podcast": "Guy Kawasaki S Remarkable People"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/invest-like-the-best/6bab71d78e",
+   "question": "How do VCs judge domain expertise? | Invest Like the Best",
+   "podcast": "Invest Like The Best"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/invest-like-the-best/76f1ef1d35",
+   "question": "What strains AI researchers? | Invest Like the Best",
+   "podcast": "Invest Like The Best"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/invest-like-the-best/996130088c",
+   "question": "How do VCs balance conviction? | Invest Like the Best",
+   "podcast": "Invest Like The Best"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/the-daily-podcast/34addf4256",
+   "question": "What options does Saudi Arabia have left? | The Daily",
+   "podcast": "The Daily Podcast"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/the-daily-podcast/82c936b2d5",
+   "question": "How do Whoop and Oura use AI for health? | The Daily",
+   "podcast": "The Daily Podcast"
+  },
+  {
+   "date": "2026-10-23",
+   "url": "https://listenly.org/podcast-btb/m/the-daily-podcast/f38107c05b",
+   "question": "What is the wider cost of the conflict? | The Daily",
+   "podcast": "The Daily Podcast"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/c27160a6c5",
+   "question": "How to spot opportunity in obstacles? | 3 Takeaways™",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/754725d1f1",
+   "question": "What is the chase vs achievement? | The Mel Robbins Podcast",
+   "podcast": "The Mel Robbins Podcast"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/32535fe140",
+   "question": "How does AI content affect memory? | The Diary Of A CEO",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/40c3eee48b",
+   "question": "Is a down payment better than stocks? | The Diary Of A CEO",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/the-ramsey-show/65d67bf9f2",
+   "question": "Do people regret early mortgage payoff? | The Ramsey Show",
+   "podcast": "The Ramsey Show"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/c288d991aa",
+   "question": "What blocks Mentava's growth? | The Tim Ferriss Show",
+   "podcast": "The Tim Ferriss Show"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/3b843f9108",
+   "question": "Did early LinkedIn use build a brand? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/a32aea6aba",
+   "question": "What security steps go beyond basics? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-24",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/ebb311cf70",
+   "question": "Is AI a democratizer of education? | 3 Takeaways™",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/aa3da96cf7",
+   "question": "Do many ventures improve mentoring? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/bcc3baefdf",
+   "question": "Why do hackers target small firms? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/c00a3d6df0",
+   "question": "How do hackers hit small firms? | Young and Profiting",
+   "podcast": "Young And Profiting With Hala Taha Entrepreneurship"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/a2ee56467d",
+   "question": "How did social media hook us? | The Mel Robbins Podcast",
+   "podcast": "The Mel Robbins Podcast"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/3feaa89738",
+   "question": "What predicts successful AI transformation? | 3 Takeaways™",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/5befe269b3",
+   "question": "What did Sorkin do before the NYT? | ACQ2 by Acquired",
+   "podcast": "Acq2 By Acquired"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/forum-focus/5c9f07eb9c",
+   "question": "How did unions protect prevailing wages? | Forum Focus",
+   "podcast": "Forum Focus"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/c9d9cac743",
+   "question": "How do tech waves compound adoption? | ACQ2 by Acquired",
+   "podcast": "Acq2 By Acquired"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/freakonomics-radio/0105efef43",
+   "question": "Is sortition better than elections? | Freakonomics Radio",
+   "podcast": "Freakonomics Radio"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/9ed9bf7833",
+   "question": "How did Spotify prepare for Apple Music 2015? | Listenly",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/04e659d6fa",
+   "question": "What is the cobra effect in practice? | 3 Takeaways™",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/d3a31a399c",
+   "question": "What's the wrong question about AI? | 3 Takeaways™",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/nerding-out-with-viktor/c8004e31a5",
+   "question": "What does a Hardware Security Module do? | Listenly",
+   "podcast": "Nerding Out With Viktor"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/manufacturing-matters-jackson/5c4a4f5e20",
+   "question": "Mackey maintenance electrician apprenticeship? | Listenly",
+   "podcast": "Manufacturing Matters Jackson"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/benefits-executive-roundtable/aedd16f354",
+   "question": "When is Medicare open enrollment period? | Listenly",
+   "podcast": "Benefits Executive Roundtable"
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://listenly.org/podcast-btb/m/next-venture-alliance-show/0c86558152",
+   "question": "What is a legal description in property? | Listenly",
+   "podcast": "Next Venture Alliance Show"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/3-take-away/96043c9360",
+   "question": "Why did late-pickup fines backfire at daycares? | Listenly",
+   "podcast": "3 Take Away"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/b2b-vault-the-biz-to-biz-podcast/90e238f7c5",
+   "question": "Why is Square ending CBD payment processing? | Listenly",
+   "podcast": "B2B Vault The Biz To Biz Podcast"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/date-line-nbc/049baba10b",
+   "question": "What sentence did Larry Miliete get? | Dateline NBC",
+   "podcast": "Date Line Nbc"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/how-i-built-this-with-guy-raz/905855e5fa",
+   "question": "How did Michael Dell sell more newspapers? | Listenly",
+   "podcast": "How I Built This With Guy Raz"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/airdrie-inside/105b4c1418",
+   "question": "How does capital stack funding model work? | Listenly",
+   "podcast": "Airdrie Inside"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/b2b-insights-podcast/a7a0bd01f0",
+   "question": "How did customer service become CX? | Listenly",
+   "podcast": "B2B Insights Podcast"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/customer-first-thinking/7f8a9956a3",
+   "question": "How does AI impact marketing vs sales? | Listenly",
+   "podcast": "Customer First Thinking"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/proven-podcast/df11809354",
+   "question": "How does Sesame offer cash-price healthcare? | Listenly",
+   "podcast": "Proven Podcast"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/executive-wins-podcast/e6e987421e",
+   "question": "What is NorQuest's strategy? | Executive Wins Podcast",
+   "podcast": "Executive Wins Podcast"
+  },
+  {
+   "date": "2026-11-18",
+   "url": "https://listenly.org/podcast-btb/m/car-dealership-guy-podcast/a1046603b1",
+   "question": "Soft skills that win car sales? | Car Dealership Guy",
+   "podcast": "Car Dealership Guy Podcast"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/4511b8bc68",
+   "question": "Why was Spotify's 2007 funding model unusual? | Listenly",
+   "podcast": "The Diary Of A Ceo With Steven Bartlett"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/acq2-by-acquired/83a9122a1a",
+   "question": "How fast did ChatGPT reach 100M users? | ACQ2 by Acquired",
+   "podcast": "Acq2 By Acquired"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/david-anderson-talking-market-data/33f28b6062",
+   "question": "What causes poor quality financial data? | Listenly",
+   "podcast": "David Anderson Talking Market Data"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/executive-edge-podcast/00766ec85f",
+   "question": "Why is supply chain risk monitoring important? | Listenly",
+   "podcast": "Executive Edge Podcast"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/sorry-we-re-closed-with-pat-light/23e1a59ce2",
+   "question": "How does Robinhood compare to Vanguard? | Listenly",
+   "podcast": "Sorry We Re Closed With Pat Light"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/airdrie-inside/e72a93bd5c",
+   "question": "Supportive housing homeless seniors? | Listenly",
+   "podcast": "Airdrie Inside"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/dentists-who-invest-podcast/7570f21840",
+   "question": "How can dentists buy homes with low savings? | Listenly",
+   "podcast": "Dentists Who Invest Podcast"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/ecomm-breakthrough/265f52cc7f",
+   "question": "Leading vs lagging ecommerce KPIs? | Ecomm Breakthrough",
+   "podcast": "Ecomm Breakthrough"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/b8c7913e3a",
+   "question": "What hurts lawn care job profit? | LCR Media Podcast",
+   "podcast": "Lcr Media Podcast"
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/ff467c9029",
+   "question": "How to price lawn jobs by man-hour? | LCR Media Podcast",
+   "podcast": "Lcr Media Podcast"
+  },
+  {
+   "date": "2026-11-20",
+   "url": "https://listenly.org/podcast-btb/m/b2b-vault-the-biz-to-biz-podcast/f500a01525",
+   "question": "What are the new federal CBD hemp regulations? | Listenly",
+   "podcast": "B2B Vault The Biz To Biz Podcast"
+  },
+  {
+   "date": "2026-11-20",
+   "url": "https://listenly.org/podcast-btb/m/how-i-built-this-with-guy-raz/ce9098db00",
+   "question": "How much money did Michael Dell make? | Listenly",
+   "podcast": "How I Built This With Guy Raz"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/the-vurge/what-is-rural-health-digital-transformation",
+   "question": "What is rural health digital transformation? | The Vurge",
+   "podcast": "The Vurge"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/your-next-dollar-money-management-for-hi/how-to-check-a-used-cars-condition",
+   "question": "How to check a used car's condition? | Your Next Dollar",
+   "podcast": "Your Next Dollar Money Management For Hi"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/ai-product-and-design-podcast/why-does-ai-fail-without-use-cases",
+   "question": "Why does AI fail without use cases? | AI, Product & Design",
+   "podcast": "Ai Product And Design Podcast"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/automation-awakenings/why-standardize-before-automating",
+   "question": "Why standardize before automating? | Automation Awakenings",
+   "podcast": "Automation Awakenings"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/how-should-cisos-prioritize-vulnerabilities",
+   "question": "How should CISOs prioritize vulnerabilities? | Listenly",
+   "podcast": "Federal Tech Podcast For Innovators Entr"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/restaurant-rockstars-podcast/restaurant-sale-with-vs-without-real-estate",
+   "question": "Restaurant sale with vs without real estate? | Listenly",
+   "podcast": "Restaurant Rockstars Podcast"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/leaders-of-b2b-podcast-interviews-on-bus/how-to-avoid-commoditization-in-sales-talks",
+   "question": "How to avoid commoditization in sales talks? | Listenly",
+   "podcast": "Leaders Of B2B Podcast Interviews On Bus"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/legal-innovation-spotlight/law-firm-expertise-gaps-launching-products",
+   "question": "Law firm expertise gaps launching products? | Listenly",
+   "podcast": "Legal Innovation Spotlight"
+  },
+  {
+   "date": "2026-11-22",
+   "url": "https://listenly.org/podcast-btb/m/for-the-23-the-woman-of-color-business-e/how-does-tracking-results-build-credibility",
+   "question": "How does tracking results build credibility? | Listenly",
+   "podcast": "For The 23 The Woman Of Color Business E"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/security-grc-decoded/how-to-evaluate-ai-models-for-security",
+   "question": "How to choose AI models for offensive security? | Listenly",
+   "podcast": "Security Grc Decoded"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/the-cannabis-accounting-podcast/how-to-forecast-sales-for-multi-store-cannabis",
+   "question": "How to forecast sales for multi-store cannabis? | Listenly",
+   "podcast": "The Cannabis Accounting Podcast"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/it-s-time-for-success-the-business-insig/why-is-ai-implementation-failing-in-businesses",
+   "question": "Why is AI implementation failing in businesses? | Listenly",
+   "podcast": "It S Time For Success The Business Insig"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/leaders-of-b2b-podcast-interviews-on-bus/what-should-founders-ask-private-equity-firms",
+   "question": "What should founders ask private equity firms? | Listenly",
+   "podcast": "Leaders Of B2B Podcast Interviews On Bus"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/rev-up-accelerating-your-growth/how-does-scaling-stress-revenue-operations",
+   "question": "How does scaling stress revenue operations? | Listenly",
+   "podcast": "Rev Up Accelerating Your Growth"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/start-small-think-big-a-podcast-and-news/why-does-ai-need-human-judgment-for-code",
+   "question": "Why does AI need human review for code? | Listenly",
+   "podcast": "Start Small Think Big A Podcast And News"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/digital-construction-podcast/career-advice-architecture-bim",
+   "question": "Career advice architecture BIM success? | Listenly",
+   "podcast": "Digital Construction Podcast"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://listenly.org/podcast-btb/m/the-single-source/secondary-equity-in-investment-portfolios",
+   "question": "How to position secondary equity strategies? | Listenly",
+   "podcast": "The Single Source"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/the-cro-spotlight-podcast/why-did-yahoo-fail-customer-acquisition",
+   "question": "What was Yahoo's customer acquisition problem? | Listenly",
+   "podcast": "The Cro Spotlight Podcast"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/the-cro-spotlight-podcast/why-do-top-salespeople-fail-as-managers",
+   "question": "Why do top sellers fail as managers? | The CRO Spotlight",
+   "podcast": "The Cro Spotlight Podcast"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/extraordinary-america/cbdc-concerns-freedom-perspective",
+   "question": "CBDC concerns freedom perspective? | Listenly",
+   "podcast": "Extraordinary America"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/lifelong-learners-collective/how-does-eft-tapping-work",
+   "question": "How does EFT tapping work? | Lifelong Learners Collective",
+   "podcast": "Lifelong Learners Collective"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/talkin-toowoomba/psma-pet-scan-vs-mri-prostate-cancer",
+   "question": "PSMA PET scan vs MRI prostate cancer? | Listenly",
+   "podcast": "Talkin Toowoomba"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/creative-genius-podcast/metal-vs-plexiglass-for-fine-art-photos",
+   "question": "Metal vs plexiglass for fine art photos? | Listenly",
+   "podcast": "Creative Genius Podcast"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/nerding-out-with-viktor/black-hat-white-hat-grey-hat-hackers",
+   "question": "Black hat white hat grey hat hackers? | Listenly",
+   "podcast": "Nerding Out With Viktor"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/the-real-solutions-business-podcast/what-is-answer-engine-optimization-aeo",
+   "question": "What is Answer Engine Optimization (AEO)? | Listenly",
+   "podcast": "The Real Solutions Business Podcast"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/hallocasa-real-estate-show/1-rule-real-estate-metric",
+   "question": "1% rule real estate metric? | HalloCasa Real Estate Show",
+   "podcast": "Hallocasa Real Estate Show"
+  },
+  {
+   "date": "2026-11-24",
+   "url": "https://listenly.org/podcast-btb/m/beyond-the-plan/how-should-brm-work-in-big-projects",
+   "question": "How should BRM work in big projects? | Beyond The Plan",
+   "podcast": "Beyond The Plan"
+  }
+ ]
+}

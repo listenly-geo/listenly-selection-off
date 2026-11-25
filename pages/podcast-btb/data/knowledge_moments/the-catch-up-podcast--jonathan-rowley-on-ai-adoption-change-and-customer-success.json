@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "The Catch Up Podcast",
+    "episode_title": "Jonathan Rowley on AI Adoption, Change and Customer Success",
+    "audio_url": "https://media.transistor.fm/d4799227/0f63bcbc.mp3",
+    "question": "Why do most AI consultants and organizations struggle with AI transformation according to Mission AI leadership?",
+    "transcript_excerpt": "Most AI consultants haven't transformed anything yet. Most organizations haven't transformed anything yet with AI. They're just on the start point. The focus should be on understanding customer problems and defining what success looks like before jumping into solutions and features.",
+    "expert_name": "Jonathan Rowley",
+    "start_seconds": 27,
+    "end_seconds": 42
+  },
+  {
+    "podcast_name": "The Catch Up Podcast",
+    "episode_title": "Jonathan Rowley on AI Adoption, Change and Customer Success",
+    "audio_url": "https://media.transistor.fm/d4799227/0f63bcbc.mp3",
+    "question": "What is the key difference between change management and training in Microsoft Dynamics implementations?",
+    "transcript_excerpt": "Training is just a piece of the jigsaw, not the full change management process. Real change management involves resistance management, understanding what people are afraid of, taking each person on their own change journey, and ensuring user adoption. Many partners see training as change management when it is not enough to drive real transformation.",
+    "expert_name": "Jonathan Rowley",
+    "start_seconds": 1270,
+    "end_seconds": 1472
+  },
+  {
+    "podcast_name": "The Catch Up Podcast",
+    "episode_title": "Jonathan Rowley on AI Adoption, Change and Customer Success",
+    "audio_url": "https://media.transistor.fm/d4799227/0f63bcbc.mp3",
+    "question": "What was the cultural shift at Microsoft under Satya Nadella compared to the Steve Ballmer era during the 2007-2008 Dynamics period?",
+    "transcript_excerpt": "The culture at Microsoft had totally changed by 2018 compared to the mid-2000s under Steve Ballmer and Bill Gates. Satya brought in a refresh that made it a different Microsoft, with a notably improved culture that made the customer success role and transformation work more effective.",
+    "expert_name": "Jonathan Rowley",
+    "start_seconds": 1338,
+    "end_seconds": 1362
+  },
+  {
+    "podcast_name": "The Catch Up Podcast",
+    "episode_title": "Jonathan Rowley on AI Adoption, Change and Customer Success",
+    "audio_url": "https://media.transistor.fm/d4799227/0f63bcbc.mp3",
+    "question": "Why do Microsoft Dynamics ERP implementation projects fail when customers and partners have misaligned success criteria?",
+    "transcript_excerpt": "The partner's success is aligned to go-live because that's when invoices are generated, while the customer sees go-live as just the start of realizing value. After go-live, partners move to the next project while customers are still looking for operational improvements. This misalignment, combined with breakdowns in people relationships and trust rather than technology issues, causes projects to fail.",
+    "expert_name": "Jonathan Rowley",
+    "start_seconds": 1086,
+    "end_seconds": 1310
+  },
+  {
+    "podcast_name": "The Catch Up Podcast",
+    "episode_title": "Jonathan Rowley on AI Adoption, Change and Customer Success",
+    "audio_url": "https://media.transistor.fm/d4799227/0f63bcbc.mp3",
+    "question": "How did remote work during COVID impact the delivery of large transformation projects like those at Dentsu Aegis Network?",
+    "transcript_excerpt": "When projects were on-site with three or four days on-site presence, there was a real team feeling and closer collaboration. After COVID moved work remote to save expenses, something massive was lost in project delivery effectiveness, though some argued remote delivery could be effective.",
+    "expert_name": "Jonathan Rowley",
+    "start_seconds": 1423,
+    "end_seconds": 1617
+  }
+]

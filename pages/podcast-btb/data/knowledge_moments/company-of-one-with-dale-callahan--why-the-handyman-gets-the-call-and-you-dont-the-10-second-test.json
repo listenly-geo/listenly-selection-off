@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Company of One with Dale Callahan",
+    "episode_title": "Why the Handyman Gets the Call and You Don’t (The 10-Second Test)",
+    "audio_url": "https://www.buzzsprout.com/2499635/episodes/20146032-why-the-handyman-gets-the-call-and-you-don-t-the-10-second-test.mp3",
+    "question": "What is the 10-second test for communicating what problem you solve as a technical expert?",
+    "transcript_excerpt": "The 10-second test requires you to tell people in 10 seconds the specific problem you solve. You need clarity on what problem you see and what problem you are looking to solve, ideally in one sentence. For example, a reliability consultant should say 'I'll review your last three failures and tell you what to check before the next shift' instead of vague terms like 'I do reliability consulting.' People pay for a fix they can picture or feel, so you must translate technical work into concrete, tangible results.",
+    "expert_name": null,
+    "start_seconds": 592,
+    "end_seconds": 830
+  },
+  {
+    "podcast_name": "Company of One with Dale Callahan",
+    "episode_title": "Why the Handyman Gets the Call and You Don’t (The 10-Second Test)",
+    "audio_url": "https://www.buzzsprout.com/2499635/episodes/20146032-why-the-handyman-gets-the-call-and-you-don-t-the-10-second-test.mp3",
+    "question": "How did a handyman generate $500,000 in revenue by solving customer problems directly?",
+    "transcript_excerpt": "A handyman who was originally a technical professional started by simply listening to customers' problems and fixing them. His first customer had doors that were hard to open and close; he fixed them. By his second or third year, he was generating $500,000 in annual revenue. He succeeded without formal sales training because people pay for a fix they can picture or feel—in this case, doors that work smoothly—and he focused on understanding and solving concrete customer problems.",
+    "expert_name": null,
+    "start_seconds": 533,
+    "end_seconds": 754
+  },
+  {
+    "podcast_name": "Company of One with Dale Callahan",
+    "episode_title": "Why the Handyman Gets the Call and You Don’t (The 10-Second Test)",
+    "audio_url": "https://www.buzzsprout.com/2499635/episodes/20146032-why-the-handyman-gets-the-call-and-you-don-t-the-10-second-test.mp3",
+    "question": "Why did reframing software development as 'save time and money' instead of 'develop software' increase client interest?",
+    "transcript_excerpt": "When discussing software development with potential clients, the host initially emphasized the technical complexity of the work, which caused people to disengage. After a friend pointed out that 'nobody cares about software' and that clients want their problems solved, he reframed his pitch to say 'we could make things smoother, save them time and save them money.' This shift in language—focusing on the business outcome rather than the technical tool—significantly improved client engagement and sales.",
+    "expert_name": null,
+    "start_seconds": 240,
+    "end_seconds": 735
+  },
+  {
+    "podcast_name": "Company of One with Dale Callahan",
+    "episode_title": "Why the Handyman Gets the Call and You Don’t (The 10-Second Test)",
+    "audio_url": "https://www.buzzsprout.com/2499635/episodes/20146032-why-the-handyman-gets-the-call-and-you-don-t-the-10-second-test.mp3",
+    "question": "How did simplifying a software interface from many options to one or two buttons per screen solve a $12,000 problem?",
+    "transcript_excerpt": "A client had hired another company to develop software, but users found it too complex with too many options per screen. Training new employees took three days instead of the desired 15 minutes. The host's team was hired to fix this by simplifying the interface to show only one or two buttons per screen. The quote was $12,000, the client paid without hesitation because the problem was clear and tangible, and he called them 'geniuses' because the solution was visible and immediately understood.",
+    "expert_name": null,
+    "start_seconds": 362,
+    "end_seconds": 603
+  },
+  {
+    "podcast_name": "Company of One with Dale Callahan",
+    "episode_title": "Why the Handyman Gets the Call and You Don’t (The 10-Second Test)",
+    "audio_url": "https://www.buzzsprout.com/2499635/episodes/20146032-why-the-handyman-gets-the-call-and-you-don-t-the-10-second-test.mp3",
+    "question": "How can technical professionals build a portfolio using one-sentence problem-solution descriptions?",
+    "transcript_excerpt": "A recently trained employee began documenting his work by writing one-sentence descriptions in plain English of each problem he solved and what he did to fix it, without technical jargon. He used the customer's own words to describe the issue (e.g., 'it won't move' or 'it keeps coming out the wrong size') and the fix he applied. Over time, these accumulated into a Word document that became his portfolio, allowing him to track his contributions and present concrete evidence of his work—similar to how an artist shows their portfolio.",
+    "expert_name": null,
+    "start_seconds": 769,
+    "end_seconds": 873
+  }
+]

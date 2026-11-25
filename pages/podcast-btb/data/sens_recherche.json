@@ -1,0 +1,1493 @@
+{
+ "fiches": {
+  "date-line-nbc/049baba10b": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "fait divers judiciaire, personne inconnue du public",
+   "titre_juge": "What sentence did Larry Miliete get? | Dateline NBC",
+   "date": "2026-11-19",
+   "manuel": true
+  },
+  "executive-wins-podcast/e6e987421e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "strategie interne d'un petit etablissement inconnu du public",
+   "titre_juge": "What is NorQuest's strategy? | Executive Wins Podcast",
+   "date": "2026-11-19",
+   "manuel": true
+  },
+  "guy-kawasaki-s-remarkable-people/dad3407a75": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop spécifique et jargonneux. Une personne ne chercherait pas exactement cette formulation. Le sujet (comment se sentir aimé) est utile, mais doit être reformulé de manière naturelle et ",
+   "titre_juge": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
+   "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
+   "date": "2026-11-19",
+   "titre": "How can you feel more loved and valued? | Listenly"
+  },
+  "guy-kawasaki-s-remarkable-people/6150c7b187": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop spécifique et jargonnique. Une personne ordinaire ne chercherait pas « seesaw metaphor in Sonja Lyubomirsky's framework ». Le sujet est utile (comprendre comment se sentir aimé) mais",
+   "titre_juge": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "date": "2026-11-19",
+   "titre": "How can you feel more loved in a relationship? | Listenly"
+  },
+  "3-take-away/30dd4db554": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que quelqu'un pourrait chercher sur Google pour comprendre une relation épidémiologique. Elle est autonome, ne dépend pas de personnalités inconnues ni d'entre",
+   "titre_juge": "What is the relationship between improved medical treatments for heart disease and rising cancer death rates?",
+   "question": "What is the relationship between improved medical treatments for heart disease and rising cancer death rates?",
+   "date": "2026-11-19"
+  },
+  "the-bob-lefsetz-podcast/e6810db1d5": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Val Garay is not a famous public figure known to a general audience. This question hinges on a private individual's career decision, not on widely-known information or useful general knowledge.",
+   "titre_juge": "When did Val Garay leave Stanford School of Medicine to pursue music?",
+   "question": "When did Val Garay leave Stanford School of Medicine to pursue music?",
+   "date": "2026-11-19"
+  },
+  "the-daily-podcast/c790a2fa36": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'un événement ponctuel et de déclarations politiques spécifiques à un moment donné. Elle n'est pas durable : les priorités politiques annoncées lors d'une élection deviennent obsol",
+   "titre_juge": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "date": "2026-11-19"
+  },
+  "date-line-nbc/6bcce2ed29": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question repose sur une affaire criminelle spécifique et des individus peu connus (Andrew Griffin, Strushan). C'est du contenu judiciaire/anecdotique, pas une connaissance durable ou un conseil uti",
+   "titre_juge": "What evidence did prosecutors present that Andrew Griffin traveled to Ohio to commit the Strushan murders?",
+   "question": "What evidence did prosecutors present that Andrew Griffin traveled to Ohio to commit the Strushan murders?",
+   "date": "2026-11-19"
+  },
+  "the-daily-podcast/797063edb0": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La prémisse de la question est factuellement incorrecte. Keisha Lance Bottoms n'a pas remporté la course au poste de gouverneur de Géorgie en 2022 contre Rick Jackson. Brian Kemp (républicain sortant)",
+   "titre_juge": "Why did Keisha Lance Bottoms win the Georgia governor's race despite being outspent by Republican rival Rick Jackson?",
+   "question": "Why did Keisha Lance Bottoms win the Georgia governor's race despite being outspent by Republican rival Rick Jackson?",
+   "date": "2026-11-19"
+  },
+  "the-mel-robbins-podcast/d035335e63": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question repose sur une personne privée peu connue (Didi, épouse du Dr Eric Thomas). Bien que Dr Eric Thomas soit un conférencier motivant connu, la question spécifique concernant sa vie personnell",
+   "titre_juge": "What did Dr. Eric Thomas realize about his wife Didi's sacrifice when she was diagnosed with multiple sclerosis?",
+   "question": "What did Dr. Eric Thomas realize about his wife Didi's sacrifice when she was diagnosed with multiple sclerosis?",
+   "date": "2026-11-19"
+  },
+  "acq2-by-acquired/83a9122a1a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que les gens cherchent sur Google. Compréhensible sans contexte d'épisode. Porte sur un fait public/durable sur ChatGPT (données comparatives). Pas de personne privée ou petite entrepr",
+   "titre_juge": "How fast did ChatGPT reach 100M users? | ACQ2 by Acquired",
+   "question": "How fast did ChatGPT reach 100 million users compared to the web?",
+   "date": "2026-11-19"
+  },
+  "b2b-vault-the-biz-to-biz-podcast/f500a01525": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et technique. Il mentionne un seuil spécifique (0.4 mg) sans expliquer le contexte ou l'enjeu pratique. Un titre reformulé serait plus clair et plus naturel pour une recherch",
+   "titre_juge": "New federal CBD hemp regulations 0.4 mg? | Listenly",
+   "question": "What are the new federal CBD and hemp regulations under the 0.4 milligrams dry weight threshold?",
+   "date": "2026-11-20",
+   "titre": "What are the new federal CBD hemp regulations? | Listenly"
+  },
+  "3-take-away/6d1a7e7a3e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Hinges on a specific historical incident/scandal rather than durable, generalizable knowledge. This is crime/court gossip and one-off news, not advice, method, or explanation useful beyond the inciden",
+   "titre_juge": "How did Chicago public school teachers cheat on No Child Left Behind tests and what did this reveal?",
+   "question": "How did Chicago public school teachers cheat on No Child Left Behind tests and what did this reveal?",
+   "date": "2026-11-19"
+  },
+  "masters-of-scale/a989439e86": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'une actualité spécifique et ponctuelle (un incident particulier entre Chase et Meta), pas d'une connaissance durable ou générale. C'est de la couverture d'événement plutôt qu'un s",
+   "titre_juge": "Why did Chase Bank block Meta's Muse agent specifically?",
+   "question": "Why did Chase Bank block Meta's Muse agent specifically?",
+   "date": "2026-11-19"
+  },
+  "the-bob-lefsetz-podcast/b3b3dd418c": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Joaquin Garay est une personne peu connue du public. La question repose sur des détails spécifiques concernant une personne privée/obscure et sa contribution à un film, ce qui ne satisfait pas au crit",
+   "titre_juge": "What was Joaquin Garay's role in Walt Disney's The Three Caballeros?",
+   "question": "What was Joaquin Garay's role in Walt Disney's The Three Caballeros?",
+   "date": "2026-11-19"
+  },
+  "date-line-nbc/447c70e748": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page repose sur un cas criminel spécifique impliquant une personne peu connue du public. C'est du contenu de faits divers/gossip judiciaire, non une information durable ou utile (conseil, méthode, ",
+   "titre_juge": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
+   "question": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
+   "date": "2026-11-19"
+  },
+  "how-i-built-this-with-guy-raz/4c0330f93f": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question naturelle et searchable sur l'histoire de l'informatique. Dell et IBM sont des marques célèbres. Le sujet est durable (explication historique/comparative). Pas de référence obscure ou de cont",
+   "titre_juge": "What was the key difference between Dell computers and IBM computers in the mid-1980s?",
+   "question": "What was the key difference between Dell computers and IBM computers in the mid-1980s?",
+   "date": "2026-11-19"
+  },
+  "real-wealth-real-health/05d47c9898": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et recherchable par Google. Elle est compréhensible sans contexte d'épisode. Elle porte sur un sujet d'intérêt public (programmes de logements abordables) et non sur une pers",
+   "titre_juge": "What checks and balances exist in affordable housing programs to prevent misuse of financial incentives?",
+   "question": "What checks and balances exist in affordable housing programs to prevent misuse of financial incentives?",
+   "date": "2026-11-19"
+  },
+  "coffee-cap-rates-commercial-real-estate/1bb8af520c": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : quelqu'un pourrait chercher cette question sur Google, elle est compréhensible sans contexte d'épisode, elle porte sur un enjeu public majeur (crise du logement à NYC), et elle o",
+   "titre_juge": "What regulatory and policy reforms are needed to address the affordable housing crisis in New York City?",
+   "question": "What regulatory and policy reforms are needed to address the affordable housing crisis in New York City?",
+   "date": "2026-11-19"
+  },
+  "landscape-leadership-podcast/f738b72db6": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Nature's Turf est une petite entreprise inconnue du grand public. La question dépend de connaître cette entreprise spécifique, ce qui ne satisfait pas le critère 3.",
+   "titre_juge": "How did Nature's Turf use video content in customer communication and sales beyond social media?",
+   "question": "How did Nature's Turf use video content in customer communication and sales beyond social media?",
+   "date": "2026-11-19"
+  },
+  "masters-of-home-service/7377f99eb4": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Pink's Window Cleaning est une petite entreprise peu connue du grand public. La question dépend de la connaissance spécifique de cette entreprise particulière, ne répondant pas au critère 3.",
+   "titre_juge": "What is Pinks Window Cleaning's role versus the franchisee's role in the business relationship?",
+   "question": "What is Pinks Window Cleaning's role versus the franchisee's role in the business relationship?",
+   "date": "2026-11-19"
+  },
+  "america-s-healthcare-advocate/bee63f01b9": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "AptoHealth est une petite entreprise peu connue du grand public, pas une marque célèbre. La question dépend de la connaissance spécifique de cette entreprise, ce qui ne correspond pas aux critères d'a",
+   "titre_juge": "How does AptoHealth's cash pay model reduce administrative costs compared to traditional PPO networks?",
+   "question": "How does AptoHealth's cash pay model reduce administrative costs compared to traditional PPO networks?",
+   "date": "2026-11-19"
+  },
+  "best-franchise-brands-podcast/9f173e18c8": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Larry Oglesby is a little-known individual, not a famous person or public figure. The question hinges entirely on this private entrepreneur's specific business outcome rather than on generalizable bus",
+   "titre_juge": "How quickly did Larry Oglesby reach break-even cash flow with his Redbox+ Dumpsters franchise in Athens, Georgia?",
+   "question": "How quickly did Larry Oglesby reach break-even cash flow with his Redbox+ Dumpsters franchise in Athens, Georgia?",
+   "date": "2026-11-19"
+  },
+  "dentists-who-invest-podcast/7570f21840": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que quelqu'un pourrait chercher (achat immobilier avec peu d'économies). Le titre est clair et compréhensible sans contexte. Il cible un groupe professionnel s",
+   "titre_juge": "How can dentists buy homes with low savings? | Listenly",
+   "question": "What deposit options are available for dentists buying residential property with limited savings?",
+   "date": "2026-11-19"
+  },
+  "the-jay-maymi-talk-show/39a8e15409": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "GrowWatt est une petite marque peu connue du grand public. La question repose sur une comparaison avec une entreprise spécifique et non-célèbre, ce qui ne respecte pas le critère 3 (pas de petites ent",
+   "titre_juge": "How does the GrowWatt battery system compare in price and installation time to Tesla home batteries?",
+   "question": "How does the GrowWatt battery system compare in price and installation time to Tesla home batteries?",
+   "date": "2026-11-19"
+  },
+  "ai-in-chicago/a203298cce": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "George Cardenas is not a widely known public figure. The question hinges on a little-known person rather than explaining a general method or principle. This fails criterion 3.",
+   "titre_juge": "What is George Cardenas' fiscal recovery strategy to address Chicago's budget gap without raising new taxes?",
+   "question": "What is George Cardenas' fiscal recovery strategy to address Chicago's budget gap without raising new taxes?",
+   "date": "2026-11-19"
+  },
+  "austin-tech-connect-the-podcast-for-the/ceef4f6a53": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le titre est une question naturelle et générale que quelqu'un pourrait chercher sur Google. Le sujet (difficultés stratégiques des founders) est durable et utile, indépendant de l'épisode spécifique. ",
+   "titre_juge": "Why is strategy hard for founders? | Austin Tech Connect",
+   "question": "Why is strategic thinking difficult for early-stage founders and how can coaching help?",
+   "date": "2026-11-23"
+  },
+  "automation-awakenings/6611dc650f": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est générique et pertinente pour Google. Elle porte sur un principe méthodologique applicable à l'automatisation d'entrepôts (sujet universel). Le titre est clair, sans référence à des per",
+   "titre_juge": "Why standardize before automating? | Automation Awakenings",
+   "question": "Why is process standardization critical before implementing warehouse automation?",
+   "date": "2026-11-20"
+  },
+  "ayna-insights/c2afce5fc8": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Littelfuse est une petite entreprise peu connue du grand public. La question ne passerait pas le critère 3 : elle dépend de connaissances spécialisées sur une entreprise obscure, pas d'une marque célè",
+   "titre_juge": "What are Littelfuse's three high-growth market segments identified in its strategic refocus?",
+   "question": "What are Littelfuse's three high-growth market segments identified in its strategic refocus?",
+   "date": "2026-11-19"
+  },
+  "behind-the-gavl/4274100e31": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page dépend d'une entreprise ou produit peu connu (Eve). Un étranger ne chercherait pas cette question spécifique sans connaître déjà l'épisode. Manque de contexte public.",
+   "titre_juge": "What does Eve mean by strong AI backing and how does it differentiate from competitors?",
+   "question": "What does Eve mean by strong AI backing and how does it differentiate from competitors?",
+   "date": "2026-11-19"
+  },
+  "behind-the-gavl/989e36204e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Eve est une petite entreprise inconnue du grand public. La question dépend de connaître qui est Eve, ce qui ne satisfait pas le critère 3 (pas de petite entreprise peu connue).",
+   "titre_juge": "How is Eve positioned against major tech companies entering the legal AI space?",
+   "question": "How is Eve positioned against major tech companies entering the legal AI space?",
+   "date": "2026-11-19"
+  },
+  "better-business-better-life/4310c112d9": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question que quelqu'un pourrait chercher sur Google, compréhensible de façon indépendante, conseils durables et utiles pour les propriétaires d'entreprise. Pas de référence à des personnes privées ou ",
+   "titre_juge": "How should business owners handle high-performing employees who violate core values?",
+   "question": "How should business owners handle high-performing employees who violate core values?",
+   "date": "2026-11-19"
+  },
+  "beyond-3d-podcast/2179c0e23b": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "SpinFire est un produit/logiciel peu connu du grand public, pas une marque célèbre. La question repose sur la connaissance d'un outil spécialisé niche plutôt que sur un besoin de recherche universel. ",
+   "titre_juge": "What is SpinFire and why is it essential for automotive suppliers working with multiple CAD formats?",
+   "question": "What is SpinFire and why is it essential for automotive suppliers working with multiple CAD formats?",
+   "date": "2026-11-19"
+  },
+  "beyond-3d-podcast/66fd4b8af2": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Actify est une petite entreprise/marque peu connue du grand public. La question dépend de la connaissance spécifique d'une entreprise obscure, pas d'un concept, méthode ou savoir-faire universel. Ne p",
+   "titre_juge": "How do Actify's automation pipelines reduce time in the CAD data processing workflow for automotive suppliers?",
+   "question": "How do Actify's automation pipelines reduce time in the CAD data processing workflow for automotive suppliers?",
+   "date": "2026-11-19"
+  },
+  "beyond-the-ordinary/49d23d8969": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Renji Bijoy est une personne peu connue du grand public. La page dépend de la notoriété d'un individu privé plutôt que d'offrir un savoir durable et utile sur une méthode générale de recrutement.",
+   "titre_juge": "What is Renji Bijoy's unconventional hiring strategy for identifying top engineering talent?",
+   "question": "What is Renji Bijoy's unconventional hiring strategy for identifying top engineering talent?",
+   "date": "2026-11-19"
+  },
+  "billion-dollar-backstory/6fe6f1c7a7": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle et pertinente (1✓), compréhensible sans contexte d'épisode (2✓), sujet général sur les pratiques professionnelles sans dépendre d'une personne ou entreprise obscure (3✓), conseil durab",
+   "titre_juge": "How do asset managers win competitive tenders? | Listenly",
+   "question": "How do asset managers differentiate in competitive tender processes where all candidates appear identical?",
+   "date": "2026-11-20"
+  },
+  "ecomm-breakthrough/265f52cc7f": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est légitime (différence entre indicateurs avancés et retardataires en e-commerce), la question est naturelle et cherchable, compréhensible sans contexte d'épisode, et fournit du savoir-faire",
+   "titre_juge": "Leading vs lagging ecommerce KPIs? | Ecomm Breakthrough",
+   "question": "What is the difference between leading indicators and lagging metrics in e-commerce business management?",
+   "date": "2026-11-19"
+  },
+  "lcr-media-podcast/b8c7913e3a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est pertinent (amélioration de la rentabilité dans le secteur du jardinage), la question est naturelle et compréhensible sans contexte d'épisode, elle porte sur des conseils professionnels du",
+   "titre_juge": "What hurts lawn care job profit? | LCR Media Podcast",
+   "question": "What inefficiencies should lawn care owners eliminate to improve job profitability?",
+   "date": "2026-11-19"
+  },
+  "lcr-media-podcast/ff467c9029": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Critères satisfaits: (1) Question réelle que quelqu'un pourrait chercher sur Google; (2) Compréhensible de manière autonome sans contexte d'épisode; (3) Sujet général applicable à tous les propriétair",
+   "titre_juge": "How to price lawn jobs by man-hour? | LCR Media Podcast",
+   "question": "How should lawn care business owners calculate their pricing based on man-hour rate?",
+   "date": "2026-11-19"
+  },
+  "your-next-dollar-money-management-for-hi/5a8c9c8587": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est universel et durable (conseil pratique sur l'achat automobile), la question est naturelle et compréhensible sans contexte de l'épisode, et elle ne dépend pas d'individus ou entreprises pr",
+   "titre_juge": "How to check a used car's condition? | Your Next Dollar",
+   "question": "How can you verify the condition of a used car before purchasing it with cash?",
+   "date": "2026-11-20"
+  },
+  "the-single-source/103c535b37": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague, incomplet et mal formulé. La question originale est claire et pertinente, mais le titre proposé perd le contexte et la structure interrogative naturelle.",
+   "titre_juge": "Secondary equity strategies institutional? | Listenly",
+   "question": "How should institutional allocators position secondary equity strategies within diversified portfolio allocations?",
+   "date": "2026-11-23",
+   "titre": "How to position secondary equity strategies? | Listenly"
+  },
+  "more-than-commas/bd2e69ee3c": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Sujet durable et utile (conseil fiscal). Understandable sans contexte d'épisode. Pas de personne privée ou petite entreprise. Titre clair et",
+   "titre_juge": "Can losses offset gambling gains? | More Than Commas",
+   "question": "Can gambling losses offset gambling gains on a tax return without itemizing deductions?",
+   "date": "2026-11-19"
+  },
+  "paid-vocation-with-lupe-prado/f9b8588cd0": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Bird's Bookstore est une petite entreprise locale peu connue du public, pas une marque célèbre. La question porte sur un fait historique spécifique et anecdotique (date d'ouverture) plutôt que sur un ",
+   "titre_juge": "When did Bird's open? | Paid Vocation with Lupe Prado",
+   "question": "When did Bird's Bookstore open in Dallas?",
+   "date": "2026-11-19"
+  },
+  "the-jay-maymi-talk-show/c782d2ed34": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend du contexte d'un épisode spécifique et repose sur des détails localisés (impact au Texas). Elle n'est pas générale et n'est pas utile de manière durable - elle mélange un fait histo",
+   "titre_juge": "When did solar tax credits end? | The Jay Maymi Talk Show",
+   "question": "When did the federal solar tax credit expire and how did this impact the solar business model in Texas?",
+   "date": "2026-11-19"
+  },
+  "best-franchise-brands-podcast/6847ae5310": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question originale porte sur Kaizen et son application par Sean Foley chez Redbox+ Dumpsters. Le titre actuel est vague et ne reflète pas le contenu réel. De plus, Redbox+ Dumpsters est une petite ",
+   "titre_juge": "What makes Redbox+ unique? | Best Franchise Brands Podcast",
+   "question": "What is Kaizen and how does Sean Foley apply it to leading the Redbox+ Dumpsters brand?",
+   "date": "2026-11-19"
+  },
+  "engineering-unblocked/8e0a6faf0d": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Swarmia est une petite entreprise peu connue du grand public. La question porte sur un détail spécifique et privé de cette entreprise (durée de construction d'une intégration), pas sur un sujet durabl",
+   "titre_juge": "How long did Swarmia's build take? | Engineering Unblocked",
+   "question": "How long did it take Swarmia to build an integration using AI agents according to Build?",
+   "date": "2026-11-19"
+  },
+  "hallocasa-real-estate-show/4fb639fa94": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet répond à tous les critères : c'est une question que quelqu'un pourrait chercher sur Google, elle est compréhensible de façon autonome, elle porte sur une métrique/méthode générale (pas sur un",
+   "titre_juge": "1% rule real estate metric? | HalloCasa Real Estate Show",
+   "question": "What is the 1% rule metric that Atlanta real estate investors use to evaluate buy-and-hold properties?",
+   "date": "2026-11-19"
+  },
+  "lifelong-learners-collective/d462fac409": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet (EFT tapping) est un concept établi et durable; la question est naturelle et compréhensible sans contexte d'épisode; le titre est clair et pertinent pour une recherche Google.",
+   "titre_juge": "How does EFT tapping work? | Lifelong Learners Collective",
+   "question": "What is EFT tapping and how does it differ from talk therapy in treating stress and limiting beliefs?",
+   "date": "2026-11-19"
+  },
+  "the-diary-of-a-ceo-with-steven-bartlett/c1568118e2": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (74 caractères) et trop spécifique à Daniel Ek. Bien que Ek soit une figure publique connue comme fondateur de Spotify, la question est centrée sur sa philosophie personnelle év",
+   "titre_juge": "What is Daniel Ek's current philosophy on company culture, and how has his perspective evolved since founding Spotify?",
+   "question": "What is Daniel Ek's current philosophy on company culture, and how has his perspective evolved since founding Spotify?",
+   "date": "2026-11-19",
+   "titre": "How has Daniel Ek's view on culture changed? | Listenly"
+  },
+  "the-mel-robbins-podcast/e0fb589281": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre mentionne un expert spécifique (Dr. Eric Thomas) qui n'est pas une personnalité publique largement connue. Cela rend la question trop dépendante de l'épisode plutôt que de répondre à une ques (titre clair impossible en 58 caracteres)",
+   "titre_juge": "How should women who fear disappointing their family by stopping caregiving duties respond, according to Dr. Eric Thomas?",
+   "question": "How should women who fear disappointing their family by stopping caregiving duties respond, according to Dr. Eric Thomas?",
+   "date": "2026-11-19"
+  },
+  "builders-by-proxify/37173584f6": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Une question légitime que quelqu'un pourrait chercher sur Google concernant la gouvernance d'entreprise et l'IA. Le sujet est compréhensible de manière autonome, porte sur des enjeux généraux (pas de ",
+   "titre_juge": "What prevents boards from having meaningful discussions about AI's impact on organizational decision-making?",
+   "question": "What prevents boards from having meaningful discussions about AI's impact on organizational decision-making?",
+   "date": "2026-11-19"
+  },
+  "building-up-your-business/6767fd4dea": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (77 caractères) et peu naturel comme requête Google. La question est légitime mais doit être formulée de manière plus concise et conversationnelle.",
+   "titre_juge": "Why do most organizations miss vendor cost optimization opportunities despite having these contracts?",
+   "question": "Why do most organizations miss vendor cost optimization opportunities despite having these contracts?",
+   "date": "2026-11-19",
+   "titre": "Why do companies miss vendor cost optimization? | Listenly"
+  },
+  "building-up-your-business/ab20a2ea2e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "ERA Group est une petite entreprise peu connue du grand public. La question porte sur la stratégie spécifique d'une entreprise obscure, pas sur un concept, méthode ou savoir-faire généralisable. Ne pa",
+   "titre_juge": "What is ERA Group's scale and reach for obtaining benchmark pricing data across industries and geographies?",
+   "question": "What is ERA Group's scale and reach for obtaining benchmark pricing data across industries and geographies?",
+   "date": "2026-11-19"
+  },
+  "business-on-top-with-kaeli-lindholm/f400b7a44e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Perfect Dose est une petite entreprise inconnue du grand public, pas une marque célèbre. La page ne passerait pas le critère 3.",
+   "titre_juge": "What is Perfect Dose's franchising strategy and expansion timeline?",
+   "question": "What is Perfect Dose's franchising strategy and expansion timeline?",
+   "date": "2026-11-19"
+  },
+  "c2-biz-growth/3ed7a2a33f": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Sujet durable et utile (conseil en gouvernance financière pour l'IA). Compréhensible sans contexte d'épisode. Pas de personne privée ou peti",
+   "titre_juge": "What controls should CFOs put in place for AI agents handling payments, pricing changes, and customer service decisions?",
+   "question": "What controls should CFOs put in place for AI agents handling payments, pricing changes, and customer service decisions?",
+   "date": "2026-11-19"
+  },
+  "catching-up-with-cub/4684ffb9b3": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Criterion 3 violated: 'Your Empire' appears to be a small/unknown company, not a famous brand or public figure that general audiences would recognize. The question is too specific to this private enti",
+   "titre_juge": "How have the Australian government's recent negative gearing changes affected Your Empire's property investment strategy?",
+   "question": "How have the Australian government's recent negative gearing changes affected Your Empire's property investment strategy?",
+   "date": "2026-11-19"
+  },
+  "clear-the-shelf-with-chris-chris/94f33c2a7a": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend entièrement d'une personne peu connue (Chad). Sans contexte du podcast, un étranger ne saurait pas qui est Chad ni pourquoi ses outils logiciels l'intéressent. Cela ne répond pas au",
+   "titre_juge": "What software tools has Chad built without coding experience, and how did he automate a state sales tax audit?",
+   "question": "What software tools has Chad built without coding experience, and how did he automate a state sales tax audit?",
+   "date": "2026-11-19"
+  },
+  "construction-genius-construction-leaders/951fb6fa0d": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et ne reflète pas le contenu spécifique de la réponse (trois domaines critiques où les incendies commencent + gestion du temps). Un étranger ne comprendrait pas de quoi ",
+   "titre_juge": "Critical problem areas in construction? | Listenly",
+   "question": "What are the three critical areas where fires start in construction companies and how should owners block time for each?",
+   "date": "2026-11-21",
+   "titre": "Where do fires start in construction companies? | Listenly"
+  },
+  "sorry-we-re-closed-with-pat-light/23e1a59ce2": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Sujet valide : comparaison entre deux marques connues (Robinhood vs Vanguard). Question réelle et compréhensible sans contexte d'épisode. Utile et durable comme conseil d'investissement. Le titre est ",
+   "titre_juge": "How does Robinhood compare to Vanguard? | Listenly",
+   "question": "How does Robinhood's user interface and promotional strategy compare to competitors like Vanguard?",
+   "date": "2026-11-19"
+  },
+  "airdrie-inside/e72a93bd5c": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et incomplet (point d'interrogation mal placé, formulation maladroite). La question originale est claire et utile : elle demande l'impact concret du logement de transition po",
+   "titre_juge": "Supportive housing homeless seniors? | Listenly",
+   "question": "What real difference does affordable supportive living housing make for seniors transitioning from homelessness?",
+   "date": "2026-11-19",
+   "titre": "Supportive housing homeless seniors? | Listenly"
+  },
+  "extropy-on-air-finance-transformation-ap/3bd756b678": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est vague et mal formulé. La question originale porte spécifiquement sur les LACUNES/MANQUES de compétences, pas simplement sur les compétences nécessaires. Le titre doit clarifier ce  (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Skills leaders need digital transformation? | Listenly",
+   "question": "What capabilities are missing for leaders managing digital transformation projects?",
+   "date": "2026-11-19"
+  },
+  "lcr-media-podcast/b5d5d43569": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est vague et ne reflète pas clairement le sujet. La question originale porte sur la communication de congés professionnels, pas simplement sur la fermeture. Un titre plus clair et plus (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Can owners close for conferences? | LCR Media Podcast",
+   "question": "How can lawn care business owners communicate time off for industry conferences without losing customer trust?",
+   "date": "2026-11-19"
+  },
+  "billion-dollar-backstory/c1e329b50c": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est vague et incompréhensible hors contexte (« Relationship roles equal PMs? »). La question originale porte sur un conseil d'investissement stratégique pour les gestionnaires d'actifs (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Relationship roles equal PMs? | Billion Dollar Backstory",
+   "question": "Why should asset managers invest in relationship and communication capabilities alongside portfolio management talent?",
+   "date": "2026-11-19"
+  },
+  "extropy-on-air-finance-transformation-ap/0a55250484": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre est vague et perd le contexte important de la transformation numérique. La question originale est plus spécifique et utile pour une recherche Google. Le titre actuel ne montre pas clairement  (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Why finance teams need peer communities? | Listenly",
+   "question": "Why do finance and procurement professionals value peer communities during digital transformation implementation?",
+   "date": "2026-11-19"
+  },
+  "the-diary-of-a-ceo-with-steven-bartlett/4511b8bc68": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et manque de contexte. Il ne précise pas pourquoi cette information est pertinente (l'aspect inhabituel pour l'époque). Le passage traite d'une leçon commerciale/historique s",
+   "titre_juge": "How much did Spotify's founders invest in 2007? | Listenly",
+   "question": "How much personal capital did Daniel Ek and his co-founder invest into Spotify in 2007, and what made this unusual for that time?",
+   "date": "2026-11-19",
+   "titre": "Why was Spotify's 2007 funding model unusual? | Listenly"
+  },
+  "david-anderson-talking-market-data/33f28b6062": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est légitime (qualité des données financières), la question est compréhensible sans contexte d'épisode, elle répond à une recherche réelle, et le contenu offre de la connaissance durable sur ",
+   "titre_juge": "What causes poor quality financial data? | Listenly",
+   "question": "What causes poor quality data in financial market data delivery, and what are the downstream business consequences?",
+   "date": "2026-11-19"
+  },
+  "ditch-digger-ceo-with-gary-rabine/751a96eee7": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'un produit/service spécialisé peu connu (Davisware) et d'un segment commercial très niche. Un inconnu ne rechercherait pas cette question précise sans connaître déjà le produit. C",
+   "titre_juge": "What is the annual cost and return on investment for small HVAC companies using Davisware?",
+   "question": "What is the annual cost and return on investment for small HVAC companies using Davisware?",
+   "date": "2026-11-19"
+  },
+  "do-business-do-life-the-financial-adviso/a24a59801a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question pertinente que quelqu'un pourrait chercher sur Google. Sujet durable et utile (conseil professionnel). Pas de dépendance à des personnes inconnues ou à l'épisode spécifique. Titre clair et bi",
+   "titre_juge": "Why should financial advisors avoid leading with products when working with high-net-worth individuals?",
+   "question": "Why should financial advisors avoid leading with products when working with high-net-worth individuals?",
+   "date": "2026-11-19"
+  },
+  "driven-for-success/ad36b79c69": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (77 caractères avec le point d'interrogation) et trop spécifique/technique. C'est une question de niche B2B qui ne serait pas typiquement tapée telle quelle dans Google. Il faut",
+   "titre_juge": "How can tracking complete driver work hours improve business decisions beyond payroll compliance?",
+   "question": "How can tracking complete driver work hours improve business decisions beyond payroll compliance?",
+   "date": "2026-11-19",
+   "titre": "Why track driver work hours beyond payroll? | Listenly"
+  },
+  "executive-edge-podcast/00766ec85f": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop vague et historique. La question originale porte sur le moment où cela est devenu 'critique', pas seulement quand c'est 'commencé'. Un chercheur Google cherchant de l'information pra",
+   "titre_juge": "When did supply chain risk monitoring start? | Listenly",
+   "question": "When did supply chain risk monitoring become critical for corporations?",
+   "date": "2026-11-19",
+   "titre": "Why is supply chain risk monitoring important? | Listenly"
+  },
+  "how-i-built-this-with-guy-raz/ce9098db00": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est vague et ressemble à du clickbait ('monthly earnings in dorm?'). La question est compréhensible mais le format n'est pas naturel pour une recherche Google. Il faut un titre plus clair et ",
+   "titre_juge": "Michael Dell monthly earnings in dorm? | Listenly",
+   "question": "How much money was Michael Dell making per month while operating from his dorm room?",
+   "date": "2026-11-20",
+   "titre": "How much money did Michael Dell make? | Listenly"
+  },
+  "executive-edge-podcast/a3790cb60c": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question pertinente que quelqu'un pourrait chercher sur Google. Sujet professionnel durable (supply chain management). Pas de référence à des personnes privées ou inconnues. Understandable sans contex",
+   "titre_juge": "How are organizations moving from reactive to forward-looking supply chain risk monitoring?",
+   "question": "How are organizations moving from reactive to forward-looking supply chain risk monitoring?",
+   "date": "2026-11-19"
+  },
+  "expert-insights/af398cb0c4": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est pertinente et générale (quelqu'un pourrait la chercher), compréhensible sans contexte, ne dépend pas d'une personne inconnue, et porte sur un sujet durable (impact de l'IA sur les équi",
+   "titre_juge": "How is AI changing mortgage marketing teams? | Listenly",
+   "question": "How has AI technology eliminated the need for specialized marketing teams in mortgage origination?",
+   "date": "2026-11-22"
+  },
+  "federal-tech-podcast-for-innovators-entr/641d6e9a6c": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est pertinente pour un professionnel de la cybersécurité (CISO) cherchant des conseils pratiques. Elle est compréhensible sans contexte de l'épisode, traite d'une méthode durable et utile,",
+   "titre_juge": "How should CISOs prioritize vulnerabilities? | Listenly",
+   "question": "How should CISOs prioritize among thousands of vulnerabilities when AI and frontier models are generating massive vulnerability lists?",
+   "date": "2026-11-20"
+  },
+  "file-notes/12ee1dacb5": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Critère 3 échoué : CCH et LawBase sont des entités peu connues du grand public. La question dépend de connaître ces noms obscurs. Critère 4 échoué : c'est une anecdote historique spécifique sur un inc",
+   "titre_juge": "What incident in Penang revealed why CCH's LawBase expansion into Malaysia failed?",
+   "question": "What incident in Penang revealed why CCH's LawBase expansion into Malaysia failed?",
+   "date": "2026-11-19"
+  },
+  "for-the-23-the-woman-of-color-business-e/4e308a6925": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question commerciale générale sur le suivi des résultats et la crédibilité. Le titre est clair, naturel et compréhensible sans contexte d'épisode. Pas de personne privé",
+   "titre_juge": "How does tracking results build credibility? | Listenly",
+   "question": "Why does tracking client results create business legitimacy and increase conversions?",
+   "date": "2026-11-21"
+  },
+  "the-diary-of-a-ceo-with-steven-bartlett/9ac330b04c": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend entièrement de personnes peu connues du grand public (Martin, co-fondateur de Spotify, et Daniel Ek). Un inconnu ne chercherait pas « Quel rôle a joué Martin » sans contexte préalab",
+   "titre_juge": "What role did Martin, Spotify's co-founder, play in keeping Daniel Ek motivated during the 18-month negotiation period with record labels?",
+   "question": "What role did Martin, Spotify's co-founder, play in keeping Daniel Ek motivated during the 18-month negotiation period with record labels?",
+   "date": "2026-11-20"
+  },
+  "freakonomics-radio/b0b058ace4": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page dépend d'une citation historique spécifique d'une personne peu connue du grand public (James Madison en 1787). C'est une question de trivia historique, pas un savoir durable ou utile pour réso",
+   "titre_juge": "What did James Madison say about the motives behind representative appointments in 1787?",
+   "question": "What did James Madison say about the motives behind representative appointments in 1787?",
+   "date": "2026-11-20"
+  },
+  "the-bob-lefsetz-podcast/96826938c8": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Val Garay is not a famous public figure; the Bobby Gray Trio is obscure. This hinges on private/little-known individuals. The question is too specific to one person's biography and lacks general utili",
+   "titre_juge": "What was the Bobby Gray Trio's significance in Val Garay's musical education?",
+   "question": "What was the Bobby Gray Trio's significance in Val Garay's musical education?",
+   "date": "2026-11-20"
+  },
+  "the-diary-of-a-ceo-with-steven-bartlett/3e2d56aa09": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Daniel Ek est une personnalité publique très connue (fondateur de Spotify). La question est compréhensible de façon autonome, utile (elle offre des conseils sur la recherche et la préparation avant le",
+   "titre_juge": "Why did Daniel Ek spend 500 hours researching the music industry problem before launching Spotify?",
+   "question": "Why did Daniel Ek spend 500 hours researching the music industry problem before launching Spotify?",
+   "date": "2026-11-20"
+  },
+  "date-line-nbc/802c1416e0": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Crime/court gossip - cas criminel spécifique impliquant un individu privé. Pas une explication, méthode ou savoir durable, mais une actualité judiciaire ponctuelle.",
+   "titre_juge": "What was the verdict in the Maya Miliete murder case after trial in 2024?",
+   "question": "What was the verdict in the Maya Miliete murder case after trial in 2024?",
+   "date": "2026-11-20"
+  },
+  "the-bob-lefsetz-podcast/1190d3c92f": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend de connaissances spécialisées sur un label discographique historique peu connu et des groupes locaux spécifiques. Ce n'est pas une question qu'un utilisateur Google typique poserait",
+   "titre_juge": "What was the Autumn Records label and its connection to early San Francisco rock bands?",
+   "question": "What was the Autumn Records label and its connection to early San Francisco rock bands?",
+   "date": "2026-11-20"
+  },
+  "fort-worth-property-management-podcast/d1eb271d53": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Sujet durable et utile (stratégies commerciales et tarifaires). Pas de références privées ou contexte d'épisode nécessaire. Titre clair et b",
+   "titre_juge": "What marketing and pricing strategies should landlords use in fall versus summer?",
+   "question": "What marketing and pricing strategies should landlords use in fall versus summer?",
+   "date": "2026-11-20"
+  },
+  "franchise-radio-show/39017f2580": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Pacific Lawn Sprinklers est une petite entreprise peu connue du grand public, pas une marque célèbre. La question porte sur des détails spécifiques d'une entreprise privée inconnue, ce qui ne correspo",
+   "titre_juge": "What is Pacific Lawn Sprinklers business model and how many franchisees does it currently operate?",
+   "question": "What is Pacific Lawn Sprinklers business model and how many franchisees does it currently operate?",
+   "date": "2026-11-20"
+  },
+  "freightwaves-live-an-events-podcast/135b2f4a8a": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend entièrement du contexte de l'épisode spécifique. Sans connaître l'épisode, un utilisateur Google ne saurait pas quel changement de politique est en question, ni pourquoi cette infor",
+   "titre_juge": "Why did the FMCSA shift its stance on freight fraud and cargo theft enforcement?",
+   "question": "Why did the FMCSA shift its stance on freight fraud and cargo theft enforcement?",
+   "date": "2026-11-20"
+  },
+  "gabfocus-self-storage-podcast/30d689be0d": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (93 caractères) et trop spécifique à la structure de l'épisode. Il combine deux questions distinctes de manière maladroite. Une personne chercherait probablement un titre plus c",
+   "titre_juge": "What is the tiered pricing strategy (value, standard, premium) and how does showing a crossed-out price increase perceived value?",
+   "question": "What is the tiered pricing strategy (value, standard, premium) and how does showing a crossed-out price increase perceived value?",
+   "date": "2026-11-20",
+   "titre": "Do tiered pricing and crossed-out prices work? | Listenly"
+  },
+  "gabfocus-self-storage-podcast/826ef4c6bf": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Sujet compréhensible indépendamment de l'épisode. Porte sur une stratégie commerciale générale (self-storage), pas sur une personne ou entre",
+   "titre_juge": "How does occupancy rate influence pricing strategy in self-storage facilities?",
+   "question": "How does occupancy rate influence pricing strategy in self-storage facilities?",
+   "date": "2026-11-20"
+  },
+  "global-medical-device-podcast-powered-by/2c0799cd1d": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le sujet dépend d'une connaissance spécialisée de réglementations très techniques (QMSR) et de statistiques internes à une industrie de niche. Une personne lambda ne chercherait pas cette question spé",
+   "titre_juge": "Why is risk management the most cited QMSR compliance violation?",
+   "question": "Why is risk management the most cited QMSR compliance violation?",
+   "date": "2026-11-20"
+  },
+  "hitting-the-mark/809992a869": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Critères 1 et 3 non satisfaits. La question repose sur des personnages inconnus du public (Kent et Jeff). Personne ne ferait cette recherche spécifique sans connaître le podcast. Pas de sujet générali",
+   "titre_juge": "Why did Kent avoid paid advertising for over five years despite Jeff's advertising background?",
+   "question": "Why did Kent avoid paid advertising for over five years despite Jeff's advertising background?",
+   "date": "2026-11-20"
+  },
+  "hr-benecast/0e68bfdd88": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend entièrement d'une petite entreprise inconnue du public (Judy Health). Critère 3 non satisfait : ce n'est ni une marque célèbre ni une personnalité publique connue.",
+   "titre_juge": "How does Judy Health's cost-plus transparent PBM model address fiduciary concerns raised by recent PBM lawsuits?",
+   "question": "How does Judy Health's cost-plus transparent PBM model address fiduciary concerns raised by recent PBM lawsuits?",
+   "date": "2026-11-20"
+  },
+  "inspired-leadership-hr-workplace-culture/347dac06ce": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Revacore est une petite entreprise peu connue du grand public. La question dépend de connaître cette entreprise spécifique et son approche particulière, ce qui ne satisfait pas le critère 3 (pas de pe",
+   "titre_juge": "What is Revacore's approach to job description redesign and automation with Claude AI?",
+   "question": "What is Revacore's approach to job description redesign and automation with Claude AI?",
+   "date": "2026-11-20"
+  },
+  "it-s-time-for-success-the-business-insig/4aa3eb557b": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que quelqu'un pourrait chercher sur Google concernant les défis de l'IA en entreprise. Le titre est clair, compréhensible sans contexte d'épisode, et porte sur",
+   "titre_juge": "Why is AI implementation failing in businesses? | Listenly",
+   "question": "Why is AI implementation failing in many businesses despite heavy investment?",
+   "date": "2026-11-22"
+  },
+  "the-vurge/7eba6c6de9": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est pertinent et utile : quelqu'un pourrait chercher cette question. La page explique un concept applicable et durable (transformation numérique dans les systèmes de santé ruraux). Le titre e",
+   "titre_juge": "What is rural health digital transformation? | The Vurge",
+   "question": "What does digital transformation actually mean for rural health systems?",
+   "date": "2026-11-20"
+  },
+  "empowering-industry-podcast-a-production/23b878ca95": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et utilise des termes peu explicites (« forwarder continuity ») qui ne reflètent pas clairement le sujet réel. Une personne ne taperait pas cette question telle quelle dans G",
+   "titre_juge": "How does forwarder continuity help? | Empowering Industry",
+   "question": "What value does relationship-based logistics management provide compared to large-scale forwarding operations?",
+   "date": "2026-11-20",
+   "titre": "Benefits of relationship-based logistics? | Listenly"
+  },
+  "ai-product-and-design-podcast/06a45fedad": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que quelqu'un pourrait chercher sur Google concernant l'adoption de l'IA en entreprise. Le titre est clair, compréhensible sans contexte d'épisode, et porte su",
+   "titre_juge": "Why does AI fail without use cases? | AI, Product & Design",
+   "question": "Why do companies fail when adopting AI without proper use case definition?",
+   "date": "2026-11-20"
+  },
+  "ai-marketing-transformation/ecd513dafa": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'une organisation spécifique (ANA) et de recommandations particulières qui ne sont pas durables ou généralement utiles. C'est une question trop spécialisée et liée à une source pré",
+   "titre_juge": "ANA AI certificates for marketers? | Listenly",
+   "question": "What certificate programs and training does ANA recommend for marketers learning about AI and account-based marketing?",
+   "date": "2026-11-20"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/146f10237d": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est pertinent et durable (conseil métier pour founders), la question est naturelle et cherchable, compréhensible sans contexte de l'épisode. Le titre actuel est clair et approprié.",
+   "titre_juge": "What should founders ask private equity firms? | Listenly",
+   "question": "What five questions should a founder ask a private equity firm on an introductory call to evaluate if they are a good fit?",
+   "date": "2026-11-20"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/1825ad83c2": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre utilise des guillemets et du jargon ('levers of fit') qui ne sont pas naturels pour une recherche Google. Un utilisateur tapperait plutôt une question plus simple et directe sur l'évaluation ",
+   "titre_juge": "What are the key 'levers of fit' that startups use to evaluate candidates in uncertain markets?",
+   "question": "What are the key 'levers of fit' that startups use to evaluate candidates in uncertain markets?",
+   "date": "2026-11-20",
+   "titre": "How do startups evaluate candidates? | Listenly"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/6022116d0e": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (79 caractères) et trop technique/jargonneux. Un utilisateur Google rechercherait une formulation plus naturelle et concise sur ce problème commercial.",
+   "titre_juge": "What is the impact of conflicting time horizons between sales quota cycles and actual customer buying cycles?",
+   "question": "What is the impact of conflicting time horizons between sales quota cycles and actual customer buying cycles?",
+   "date": "2026-11-20",
+   "titre": "How do sales quotas affect buying cycles? | Listenly"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/72dc42490f": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop spécifique et dépend du contexte de l'épisode (« selon go-to-market analysis »). La statistique « 9 sur 10 » semble être une affirmation vague qui nécessite vérification. Un titre pl",
+   "titre_juge": "Why do nine out of ten companies fail according to go-to-market analysis?",
+   "question": "Why do nine out of ten companies fail according to go-to-market analysis?",
+   "date": "2026-11-20",
+   "titre": "Why do most startups fail? | Listenly"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/af2f79e51b": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Versatile est une petite entreprise inconnue du public; la question ne passerait pas une recherche Google générale. Elle repose sur une connaissance spécifique de cette entreprise plutôt que sur un be",
+   "titre_juge": "What is Versatile's approach to AI analysis of construction data rather than making predictive or prescriptive recommendations?",
+   "question": "What is Versatile's approach to AI analysis of construction data rather than making predictive or prescriptive recommendations?",
+   "date": "2026-11-20"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/e199d9f6c3": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est un conseil commercial durable et utile (comment éviter la commoditisation en ventes B2B). La question est compréhensible de manière autonome. Le titre est naturel et peut être tapé dans G",
+   "titre_juge": "How to avoid commoditization in sales talks? | Listenly",
+   "question": "How can companies anchor value in sales conversations before the proposal stage to avoid commoditization?",
+   "date": "2026-11-20"
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus/eac330d005": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Criterion 3 violated: Malloy Industries is not a famous brand or public figure known to the general public. The answer depends on what this specific company recommends, making it too niche and company",
+   "titre_juge": "What is the ideal company size and revenue stage for hiring a fractional sales executive according to Malloy Industries?",
+   "question": "What is the ideal company size and revenue stage for hiring a fractional sales executive according to Malloy Industries?",
+   "date": "2026-11-21"
+  },
+  "legal-innovation-spotlight/6bab464a60": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "AOSphere est une petite entreprise peu connue du grand public. La question dépend de connaître cette société spécifique, ce qui ne satisfait pas le critère 3.",
+   "titre_juge": "What pain points does AOSphere solve for financial services institutions?",
+   "question": "What pain points does AOSphere solve for financial services institutions?",
+   "date": "2026-11-21"
+  },
+  "legal-innovation-spotlight/fc6db2f5fc": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle et générale que quelqu'un pourrait chercher. Understandable sans contexte d'épisode. Sujet professionnel durable et utile (expertise métier). Pas de référence à un individu ou entrepri",
+   "titre_juge": "Law firm expertise gaps launching products? | Listenly",
+   "question": "What business expertise gaps do law firms face when launching product businesses?",
+   "date": "2026-11-21"
+  },
+  "long-term-investing-with-baskin-wealth-m/4fea56a6e7": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "CoreWeave est une entreprise peu connue du grand public. La question repose sur la connaissance d'une petite entreprise spécialisée, pas sur un concept, une méthode ou une explication durable et utile",
+   "titre_juge": "How do CoreWeave and other AI infrastructure companies differ from TSMC in funding their growth?",
+   "question": "How do CoreWeave and other AI infrastructure companies differ from TSMC in funding their growth?",
+   "date": "2026-11-21"
+  },
+  "mailbox-money-show/25ee26c32d": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Dustin Heiner est une personne peu connue du grand public, pas une figure publique établie. La question repose sur son approche personnelle spécifique, ce qui ne satisfait pas au critère 3.",
+   "titre_juge": "What is Dustin Heiner's approach to acquiring undervalued properties using multiple offers?",
+   "question": "What is Dustin Heiner's approach to acquiring undervalued properties using multiple offers?",
+   "date": "2026-11-21"
+  },
+  "max-and-the-supplychainheroes/2b93c3598e": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop spécifique et anecdotique avec l'exemple d'Oktoberfest. Une personne chercherait une réponse générale sur la prévision de la demande avec IA et événements externes, pas cet exemple p",
+   "titre_juge": "How can AI improve demand forecasting accuracy by incorporating external events like Oktoberfest?",
+   "question": "How can AI improve demand forecasting accuracy by incorporating external events like Oktoberfest?",
+   "date": "2026-11-21",
+   "titre": "AI demand forecasting with external events? | Listenly"
+  },
+  "digital-construction-podcast/6e3e7243c3": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et peu naturel comme requête Google. Il manque de contexte et ne formule pas clairement une question que quelqu'un taperait réellement. Le sujet est valide (conseil de carriè",
+   "titre_juge": "Career advice architecture BIM? | Listenly",
+   "question": "What career advice has most shaped professional development in the architecture and BIM industry?",
+   "date": "2026-11-23",
+   "titre": "Career advice architecture BIM success? | Listenly"
+  },
+  "more-2-marketing-podcast-expert-advice-o/b5e889c1b4": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (79 caractères) et trop spécifique/jargonné. 'AI visibility and citation' est peu clair pour les utilisateurs Google. Il faut simplifier en gardant l'essence : comment améliorer",
+   "titre_juge": "What are the three priority actions for budget-limited marketing teams to improve AI visibility and citation?",
+   "question": "What are the three priority actions for budget-limited marketing teams to improve AI visibility and citation?",
+   "date": "2026-11-21",
+   "titre": "Small budget AI visibility marketing? | Listenly"
+  },
+  "msp-unplugged/e143455340": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Usecure est une petite entreprise peu connue du grand public. La question dépend entièrement de connaître cette marque spécifique et n'intéresse que les professionnels MSP familiers avec ce produit. P",
+   "titre_juge": "What does usecure's platform automate for MSPs managing human risk without hiring additional staff?",
+   "question": "What does usecure's platform automate for MSPs managing human risk without hiring additional staff?",
+   "date": "2026-11-21"
+  },
+  "nerdbrand-podcast/7bec22dbdb": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Lens Factory est une petite entreprise inconnue du grand public. La question dépend de la connaissance d'une entreprise spécifique peu connue, ce qui ne correspond pas à un sujet durable et utile pour",
+   "titre_juge": "What is Lens Factory's approach to customer service compared to AI chatbots?",
+   "question": "What is Lens Factory's approach to customer service compared to AI chatbots?",
+   "date": "2026-11-21"
+  },
+  "practice-success/20c71106b0": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "eFreedom et 'Lawyers with Purpose' sont des programmes/initiatives spécifiques et peu connus du grand public. Cette page ne répond pas à une question que quelqu'un chercherait naturellement sur Google",
+   "titre_juge": "What is eFreedom and what does the E stand for in the Lawyers with Purpose program?",
+   "question": "What is eFreedom and what does the E stand for in the Lawyers with Purpose program?",
+   "date": "2026-11-21"
+  },
+  "real-wealth-real-health/ba8811d301": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Holliday Ventures est une petite entreprise peu connue du grand public. La question dépend de la connaissance de cette organisation spécifique plutôt que d'un sujet général utile et durable.",
+   "titre_juge": "How does Holliday Ventures incorporate community and services into affordable housing design from day one?",
+   "question": "How does Holliday Ventures incorporate community and services into affordable housing design from day one?",
+   "date": "2026-11-21"
+  },
+  "restaurant-rockstars-podcast/c61627d858": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Le sujet (vente de restaurant avec/sans immobilier) est compréhensible sans contexte d'épisode. C'est un conseil commercial durable et utile",
+   "titre_juge": "Restaurant sale with vs without real estate? | Listenly",
+   "question": "What is the difference between selling a restaurant with real estate versus without, and which is more common?",
+   "date": "2026-11-21"
+  },
+  "rev-up-accelerating-your-growth/630cb79a28": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et pertinente pour quelqu'un cherchant à comprendre la justification économique d'embauches en revenue operations. C'est une question métier durable sur le ROI des ressources",
+   "titre_juge": "How does conversion rate improvement justify adding revenue operations headcount?",
+   "question": "How does conversion rate improvement justify adding revenue operations headcount?",
+   "date": "2026-11-21"
+  },
+  "rev-up-accelerating-your-growth/7422a55621": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est générique et pertinente (quelqu'un pourrait la chercher), compréhensible sans contexte d'épisode, basée sur des processus professionnels universels (pas de personne ou entreprise incon",
+   "titre_juge": "How does scaling stress revenue operations? | Listenly",
+   "question": "What stresses does scaling put on revenue operations processes and technology?",
+   "date": "2026-11-21"
+  },
+  "security-grc-decoded/f8f4d2198d": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et générique (quelqu'un peut la taper dans Google), elle est autonome et compréhensible sans contexte d'épisode, elle porte sur un sujet technique durable et utile (méthodolo",
+   "titre_juge": "How to choose AI models for offensive security? | Listenly",
+   "question": "How should organizations evaluate which AI models and providers to use for offensive security tasks?",
+   "date": "2026-11-22"
+  },
+  "start-small-think-big-a-podcast-and-news/8804ff5600": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et perd le contexte technique important (infrastructure, scalabilité, sécurité). Un étranger ne saurait pas de quel type de révision il s'agit.",
+   "titre_juge": "Why does AI need human review for code? | Listenly",
+   "question": "How does AI need human judgment when generating code or automation scripts for infrastructure, particularly regarding scalability and security?",
+   "date": "2026-11-23",
+   "titre": "Why does AI need human review for code? | Listenly"
+  },
+  "state-of-customer-storytelling/c51a93a9ab": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (63 caractères avec le point d'interrogation) et trop vague/jargonneux. Un utilisateur Google cherchant une solution marketing concrète ne taperait pas exactement cette formulat",
+   "titre_juge": "What technique maximizes output from a single customer conversation for multiple marketing use cases?",
+   "question": "What technique maximizes output from a single customer conversation for multiple marketing use cases?",
+   "date": "2026-11-22",
+   "titre": "Repurpose customer interviews for marketing? | Listenly"
+  },
+  "the-real-solutions-business-podcast/b29af8b06b": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est légitime et durable (définition/explication d'une méthode marketing moderne). La question est naturelle et cherchable. Le titre est clair et sans contexte privé. Pas de besoin de reformul",
+   "titre_juge": "What is Answer Engine Optimization (AEO)? | Listenly",
+   "question": "What is Answer Engine Optimization (AEO) and how does it differ from traditional SEO?",
+   "date": "2026-11-24"
+  },
+  "stay-paid-podcast/7f25f42eb0": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Corinne Nguyen est une personne peu connue du public. La page dépend entièrement de son identité personnelle plutôt que de partager une méthode ou un savoir-faire généraliste utile et durable.",
+   "titre_juge": "What is Corinne Nguyen's ideal agent profile for recruitment?",
+   "question": "What is Corinne Nguyen's ideal agent profile for recruitment?",
+   "date": "2026-11-22"
+  },
+  "sunny-s-silver-linings/951f050cb1": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et recherchable (quelqu'un pourrait la taper dans Google), elle est autonome et compréhensible sans contexte d'épisode, elle porte sur des concepts généraux (MSP, cybersécuri",
+   "titre_juge": "Why is AI-powered cybersecurity becoming a major revenue opportunity for MSPs compared to traditional security services?",
+   "question": "Why is AI-powered cybersecurity becoming a major revenue opportunity for MSPs compared to traditional security services?",
+   "date": "2026-11-22"
+  },
+  "system-soul/2d8374024c": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Jason Moore est une personne peu connue du public. La page dépend entièrement de son expérience personnelle et de son entreprise spécifique, ce qui ne correspond pas à un sujet généralisable d'intérêt",
+   "titre_juge": "What does Jason Moore's healthcare technology company experience reveal about the founder's dilemma when growth stalls?",
+   "question": "What does Jason Moore's healthcare technology company experience reveal about the founder's dilemma when growth stalls?",
+   "date": "2026-11-22"
+  },
+  "system-soul/b8ceb3d289": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page dépend d'une personne peu connue (Benj Miller). C'est une anecdote personnelle spécifique, pas une méthode, conseil ou connaissance durable utile au public général.",
+   "titre_juge": "How did Benj Miller's decision to refuse help from a leader cost him more than half of his marketing business?",
+   "question": "How did Benj Miller's decision to refuse help from a leader cost him more than half of his marketing business?",
+   "date": "2026-11-22"
+  },
+  "talking-too-loud-with-chris-savage/a0c7c84f4f": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Wistia est une petite entreprise peu connue du grand public. La question dépend de connaissances spécifiques sur cette marque niche plutôt que d'un besoin informatif général que quelqu'un taperait dan",
+   "titre_juge": "When did Wistia expand from video hosting to add editing, recording, and live capabilities?",
+   "question": "When did Wistia expand from video hosting to add editing, recording, and live capabilities?",
+   "date": "2026-11-22"
+  },
+  "tea-time-with-tech-marketing-leaders/b44952c9c5": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'un contexte spécifique à l'épisode (startups de cybersécurité en phase précoce) qui est trop niche. Un étranger ne tape pas cette recherche précise. La question manque d'utilité g",
+   "titre_juge": "How is AI being used in content creation and marketing at early-stage cybersecurity startups?",
+   "question": "How is AI being used in content creation and marketing at early-stage cybersecurity startups?",
+   "date": "2026-11-22"
+  },
+  "the-cannabis-accounting-podcast/5969f7a1cb": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et cherchable (1). Elle est compréhensible sans contexte d'épisode (2). Elle concerne une méthode générale applicable à un secteur légal et établi (3). C'est un conseil durab",
+   "titre_juge": "How to forecast sales for multi-store cannabis? | Listenly",
+   "question": "What forecasting method works best for multi-store cannabis operators when stores are in different markets?",
+   "date": "2026-11-22"
+  },
+  "the-cannabis-accounting-podcast/cc175d0307": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que les détaillants de cannabis rechercheraient ; autonome et compréhensible sans contexte d'épisode ; conseil commercial durable et utile sur la gestion des stocks ; pas de personnage",
+   "titre_juge": "What aging inventory threshold should cannabis retailers target to optimize cash conversion?",
+   "question": "What aging inventory threshold should cannabis retailers target to optimize cash conversion?",
+   "date": "2026-11-22"
+  },
+  "the-cro-spotlight-podcast/3bb9b8597a": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop vague et manque de contexte. 'Why did Yahoo fail to win customers?' est une question générale sur l'échec de Yahoo, mais le passage traite spécifiquement d'un problème stratégique de",
+   "titre_juge": "Why did Yahoo fail to win customers? | The CRO Spotlight",
+   "question": "What problem did Yahoo face in its customer acquisition strategy that contributed to business decline?",
+   "date": "2026-11-24",
+   "titre": "What was Yahoo's customer acquisition problem? | Listenly"
+  },
+  "the-cro-spotlight-podcast/dcf51c1c0c": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le titre est une question naturelle que quelqu'un pourrait chercher sur Google. Le sujet est générique (gestion/leadership), durable (conseil professionnel applicable), et ne dépend pas d'une personne",
+   "titre_juge": "Why do top sellers fail as managers? | The CRO Spotlight",
+   "question": "What is Rob Wilk's perspective on why high-performing individual contributor salespeople often fail when promoted to management roles?",
+   "date": "2026-11-24"
+  },
+  "the-data-masterclass-podcast/637ee1aaad": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "MindFuel est une petite entreprise inconnue du grand public. La question dépend entièrement de connaître cette entreprise spécifique. Critère 3 non respecté.",
+   "titre_juge": "What framework did MindFuel develop to address the gap between AI use cases and P&L value creation?",
+   "question": "What framework did MindFuel develop to address the gap between AI use cases and P&L value creation?",
+   "date": "2026-11-23"
+  },
+  "the-dynamo-show-a-dynamo-ventures-podcas/ff1185a05e": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop spécialisé et technique. Bien que la question soit valide et durable (conseil opérationnel), elle est formulée de manière trop jargonnée pour une recherche Google naturelle. Un utili",
+   "titre_juge": "What operational challenges arise from liquid cooling in AI infrastructure during the decommissioning process?",
+   "question": "What operational challenges arise from liquid cooling in AI infrastructure during the decommissioning process?",
+   "date": "2026-11-23",
+   "titre": "How do you decommission liquid cooling systems? | Listenly"
+  },
+  "the-friday-habit/8fed476fd6": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Symfolio est une petite entreprise/produit peu connu du grand public. La question dépend de la connaissance d'une marque spécifique plutôt que d'un concept général. Pas un sujet que quelqu'un recherch",
+   "titre_juge": "What is Symfolio and how does it streamline the furniture procurement process?",
+   "question": "What is Symfolio and how does it streamline the furniture procurement process?",
+   "date": "2026-11-23"
+  },
+  "the-gym-lords-podcast/6e4316e673": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop long (91 caractères) et trop spécifique à un cas d'usage niche. Il ne correspond pas à une requête Google naturelle qu'un inconnu taperait. La question est trop détaillée et combine ",
+   "titre_juge": "How should gym owners price a New Year's challenge to profitably acquire members without upfront marketing budget?",
+   "question": "How should gym owners price a New Year's challenge to profitably acquire members without upfront marketing budget?",
+   "date": "2026-11-23",
+   "titre": "How to price gym membership challenges? | Listenly"
+  },
+  "the-kansas-city-market-pulse/a4c6813f24": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et inverse la logique. La question originale porte sur un cas spécifique (comment un cap rate plus bas peut générer plus de cash flow année 1). Le titre proposé est cont",
+   "titre_juge": "Why does lower cap rate produce more cash flow? | Listenly",
+   "question": "Why does a 6% cap rate $2 million all-cash deal generate more year-one cash flow than a 7% cap rate $6 million deal with 65% leverage?",
+   "date": "2026-11-23",
+   "titre": "How does leverage affect year-one cash flow? | Listenly"
+  },
+  "the-orita-podcast/b34b4ac8d2": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Koio est une petite marque de luxe peu connue du grand public. La question dépend d'une connaissance spécifique de cette entreprise plutôt que d'un sujet général que quelqu'un rechercherait naturellem",
+   "titre_juge": "What brand-building tactics did Koio use to build customer loyalty in its early years?",
+   "question": "What brand-building tactics did Koio use to build customer loyalty in its early years?",
+   "date": "2026-11-23"
+  },
+  "the-pleasant-street-pod/b6f4530e97": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "SyntheticFi est une petite entreprise/produit peu connu du grand public, pas une marque célèbre. La question dépend de connaître cette entreprise spécifique. Critère 3 non respecté.",
+   "titre_juge": "How does SyntheticFi's box spread borrowing strategy compare to traditional margin loans in terms of interest rates?",
+   "question": "How does SyntheticFi's box spread borrowing strategy compare to traditional margin loans in terms of interest rates?",
+   "date": "2026-11-23"
+  },
+  "the-trimetric-roadmap-podcast-with-scott/8211f721a0": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et perd le contexte clé de la question : le paradoxe de comment la valeur est créée si l'argent emprunté doit être remboursé. C'est un concept économique important qui m",
+   "titre_juge": "How does productive credit create value? | Listenly",
+   "question": "How does productive credit create economic value when borrowed money must be repaid?",
+   "date": "2026-11-23",
+   "titre": "How does borrowed money create economic value? | Listenly"
+  },
+  "empowering-industry-podcast-a-production/0bca597933": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est générique et pertinente (quelqu'un pourrait la chercher), compréhensible sans contexte d'épisode, ne dépend pas d'une personne inconnue, et offre des conseils durables sur les réseaux ",
+   "titre_juge": "How do professional networks solve logistics? | Listenly",
+   "question": "What role do strategic professional networks and contacts play in solving logistics challenges?",
+   "date": "2026-11-24"
+  },
+  "msp-unplugged/31f896ead2": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Tous les critères sont satisfaits: 1) Une vraie personne pourrait poser cette question sur Google, 2) La page est compréhensible indépendamment de l'épisode, 3) Les MSPs sont un sujet professionnel lé",
+   "titre_juge": "Can MSPs win with human risk management? | MSP Unplugged",
+   "question": "How can MSPs differentiate themselves and win more business by focusing on human risk management?",
+   "date": "2026-11-23"
+  },
+  "the-astonishing-healthcare-podcast/4a05f2ea68": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est trop vague et technique. Il suppose une connaissance du contexte (fichiers de transparence tarifaire, données de réclamations). Un étranger ne chercherait pas exactement cette ques (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Why validate claims data for drug pricing? | Healthcare",
+   "question": "Why is data validation critical when using price transparency files and claims data to identify drug pricing opportunities?",
+   "date": "2026-11-23"
+  },
+  "the-josh-bersin-podcast/616e46088f": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est trop vague ('How do teams shift to AI-driven performance?'). Il perd le contexte spécifique de la question originale (passage de la formation traditionnelle à l'AI dans le flux de  (titre clair impossible en 58 caracteres)",
+   "titre_juge": "How do teams shift to AI-driven performance? | Bersin",
+   "question": "How can organizations move from traditional push-based training certification models to AI-driven performance enablement in the flow of work?",
+   "date": "2026-11-23"
+  },
+  "beyond-luxury/26f50e3f57": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est pertinente et générale (comment les marques de luxe créent-elles une culture authentique). Le titre est clair, compréhensible sans contexte, et traite d'une stratégie commerciale durab",
+   "titre_juge": "Can luxury brands build real culture? | Beyond Luxury",
+   "question": "How can luxury brands distinguish between creating culture versus merely achieving cultural visibility?",
+   "date": "2026-11-23"
+  },
+  "commercially-speaking-podcast-commercial/0dde6bab24": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que quelqu'un pourrait chercher sur Google, elle est compréhensible sans contexte, elle ne dépend pas d'une personne inconnue, et elle offre des conseils/expli",
+   "titre_juge": "Why do advisors shun alternatives? | Commercially Speaking",
+   "question": "Why do financial advisors typically discourage their clients from investing in alternative investments?",
+   "date": "2026-11-23"
+  },
+  "ordinary-to-badass/f071d215cf": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est universel et durable (conseils de carrière), la question est naturelle et compréhensible sans contexte d'épisode. Elle ne dépend pas d'une personne inconnue ou d'une petite entreprise.",
+   "titre_juge": "Do job labels limit career growth? | Ordinary To Badass",
+   "question": "How can workplace categories and reputation limit career advancement opportunities?",
+   "date": "2026-11-23"
+  },
+  "rock-your-money-rock-your-life/4b620a2fc4": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le titre est une question naturelle et claire qu'un utilisateur pourrait taper dans Google. Il est compréhensible sans contexte de l'épisode, ne dépend pas de personnes ou entreprises peu connues, et ",
+   "titre_juge": "What budget gets you from debt to wealth? | Rock Money",
+   "question": "What is the most effective budget structure for someone transitioning from debt to wealth accumulation?",
+   "date": "2026-11-23"
+  },
+  "the-trimetric-roadmap-podcast-with-scott/bd88b38d9a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est légitime et durable : c'est une question d'éducation financière et de stratégie commerciale qu'un entrepreneur pourrait réellement chercher sur Google. La question est claire, autonome et",
+   "titre_juge": "What is the difference between productive credit and destructive credit for businesses?",
+   "question": "What is the difference between productive credit and destructive credit for businesses?",
+   "date": "2026-11-23"
+  },
+  "the-uncut-short-term-rental-podcast/80f63c74ea": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre est trop long (104 caractères) et trop spécifique au contexte du podcast. Il doit être raccourci et formulé comme une vraie question Google naturelle. (titre clair impossible en 58 caracteres)",
+   "titre_juge": "What is the difference in outcomes between property owners who view guests as adversaries versus those focused on guest experience in the short-term rental industry?",
+   "question": "What is the difference in outcomes between property owners who view guests as adversaries versus those focused on guest experience in the short-term rental industry?",
+   "date": "2026-11-23"
+  },
+  "the-way-we-source/76206b6ca7": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "KR Barron est une personne peu connue du grand public. La page dépend d'une connaissance préalable de cette individu spécifique, ce qui ne correspond pas à un résultat Google utile pour un étranger.",
+   "titre_juge": "What is KR Barron's career path into procurement, and what drew her to the function?",
+   "question": "What is KR Barron's career path into procurement, and what drew her to the function?",
+   "date": "2026-11-23"
+  },
+  "third-fridays/c08ac016c8": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre dépend d'une personne peu connue ('Greg') sans contexte. Un étranger ne saurait pas qui est Greg ni pourquoi son avis sur la sécurité serait pertinent. La question n'est pas généralisable.",
+   "titre_juge": "What security risks did Greg identify with cloud-based AI systems like ChatGPT in legal practice?",
+   "question": "What security risks did Greg identify with cloud-based AI systems like ChatGPT in legal practice?",
+   "date": "2026-11-23"
+  },
+  "voice-is/2e94c005f3": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et suppose une connaissance préalable du contexte (la décision Dobbs, l'accès à l'avortement au Texas). Un étranger cherchant sur Google ne comprendrait pas le lien entr",
+   "titre_juge": "How did shadow docket affect Texas abortion? | Listenly",
+   "question": "What is the shadow docket and how did it affect abortion access in Texas before the Dobbs decision?",
+   "date": "2026-11-23",
+   "titre": "What is the Supreme Court shadow docket? | Listenly"
+  },
+  "wealth-in-yourself/523fb1423a": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Shane Wilson est une personne peu connue du public. La page dépend de son identité personnelle plutôt que d'offrir des conseils généralisables sur un sujet d'intérêt public.",
+   "titre_juge": "What is Shane Wilson's approach to building multiple income streams to protect against market downturns?",
+   "question": "What is Shane Wilson's approach to building multiple income streams to protect against market downturns?",
+   "date": "2026-11-23"
+  },
+  "what-the-frac-your-fractional-executives/0faec68c7b": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le titre répond à une question qu'un utilisateur pourrait chercher sur Google. Il est compréhensible de manière autonome, porte sur un sujet général et durable (conseil en leadership sur l'adoption de",
+   "titre_juge": "How should leaders navigate AI adoption? | Listenly",
+   "question": "How should leaders navigate AI adoption without losing focus on core business problems?",
+   "date": "2026-11-23"
+  },
+  "winsday/9d6f937204": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle et générale que quelqu'un pourrait chercher sur Google. Le sujet est utile et durable (conseil marketing applicable), sans dépendre d'une personne ou entreprise spécifique. Le titre es",
+   "titre_juge": "Why should marketers avoid using stock photos in service industry marketing?",
+   "question": "Why should marketers avoid using stock photos in service industry marketing?",
+   "date": "2026-11-23"
+  },
+  "winsday/f4c3817bc5": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est pertinente et générique (quelqu'un pourrait la chercher), compréhensible sans contexte d'épisode, basée sur des principes marketing universels (pas de personne privée ou petite entrepr",
+   "titre_juge": "How to use demographics in local marketing? | Listenly",
+   "question": "How should demographics drive marketing strategy for local service businesses?",
+   "date": "2026-11-23"
+  },
+  "wired-in-with-saanand-warrier/7fb2495e9e": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question dépend d'une personne peu connue du public (Naren) et d'une petite marque (Nandus). Ce n'est pas une question générique que quelqu'un rechercherait sans connaître l'épisode.",
+   "titre_juge": "Why did Naren transition from farming to launching the Nandus consumer brand?",
+   "question": "Why did Naren transition from farming to launching the Nandus consumer brand?",
+   "date": "2026-11-23"
+  },
+  "ahwam-podcast/b9e35e43d8": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question est trop spécifique à un contexte régional (Nigeria/Afrique) et ressemble à une question d'épisode plutôt qu'une recherche Google générale. Un utilisateur chercherait plutôt une réponse gé (titre clair impossible en 58 caracteres)",
+   "titre_juge": "Why is sales and PR crucial for real estate companies in Nigeria and across Africa?",
+   "question": "Why is sales and PR crucial for real estate companies in Nigeria and across Africa?",
+   "date": "2026-11-23"
+  },
+  "small-business-finance-your-guide-to-bus/55dcb38a90": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et peu naturel. Les gens rechercheraient plutôt une explication concrète de la stratégie, pas une abréviation technique avec un point d'interrogation flottant.",
+   "titre_juge": "S-Corp self-rental equity building? | Listenly",
+   "question": "How does the self-rental strategy work for S-Corporation owners who want to stop paying a landlord and build equity in their own real estate?",
+   "date": "2026-11-25",
+   "titre": "How do S-Corp owners build real estate equity? | Listenly"
+  },
+  "kern-county-real-estate-review/1fd3482a24": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle et pertinente que quelqu'un pourrait chercher sur Google. Sujet d'actualité générale (assurance habitation en Californie) sans dépendre d'un individu ou entreprise privée peu connue. C",
+   "titre_juge": "How do homeowners insurance challenges affect home purchases in California?",
+   "question": "How do homeowners insurance challenges affect home purchases in California?",
+   "date": "2026-11-24"
+  },
+  "authority-hacker-podcast-ai-automation-f/92ccf9bfb6": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : quelqu'un peut chercher les tarifs et limites d'utilisation de Claude. C'est une information durable sur un produit connu (Anthropic Claude). La question est claire, indépendante",
+   "titre_juge": "What are the individual Claude subscription pricing tiers and usage limits in 2024?",
+   "question": "What are the individual Claude subscription pricing tiers and usage limits in 2024?",
+   "date": "2026-11-24"
+  },
+  "extraordinary-america/837a7ffddb": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est suffisamment général et durable (explication des préoccupations concernant les CBDC), la question est compréhensible de manière autonome, et elle ne dépend pas d'une personne ou entrepris",
+   "titre_juge": "CBDC concerns freedom perspective? | Listenly",
+   "question": "What are the main concerns about a central bank digital currency from a freedom perspective?",
+   "date": "2026-11-24"
+  },
+  "mcnamaraonmoney/1a69387777": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est utile et durable (conseil financier sur l'aide aux études), la question est naturelle et compréhensible sans contexte d'épisode, et elle concerne un processus public standard (SAI) connu ",
+   "titre_juge": "What is a Student Aid Index (SAI) calculator and how do families use it to estimate financial aid eligibility?",
+   "question": "What is a Student Aid Index (SAI) calculator and how do families use it to estimate financial aid eligibility?",
+   "date": "2026-11-24"
+  },
+  "the-ecom-ops-podcast/766eff2f07": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et cherchable sur Google. Elle est compréhensible sans contexte d'épisode. Le sujet est durable (explication de concepts généraux en e-commerce) et non lié à une personne ou ",
+   "titre_juge": "What is the difference between innovation and invention in e-commerce product trends?",
+   "question": "What is the difference between innovation and invention in e-commerce product trends?",
+   "date": "2026-11-24"
+  },
+  "the-integration-hub/5d2bc14a8f": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page dépend d'une personne peu connue (Dave Finnegan) pour son autorité. Un utilisateur Google rechercherait la thèse du livre directement, pas l'interprétation d'un podcasteur inconnu. Cela viole ",
+   "titre_juge": "What is the main thesis of 'The Comfort Crisis' by Michael Easter according to Dave Finnegan?",
+   "question": "What is the main thesis of 'The Comfort Crisis' by Michael Easter according to Dave Finnegan?",
+   "date": "2026-11-24"
+  },
+  "the-campaign-a-marketing-podcast-by-97th/225a09e8b9": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : c'est une question que des marketeurs pourraient chercher sur Google. Elle est compréhensible de façon autonome, traite d'une stratégie marketing générale (pas de personne inconn",
+   "titre_juge": "Why should marketers adopt short-form video as their primary creative practice in the zero click era?",
+   "question": "Why should marketers adopt short-form video as their primary creative practice in the zero click era?",
+   "date": "2026-11-24"
+  },
+  "benefits-executive-roundtable/de8408837e": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que quelqu'un pourrait chercher sur Google. Sujet compréhensible de manière autonome sans connaissance de l'épisode. Concerne Medicare (programme public bien connu). Information durabl",
+   "titre_juge": "What is the Medicare Part B late enrollment penalty structure for those who delay enrollment?",
+   "question": "What is the Medicare Part B late enrollment penalty structure for those who delay enrollment?",
+   "date": "2026-11-24"
+  },
+  "point-of-impact-with-aaron-hale/28904cea37": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La page dépend d'une personne peu connue du public (Jon Sheldon). Sans contexte de l'épisode, un inconnu ne chercherait pas spécifiquement 'Why quit the Marines' en rapport avec cet individu particuli",
+   "titre_juge": "Why quit the Marines? | Point Of Impact With Aaron Hale",
+   "question": "Why did Jon Sheldon leave the Marine Corps after two deployments?",
+   "date": "2026-11-24"
+  },
+  "talkin-toowoomba/295955d9b3": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre est trop vague et technique sans contexte. Un utilisateur Google cherchant cette information voudrait une question plus claire mentionnant le cancer de la prostate explicitement.",
+   "titre_juge": "How does PSMA PET differ from MRI? | Talkin' Toowoomba",
+   "question": "What is a PSMA PET scan and how does it differ from an MRI scan in prostate cancer detection?",
+   "date": "2026-11-24",
+   "titre": "PSMA PET scan vs MRI prostate cancer? | Listenly"
+  },
+  "creative-genius-podcast/c1b464ec08": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est trop vague et perd le contexte technique. Un chercheur Google ne saurait pas qu'il s'agit de photographie d'art ou de sublimation sur teinture. Le sujet est assez spécialisé et dur",
+   "titre_juge": "Is metal better than plexiglass? | Creative Genius Podcast",
+   "question": "What makes dye sublimation printing on metal superior to plexiglass for fine art photography?",
+   "date": "2026-11-24",
+   "titre": "Metal vs plexiglass for fine art photos? | Listenly"
+  },
+  "nerding-out-with-viktor/a4b17b60a0": {
+   "v": 1,
+   "verdict": "retitrer",
+   "raison": "Le titre actuel est vague et perd le contexte. 'Black and white hats' sans précision sur les hackers n'est pas une question naturelle qu'on taperait dans Google. Le sujet réel concerne les types de ha",
+   "titre_juge": "What are black and white hats? | Nerding Out With Viktor",
+   "question": "What are black hat, white hat, and grey hat hackers and how do they differ in their approach to security vulnerabilities?",
+   "date": "2026-11-24",
+   "titre": "Black hat white hat grey hat hackers? | Listenly"
+  },
+  "beyond-the-plan/9ed7094430": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est générique et pertinente pour Google (quelqu'un pourrait chercher comment structurer la gestion des relations commerciales dans les grands projets). Le titre est compréhensible sans con",
+   "titre_juge": "How should BRM work in big projects? | Beyond The Plan",
+   "question": "How should business relationship management be structured in major projects?",
+   "date": "2026-11-24"
+  },
+  "southeast-texas-works/aa99e0e8d8": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle et courante, compréhensible sans contexte, utile et durable. Couvre les exigences professionnelles pour un poste public connu.",
+   "titre_juge": "How to become a texas game warden? | Listenly",
+   "question": "What are the minimum requirements to become a Texas Game Warden?",
+   "date": "2026-11-24"
+  },
+  "benefits-executive-roundtable/c75fe90508": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet répond aux 4 critères : (1) une vraie question que quelqu'un cherchant des infos sur Medicare Part D poserait, (2) compréhensible en autonomie sans contexte d'épisode, (3) ne dépend pas d'une",
+   "titre_juge": "What are the 2027 Medicare Part D prescription drug deductible and out-of-pocket maximum changes?",
+   "question": "What are the 2027 Medicare Part D prescription drug deductible and out-of-pocket maximum changes?",
+   "date": "2026-11-24"
+  },
+  "more-than-commas/4b67d7caf2": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et recherchable (fiscalité des jeux d'argent). Elle est compréhensible sans contexte d'épisode. Le sujet concerne des règles fiscales générales, pas une personne privée ou in",
+   "titre_juge": "Can gambling losses offset winnings for taxes? | Listenly",
+   "question": "What happens if you lose $15,000 gambling and then win $15,000 on the same casino visit but do not itemize deductions?",
+   "date": "2026-11-24"
+  },
+  "building-pa-podcast/d4d3a05345": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "La question est naturelle et générique (quelqu'un pourrait la chercher sur Google), elle est compréhensible sans contexte d'épisode, elle porte sur une discipline professionnelle connue, et elle offre",
+   "titre_juge": "Why choose construction management? | Building PA Podcast",
+   "question": "What unique advantages does a career in construction management offer compared to other engineering disciplines?",
+   "date": "2026-11-24"
+  },
+  "beyond-the-plan/40bafffa4b": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "La question repose sur RoboDebt, un scandale australien spécifique impliquant des acteurs et des contextes peu connus du grand public. Elle ne passe pas le test 3 (ne concerne pas une marque/personne ",
+   "titre_juge": "How did governance blur into policing? | Beyond The Plan",
+   "question": "What role did confusion between governance and policing play in RoboDebt's punitive outcomes?",
+   "date": "2026-11-24"
+  },
+  "forum-focus/fc5dc8098a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le titre répond à un sujet réel et générique (pratiques de paiement dans la construction), c'est une question qu'on peut googler, c'est utile et durable (conseils métier), et ne dépend pas de personna",
+   "titre_juge": "What payment terms hurt construction most? | Forum Focus",
+   "question": "What are the most damaging payment term practices in the construction industry?",
+   "date": "2026-11-24"
+  },
+  "ai-a16z/6018102d0f": {
+   "v": 1,
+   "verdict": "rejeter",
+   "raison": "Le titre actuel est vague et perd le contexte temporel. La question originale demande un point d'inflexion spécifique (« at what point »), mais le titre ne le reflète pas clairement. Il faut une formu (titre clair impossible en 58 caracteres)",
+   "titre_juge": "When did open source AI become critical? | Listenly",
+   "question": "At what point did open source AI models become critical infrastructure rather than an experimental curiosity?",
+   "date": "2026-11-24"
+  },
+  "insight-out-big-ideas-decoded/4385eb892a": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Le sujet est valide : quelqu'un pourrait chercher cette question sur Google. La page est autonome et explique un concept scientifique durable. Le titre actuel est acceptable bien qu'un peu imprécis.",
+   "titre_juge": "Heart rate variability and stress? | Listenly",
+   "question": "What does heart rate variability reveal about stress and recovery?",
+   "date": "2026-11-25"
+  },
+  "the-retirement-ready-show/8993dac98b": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question réelle que les gens cherchent sur Google. Compréhensible sans contexte. Sujet durable et utile (explication financière/juridique). Pas lié à une personne privée ou inconnue.",
+   "titre_juge": "Revocable vs irrevocable trust? | Listenly",
+   "question": "What is the difference between a revocable trust and an irrevocable trust?",
+   "date": "2026-11-25"
+  },
+  "the-entrepreneurial-strategy-series/3f1027a4ca": {
+   "v": 1,
+   "verdict": "ok",
+   "raison": "Question générique et utile (propriété intellectuelle), compréhensible sans contexte d'épisode, durable, et que quelqu'un pourrait chercher sur Google. Titre clair et direct.",
+   "titre_juge": "What are the four main types of intellectual property and how do they differ?",
+   "question": "What are the four main types of intellectual property and how do they differ?",
+   "date": "2026-11-25"
+  }
+ },
+ "maj": "2026-11-25"
+}

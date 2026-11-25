@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "The AI Report Podcast",
+    "episode_title": "How GoFundMe Sets Up AI Agents to Build Software Overnight | Arnie Katz, CPTO",
+    "audio_url": "https://traffic.megaphone.fm/TPG8384258097.mp3",
+    "question": "What is GoFundMe's Smart Fundraising Coach and how does it help people create fundraisers?",
+    "transcript_excerpt": "The Smart Fundraising Coach is an AI agent designed to help people tell their story in the right way by filling in all necessary details and coaching them through the entire fundraising process—from creating a fundraiser to marketing it and ensuring they get the resources needed. It was built to help people like a stressed parent outside a hospital who needs to raise money but lacks fundraising expertise.",
+    "expert_name": "Arnie Katz",
+    "start_seconds": 1069,
+    "end_seconds": 1118
+  },
+  {
+    "podcast_name": "The AI Report Podcast",
+    "episode_title": "How GoFundMe Sets Up AI Agents to Build Software Overnight | Arnie Katz, CPTO",
+    "audio_url": "https://traffic.megaphone.fm/TPG8384258097.mp3",
+    "question": "How has the cost of building products changed with AI, and what does this mean for product experimentation?",
+    "transcript_excerpt": "The cost of building is going down dramatically—potentially approaching zero cost soon. This means you can make much larger bets on experiments and try five different radical changes to your service simultaneously across different audiences, whereas before you had to build small, observe, and then make bigger bets based on signal.",
+    "expert_name": "Arnie Katz",
+    "start_seconds": 711,
+    "end_seconds": 953
+  },
+  {
+    "podcast_name": "The AI Report Podcast",
+    "episode_title": "How GoFundMe Sets Up AI Agents to Build Software Overnight | Arnie Katz, CPTO",
+    "audio_url": "https://traffic.megaphone.fm/TPG8384258097.mp3",
+    "question": "Does artificial intelligence need human taste and judgment to build good products, or will AI eventually replace that?",
+    "transcript_excerpt": "Taste and human judgment are becoming even more important in the age of AI, not less so. While you can now build systems that radically change your service and test them at scale, human judgment will always be needed to decide which bets to make. Historical pattern recognition shows that every technology revolution made more problems worth solving, requiring more humans, not fewer.",
+    "expert_name": "Arnie Katz",
+    "start_seconds": 683,
+    "end_seconds": 891
+  },
+  {
+    "podcast_name": "The AI Report Podcast",
+    "episode_title": "How GoFundMe Sets Up AI Agents to Build Software Overnight | Arnie Katz, CPTO",
+    "audio_url": "https://traffic.megaphone.fm/TPG8384258097.mp3",
+    "question": "How much time does Arnie Katz spend on product reviews versus management at GoFundMe?",
+    "transcript_excerpt": "As Chief Product and Technology Officer managing 400 people, Katz spends approximately 15 to 20 hours per week reviewing product progress—including engineering designs, page designs, product principles, and go-live metrics. The remainder of his time covers one-on-ones with his team, executive meetings, board participation, and mentoring other leaders.",
+    "expert_name": "Arnie Katz",
+    "start_seconds": 305,
+    "end_seconds": 447
+  },
+  {
+    "podcast_name": "The AI Report Podcast",
+    "episode_title": "How GoFundMe Sets Up AI Agents to Build Software Overnight | Arnie Katz, CPTO",
+    "audio_url": "https://traffic.megaphone.fm/TPG8384258097.mp3",
+    "question": "What example shows how AI is now making it economical to fix small product problems that weren't worth solving before?",
+    "transcript_excerpt": "A radio station app that Katz's wife uses wasn't displaying song names on a Tesla screen for years because fixing it wasn't economical. However, the problem suddenly got fixed with AI coding capabilities, demonstrating how AI makes previously uneconomical problems worth solving and improves overall quality of life.",
+    "expert_name": "Arnie Katz",
+    "start_seconds": 839,
+    "end_seconds": 920
+  }
+]

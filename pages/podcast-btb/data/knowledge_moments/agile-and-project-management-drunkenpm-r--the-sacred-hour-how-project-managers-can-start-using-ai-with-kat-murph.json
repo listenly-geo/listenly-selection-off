@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Agile and Project Management - DrunkenPM Radio",
+    "episode_title": "The Sacred Hour: How Project Managers Can Start Using AI with Kat Murphy",
+    "audio_url": "https://feeds.soundcloud.com/stream/2442910326-drunkenpmradio-the-sacred-hour-how-project.mp3",
+    "question": "How should project managers classify their work to identify tasks suitable for AI automation?",
+    "transcript_excerpt": "Catherine recommends breaking down project management work into two categories: project coordination (meeting notes, summary reports, gathering data) and project management (analyzing data, human relationships, risk management). AI can most easily touch the coordination tasks, which frees up time for the higher-value management work. By identifying coordination tasks like ticket triaging and status updates, project managers can delegate those to AI and focus on the work that requires human expertise and skills.",
+    "expert_name": "Catherine Murphy",
+    "start_seconds": 853,
+    "end_seconds": 1078
+  },
+  {
+    "podcast_name": "Agile and Project Management - DrunkenPM Radio",
+    "episode_title": "The Sacred Hour: How Project Managers Can Start Using AI with Kat Murphy",
+    "audio_url": "https://feeds.soundcloud.com/stream/2442910326-drunkenpmradio-the-sacred-hour-how-project.mp3",
+    "question": "Why is good project management invisible and how does this affect how project managers prove value?",
+    "transcript_excerpt": "Good project management is invisible—you only notice it when it's terrible because everything falls apart. It's harder to quantify the value when things go well compared to coordination tasks, which have achievable checkmarks. The real value comes from managing risk, keeping the engine rolling, removing barriers, and catching problems early that would have turned into larger issues, but these are harder to prove than deliverables like RACI charts or BRDs.",
+    "expert_name": "Catherine Murphy",
+    "start_seconds": 1031,
+    "end_seconds": 1110
+  },
+  {
+    "podcast_name": "Agile and Project Management - DrunkenPM Radio",
+    "episode_title": "The Sacred Hour: How Project Managers Can Start Using AI with Kat Murphy",
+    "audio_url": "https://feeds.soundcloud.com/stream/2442910326-drunkenpmradio-the-sacred-hour-how-project.mp3",
+    "question": "What specific AI skills and knowledge do project managers actually need to get started?",
+    "transcript_excerpt": "Project managers don't need to know as much as they think to get started. They don't have to understand creating agents, MCPs, or machine language. Instead, they should start by being curious and talking to AI—the AI itself can teach them and answer their questions. Catherine recommends asking AI to explain unfamiliar terms and concepts, allowing project managers to learn on the job and gradually build their understanding.",
+    "expert_name": "Catherine Murphy",
+    "start_seconds": 1143,
+    "end_seconds": 1194
+  },
+  {
+    "podcast_name": "Agile and Project Management - DrunkenPM Radio",
+    "episode_title": "The Sacred Hour: How Project Managers Can Start Using AI with Kat Murphy",
+    "audio_url": "https://feeds.soundcloud.com/stream/2442910326-drunkenpmradio-the-sacred-hour-how-project.mp3",
+    "question": "How does Orasis approach introducing AI to teams that are scared or reluctant about it?",
+    "transcript_excerpt": "Orasis frames AI as a tool similar to technological revolutions workers have already experienced, using the example of electric drywall guns replacing hand screwing. The key message is that AI will never replace you unless you don't learn how to use it, and companies will find people who do if you don't invest in yourself. Reluctant team members are encouraged to pick one coordination task and start solving that problem rather than trying to master AI all at once.",
+    "expert_name": "Catherine Murphy",
+    "start_seconds": 700,
+    "end_seconds": 928
+  },
+  {
+    "podcast_name": "Agile and Project Management - DrunkenPM Radio",
+    "episode_title": "The Sacred Hour: How Project Managers Can Start Using AI with Kat Murphy",
+    "audio_url": "https://feeds.soundcloud.com/stream/2442910326-drunkenpmradio-the-sacred-hour-how-project.mp3",
+    "question": "What is the difference between project management and project coordination work at Orasis?",
+    "transcript_excerpt": "Project coordination includes meeting notes, summary reports, and gathering data—administrative tasks. Project management involves analyzing data, evaluating it, human relationships, working with people, and managing risk. The distinction matters because AI can handle coordination efficiently, freeing project managers to focus on the management work that requires human judgment and expertise.",
+    "expert_name": "Catherine Murphy",
+    "start_seconds": 839,
+    "end_seconds": 1045
+  }
+]

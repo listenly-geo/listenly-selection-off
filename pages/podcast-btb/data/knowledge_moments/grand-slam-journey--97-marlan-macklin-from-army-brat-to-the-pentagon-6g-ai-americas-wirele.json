@@ -1,0 +1,42 @@
+[
+  {
+    "podcast_name": "Grand Slam Journey",
+    "episode_title": "97. Marlan Macklin | From Army Brat to the Pentagon: 6G, AI & America’s Wireless Future",
+    "audio_url": "https://p.podderapp.com/1035353544/www.buzzsprout.com/1166864/episodes/19952900-97-marlan-macklin-from-army-brat-to-the-pentagon-6g-ai-america-s-wireless-future.mp3",
+    "question": "What is the Pentagon's top national security use case for AI-enabled edge compute in 6G networks?",
+    "transcript_excerpt": "The number one national security use case is to aid in the detection of potential weaponized commercial drones. This became particularly relevant during major events like the World Cup and in preparation for the 2028 Olympics, where rapid identification and response capabilities are critical.",
+    "expert_name": "Marlan Macklin",
+    "start_seconds": 12,
+    "end_seconds": 27
+  },
+  {
+    "podcast_name": "Grand Slam Journey",
+    "episode_title": "97. Marlan Macklin | From Army Brat to the Pentagon: 6G, AI & America’s Wireless Future",
+    "audio_url": "https://p.podderapp.com/1035353544/www.buzzsprout.com/1166864/episodes/19952900-97-marlan-macklin-from-army-brat-to-the-pentagon-6g-ai-america-s-wireless-future.mp3",
+    "question": "How does the U.S. Department of Defense approach 6G and wireless technology innovation compared to private sector investment?",
+    "transcript_excerpt": "No amount of money that a government entity like the Pentagon can throw at these problems is going to outpace what the commercial sector can put toward it. The focus is on putting AI compute to the edge of the network as part of AI infrastructure strategy.",
+    "expert_name": "Marlan Macklin",
+    "start_seconds": 4,
+    "end_seconds": 19
+  },
+  {
+    "podcast_name": "Grand Slam Journey",
+    "episode_title": "97. Marlan Macklin | From Army Brat to the Pentagon: 6G, AI & America’s Wireless Future",
+    "audio_url": "https://p.podderapp.com/1035353544/www.buzzsprout.com/1166864/episodes/19952900-97-marlan-macklin-from-army-brat-to-the-pentagon-6g-ai-america-s-wireless-future.mp3",
+    "question": "What emergency response applications does 6G enable for mass casualty events?",
+    "transcript_excerpt": "In a mass casualty event, 6G technology enables the ability to quickly identify who is going to live and survive versus those who are in dire need of medical attention within the next 10 to 15 minutes. This rapid triage capability is critical for emergency response.",
+    "expert_name": "Marlan Macklin",
+    "start_seconds": 31,
+    "end_seconds": 46
+  },
+  {
+    "podcast_name": "Grand Slam Journey",
+    "episode_title": "97. Marlan Macklin | From Army Brat to the Pentagon: 6G, AI & America’s Wireless Future",
+    "audio_url": "https://p.podderapp.com/1035353544/www.buzzsprout.com/1166864/episodes/19952900-97-marlan-macklin-from-army-brat-to-the-pentagon-6g-ai-america-s-wireless-future.mp3",
+    "question": "How does an Army brat background shape ability to build trust across different cultures in international partnerships?",
+    "transcript_excerpt": "Moving every few years gives you an appreciation for how to engage new crowds in new environments. For Marlan Macklin, this rhythm of moving and integrating into different schools and communities provided an advantage in learning to engage with diverse groups, though he notes this is personality dependent and varies among military families.",
+    "expert_name": "Marlan Macklin",
+    "start_seconds": 100,
+    "end_seconds": 130
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Digital Innovations in Oil and Gas with Geoffrey Cann",
+    "episode_title": "How to Turn Restricted Industrial Data into Business Value",
+    "audio_url": "https://anchor.fm/s/117f48a7c/podcast/play/129502493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436814680-44100-2-26d8e78682d1c.mp3",
+    "question": "How does Bridger Photonics detect and locate methane leaks in oil and gas infrastructure?",
+    "transcript_excerpt": "Bridger Photonics flies sensors mounted on Cessnas, helicopters, or drones over oil and gas infrastructure to detect methane using laser technology. The company identifies where gas is leaking from pipes, then quantifies the amount and provides precise locations—accurate to within arm's reach—so technicians know exactly where to find the problem, improving both safety and operational efficiency.",
+    "expert_name": "Ben Little",
+    "start_seconds": 180,
+    "end_seconds": 480
+  },
+  {
+    "podcast_name": "Digital Innovations in Oil and Gas with Geoffrey Cann",
+    "episode_title": "How to Turn Restricted Industrial Data into Business Value",
+    "audio_url": "https://anchor.fm/s/117f48a7c/podcast/play/129502493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436814680-44100-2-26d8e78682d1c.mp3",
+    "question": "What specific operational benefits does Bridger Photonics' precise methane location data provide to oil and gas operators?",
+    "transcript_excerpt": "Precise location data reduces truck rolls and personnel deployment costs by allowing operators to send the right crew with correct skill sets and tools on the first visit. At a recent client summit, one customer reported saving over 11 man-hours by using Bridger's technology, which they then redeployed toward revenue-producing activities like pulling more hydrocarbons from the ground.",
+    "expert_name": "Ben Little",
+    "start_seconds": 584,
+    "end_seconds": 834
+  },
+  {
+    "podcast_name": "Digital Innovations in Oil and Gas with Geoffrey Cann",
+    "episode_title": "How to Turn Restricted Industrial Data into Business Value",
+    "audio_url": "https://anchor.fm/s/117f48a7c/podcast/play/129502493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436814680-44100-2-26d8e78682d1c.mp3",
+    "question": "How does Bridger Photonics create value from accumulated historical aerial survey data without sharing customer data externally?",
+    "transcript_excerpt": "Bridger analyzes hundreds of terabytes of data collected from surveying hundreds of thousands of assets across 12 countries to identify performance patterns—comparing how different equipment configurations emit methane at different cadences. They share insights back to customers about design performance and capital allocation decisions based on aggregated industry patterns, without distributing individual customer data.",
+    "expert_name": "Ben Little",
+    "start_seconds": 965,
+    "end_seconds": 1132
+  },
+  {
+    "podcast_name": "Digital Innovations in Oil and Gas with Geoffrey Cann",
+    "episode_title": "How to Turn Restricted Industrial Data into Business Value",
+    "audio_url": "https://anchor.fm/s/117f48a7c/podcast/play/129502493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436814680-44100-2-26d8e78682d1c.mp3",
+    "question": "What airframe and sensor specifications does Bridger Photonics use for large-scale pipeline and facility surveys?",
+    "transcript_excerpt": "Bridger's sensor weighs just under 50 pounds and is about the size of a loaf of bread, attaching to the strut of a Cessna which can fly for greater than 12 hours per day. The company can survey several hundred thousand miles of pipeline and oil and gas facilities annually. For offshore and complex facilities, Bridger uses drones with a 5.5 kilogram sensor that can circumnavigate platforms and scan some of the largest offshore platforms in hours.",
+    "expert_name": "Ben Little",
+    "start_seconds": 656,
+    "end_seconds": 807
+  },
+  {
+    "podcast_name": "Digital Innovations in Oil and Gas with Geoffrey Cann",
+    "episode_title": "How to Turn Restricted Industrial Data into Business Value",
+    "audio_url": "https://anchor.fm/s/117f48a7c/podcast/play/129502493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436814680-44100-2-26d8e78682d1c.mp3",
+    "question": "How does Bridger Photonics' historical data help asset acquirers understand what they purchased in oil and gas transactions?",
+    "transcript_excerpt": "Bridger has accumulated detailed aerial imagery of oil and gas assets across years of surveying, allowing buyers to understand exactly which assets they acquired—a significant advantage since many oil companies admit they do not initially know the precise locations or condition of purchased assets. This historical data provides insight into asset locations, equipment configuration, and performance characteristics that even asset sellers may not fully know.",
+    "expert_name": "Ben Little",
+    "start_seconds": 1140,
+    "end_seconds": 1200
+  }
+]

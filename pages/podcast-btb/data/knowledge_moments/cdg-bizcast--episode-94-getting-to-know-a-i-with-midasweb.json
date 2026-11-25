@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "CDG BizCast",
+    "episode_title": "Episode 94: Getting to Know A.I. with Midasweb",
+    "audio_url": "https://anchor.fm/s/d8b04c34/podcast/play/129174346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436377883-44100-2-d36b9b7f2947b.m4a",
+    "question": "What AI tools should small business owners use to start automating their processes effectively?",
+    "transcript_excerpt": "MidasWeb recommends two core tools: Perplexity for research and Claude for creation. You don't need a subscription to use Perplexity well, though paying gives more features. Claude requires a paid subscription for maximum power, though ChatGPT is a solid alternative for similar results. If you're image-intensive or video-intensive, ChatGPT is better since Claude is not an artist. Many other tools can layer on top of these core ones.",
+    "expert_name": "Monique Walker",
+    "start_seconds": 437,
+    "end_seconds": 612
+  },
+  {
+    "podcast_name": "CDG BizCast",
+    "episode_title": "Episode 94: Getting to Know A.I. with Midasweb",
+    "audio_url": "https://anchor.fm/s/d8b04c34/podcast/play/129174346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436377883-44100-2-d36b9b7f2947b.m4a",
+    "question": "How can AI assist small business owners in market research and data analysis?",
+    "transcript_excerpt": "AI can analyze hundreds or millions of data points across multiple criteria simultaneously—far more than the human mind can juggle. For example, using tools like ChatGPT to process survey data from 30-40 questions across thousands of prospects, AI can identify trends and insights instantly. For pool cleaning services targeting Houston expansion, AI can analyze pool permits, referral agents, and prospect data to identify specific neighborhoods with the highest percentage of target customers.",
+    "expert_name": "Monique Walker",
+    "start_seconds": 909,
+    "end_seconds": 1158
+  },
+  {
+    "podcast_name": "CDG BizCast",
+    "episode_title": "Episode 94: Getting to Know A.I. with Midasweb",
+    "audio_url": "https://anchor.fm/s/d8b04c34/podcast/play/129174346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436377883-44100-2-d36b9b7f2947b.m4a",
+    "question": "What is the difference between AI automations and AI agents in business workflows?",
+    "transcript_excerpt": "Automations involve putting together certain steps and actions in sequence to achieve a result. Agents are AI automations that can act in three distinct ways: on invocation (you call them up), triggered by an action, or scheduled on a timer. Agents can interact with other digital automations within your back office, making them more sophisticated than basic automations.",
+    "expert_name": "Monique Walker",
+    "start_seconds": 550,
+    "end_seconds": 625
+  },
+  {
+    "podcast_name": "CDG BizCast",
+    "episode_title": "Episode 94: Getting to Know A.I. with Midasweb",
+    "audio_url": "https://anchor.fm/s/d8b04c34/podcast/play/129174346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436377883-44100-2-d36b9b7f2947b.m4a",
+    "question": "How should small business owners address data privacy concerns when using AI?",
+    "transcript_excerpt": "Don't feed AI personally identifiable data or sensitive information—anonymize or scrub such data first. MidasWeb chooses tools selectively that have good reputations and are well understood. Most business data is not AI-ready, so the first step is preparing data for AI use. If you're uncomfortable giving certain data to AI, simply don't give it that data—you have full control over what you share.",
+    "expert_name": "Monique Walker",
+    "start_seconds": 591,
+    "end_seconds": 834
+  },
+  {
+    "podcast_name": "CDG BizCast",
+    "episode_title": "Episode 94: Getting to Know A.I. with Midasweb",
+    "audio_url": "https://anchor.fm/s/d8b04c34/podcast/play/129174346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436377883-44100-2-d36b9b7f2947b.m4a",
+    "question": "What is MidasWeb's workflow for creating courses and educational content using multiple AI tools?",
+    "transcript_excerpt": "MidasWeb uses Perplexity to research what people are searching for and their concerns, then moves to Claude to create course outlines based on that research. They then use Canva AI to create PowerPoint presentations, and finally set up automations to send out the created content. This multi-tool workflow requires careful prompting and clear goal-setting rather than giving one generic command.",
+    "expert_name": "Monique Walker",
+    "start_seconds": 1101,
+    "end_seconds": 1158
+  }
+]

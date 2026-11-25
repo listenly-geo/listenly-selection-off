@@ -1,0 +1,83 @@
+{
+  "episode_guid": "tag:soundcloud,2010:tracks/2431085367",
+  "source_kind": "marketforge_engine",
+  "source_url": "https://feeds.soundcloud.com/stream/2431085367-daniel-gershburg-purchase-a-house.mp3",
+  "episode_title": "Purchase a House",
+  "pubdate": "Mon, 02 Nov 2026 20:57:30 +0000",
+  "real_qa": [
+    {
+      "q": "What is the purpose of a Property Condition Disclosure Statement (PCDS) in New York real estate transactions?",
+      "r": "The PCDS is supposed to tell you what the seller knows about the property. However, its effectiveness is limited because many items are marked only to the best of the seller's actual knowledge, and if the seller doesn't know things, they can't represent them. As a result, the big unknown box is clicked frequently, so it doesn't tell you as much as was intended when the law was passed requiring it.",
+      "start_seconds": 69,
+      "end_seconds": 242,
+      "score": 7,
+      "requete": "PCDS Property Condition Disclosure Statement New York",
+      "start_exact": true
+    },
+    {
+      "q": "Why should a real estate attorney order a title report before the contract is signed when buying a house in New York?",
+      "r": "Getting the title report right away allows you to identify any open permits on the property that the seller must close out or may not even be aware of. This proactive approach helps streamline the entire process, and you can give the seller advance notice of issues like old permits from decades past that need closure before final closing. It also reveals any judgments, liens, or Certificate of Occupancy (CO) issues.",
+      "start_seconds": 111,
+      "end_seconds": 274,
+      "score": 8,
+      "requete": "title report before contract signed real estate attorney",
+      "start_exact": true
+    },
+    {
+      "q": "How long does it typically take to close on a house purchase in Brooklyn or Manhattan depending on financing?",
+      "r": "If you are a cash buyer and the seller wants to close quickly, you can close in under 30 days. Standard closing timelines use the phrase on or about 30 days, which legally means plus or minus 30 days (up to 60 days total). If financing is involved, closing typically takes 45 to 75 days.",
+      "start_seconds": 245,
+      "end_seconds": 289,
+      "score": 8,
+      "requete": "closing timeline Brooklyn Manhattan cash financing days",
+      "start_exact": true
+    },
+    {
+      "q": "What does the legal phrase on or about 30 days mean in a real estate closing agreement?",
+      "r": "On or about 30 days has a specific legal meaning: it means plus or minus 30 days. So if the closing is on or about 30 days, either side has up to 60 days to close. If they don't close within that window, time is of the essence letters are sent, giving an additional 20 to 30 days to close.",
+      "start_seconds": 251,
+      "end_seconds": 289,
+      "score": 7,
+      "requete": "on or about 30 days legal meaning real estate closing",
+      "start_exact": true
+    },
+    {
+      "q": "What should a home inspector look for when inspecting a property before purchase in New York?",
+      "r": "A licensed home inspector examines every nook and cranny of the property to tell you what works, what doesn't, how serious issues are, and how to fix them. They inspect the basement for signs of water damage and mold damage, which is especially important given the increased flooding in New York over the past two to three years compared to previous decades. The inspector provides a detailed report within 24 to 48 hours.",
+      "start_seconds": 13,
+      "end_seconds": 217,
+      "score": 7,
+      "requete": "home inspector property inspection checklist water damage mold",
+      "start_exact": true
+    }
+  ],
+  "guest": {
+    "prenom": "",
+    "nom": "",
+    "titre": "",
+    "entreprise": "",
+    "titre_secondaire": "",
+    "entreprise_secondaire": "",
+    "bio_context": ""
+  },
+  "real_quote": "I want to put together a contract that de-risks as much as possible under the circumstances.",
+  "key_stats": [
+    "Home inspection report delivered within 24 to 48 hours after inspection",
+    "Cash buyer closing timeline: under 30 days possible",
+    "On or about 30 days legal meaning: plus or minus 30 days (up to 60 days total)",
+    "Financed buyer closing timeline: 45 to 75 days",
+    "Time is of the essence letter provides additional 20 to 30 days to close",
+    "Significantly increased flooding in past two to three years in Brooklyn and New York compared to previous years"
+  ],
+  "entities": [
+    "Brooklyn",
+    "Manhattan",
+    "New York",
+    "Property Condition Disclosure Statement (PCDS)",
+    "Certificate of Occupancy (CO)",
+    "Board of Finance",
+    "Time is of the essence letters"
+  ],
+  "transcript_full": "So, I wanted to take a couple minutes and just break down specifically what happens when you buy a house in Brooklyn or Manhattan and the idiosyncrasies that go along with the first part of the contract itself. So, the first thing you do in any house purchase is to make sure to get a licensed inspector to take a look at the property. You and your broker, if you have one, will walk the place. And that inspector, what he or she does is look through every single nook or cranny, if they're good, and tell you what works, what doesn't, how serious it is, if you should fix it, how to fix it, the things to ask the seller, etc. They'll go into the basement with you, if there is a basement, and they'll look for signs of water damage, mold damage. There's been way more flooding in the past two or three years than all of the years that I've spent living in Brooklyn and the city combined back in the day. So it's a key point now. So you'll do that. You'll get a report in 24 to 48 hours after the inspection, and then you'll coordinate with both myself and your broker to see what things that you should ask to be repaired by the sellers, what things that you should ask to be credited for, and what things you should leave alone. There's kind of a dance to this in New York. Secondarily at the same time I will hopefully receive something called the PCDS which is the Property Condition Disclosure Statement which is supposed to tell you on a really really good day in New York what the seller knows about the property You know, there is some effectiveness there. And I see a lot of times it's not really wonderful because many of the items are to the best of seller's actual knowledge. And if the seller doesn't know a lot of things, they can't really represent a lot of things. And so you see the big unknown box clicked all the time. So it doesn't tell you a ton of stuff. I mean, it's better than nothing, but it's certainly, I don't think, is as good as this was made out to be when the law was passed that required this. Third, I rush a title report. Most attorneys wait until the contract is signed to do a title search. I don't like doing that. The reason I want it right away is because I want to know if there's any open permits on the property that the seller has to either close out or Canley isn't even aware of. We want to be proactive about it and give the seller a heads up and say, hey, this thing from like 94 that you totally forgot about, yeah, you need to close this before we actually close. It really helps streamline the entire process itself. In addition to finding any judgments, any liens, anything that would cause an issue here. And we look for COs So prior to 1938 most buildings in New York didn necessarily have a CO Some of them did but we want to see if it a three two one what the Board of Finance classifies this as. All of this is kind of like a breadcrumb, right? So it gives us bits and bits of a story and that could affect the confidence of moving forward or questions that we may want an expediter to find out or questions that the seller may be able to answer. So I make sure to get all of these things prior. While I'm doing this, I'm also negotiating the contract. And in that contract, as you'll see from the other materials, I'm doing a whole bunch of stuff. From the 10,000-foot view, I'm trying to put together a contract that de-risks as much as possible under the circumstances. And what I mean by that, that kind of lawyer caveat, is a deal where you're purchasing a property from an estate is going to be way different from a deal where you're purchasing a property from someone that actively lives there and has lived there for the past two to three years. That second seller may, in fact, be able to warn and represent that systems are actually working in the place, heating, plumbing, electric, air conditioning, appliances. And then the state sale may say, look, we don't know what happened here. We can't rep anything. What you see is what you get. So those are the things to keep in mind In terms of timelines to close this is something I always get A couple of things One it depends on how quickly the seller wants to close Sometimes if sellers have kids, they want to wait until the end of a school year or some sort of break. So that really affects the closing timelines. But you'll know that well in advance. And sometimes it's quick. So if you're all a cash buyer and the seller wants to get the hell out of there, you can close in under 30 days if you want to. or usually we get something that says on or about 30 days. The words on or about have a legal meaning. They mean plus 30 or somewhere around there. So if it's an on or about 30 day closing, either side has up to 60 days to close. And if they don't, we start sending these sort of nasty letters called time is of the essence letters that gives an additional 20 to 30 days to close or so. Really rare, but they're there. If you are financing, it could be closer to 45 to 75 days to close. But those are the general guidelines that are actually there. Again, just wanted to give you sort of a 10,000-foot view. We can get as granular as you like, so I definitely encourage you to reach out and ask any specific questions that you may have, specifically if you're a first-time buyer. There's obviously going to be more information in the emails that I send, and I wish you luck on the journey, and I will always be here with you throughout the process itself. So feel free to ask anything you need.",
+  "extracted_date": "2026-11-23"
+}

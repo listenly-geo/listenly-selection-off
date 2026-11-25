@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Between the Brackets: a MediaWiki Podcast",
+    "episode_title": "Episode 217: James Heilman",
+    "audio_url": "https://traffic.libsyn.com/secure/betweenthebrackets/James_Heilman_BTB.mp3?dest-id=653610",
+    "question": "Why did James Heilman add all 10 Rorschach inkblot test images to Wikipedia in 2009 despite psychology community opposition?",
+    "transcript_excerpt": "In 2009, Heilman decided to add the other nine Rorschach inkblots to the one existing inkblot already on Wikipedia so that all 10 inkblots would be on the article. The psychology community and a legal firm based in Switzerland opposed this because they believed these tests should be kept secret and exclusive to their profession, even though the author had died more than 90 years ago and the tests were clearly in the public domain under an open license.",
+    "expert_name": "James Heilman",
+    "start_seconds": 111,
+    "end_seconds": 293
+  },
+  {
+    "podcast_name": "Between the Brackets: a MediaWiki Podcast",
+    "episode_title": "Episode 217: James Heilman",
+    "audio_url": "https://traffic.libsyn.com/secure/betweenthebrackets/James_Heilman_BTB.mp3?dest-id=653610",
+    "question": "What is WikiProject Med Foundation and MDWiki, and how do they differ from Wikipedia's medical coverage?",
+    "transcript_excerpt": "WikiProject Med Foundation, co-founded by James Heilman, created a separate wiki called MDWiki to cover a broader scope of healthcare content. While Wikipedia does not provide how-to advice on performing procedures or medication dosages, MDWiki and WikiProject Med Foundation serve readership requesting these types of practical medical resources that Wikipedia's scope excludes.",
+    "expert_name": "James Heilman",
+    "start_seconds": 1137,
+    "end_seconds": 1188
+  },
+  {
+    "podcast_name": "Between the Brackets: a MediaWiki Podcast",
+    "episode_title": "Episode 217: James Heilman",
+    "audio_url": "https://traffic.libsyn.com/secure/betweenthebrackets/James_Heilman_BTB.mp3?dest-id=653610",
+    "question": "According to James Heilman, was Wikipedia the most used medical resource online and has that changed?",
+    "transcript_excerpt": "Wikipedia did appear to be the most used medical resource for about a decade ago, but other resources like Healthline, with better search engine optimization, managed to surpass Wikipedia for healthcare usage over time. Determining the most used source now is difficult because distinguishing real traffic from fake traffic, scraping, and bots on the internet has become nearly impossible.",
+    "expert_name": "James Heilman",
+    "start_seconds": 587,
+    "end_seconds": 800
+  },
+  {
+    "podcast_name": "Between the Brackets: a MediaWiki Podcast",
+    "episode_title": "Episode 217: James Heilman",
+    "audio_url": "https://traffic.libsyn.com/secure/betweenthebrackets/James_Heilman_BTB.mp3?dest-id=653610",
+    "question": "How should medical professionals use Wikipedia safely according to James Heilman?",
+    "transcript_excerpt": "When making important medical decisions, healthcare professionals should never rely on a single source including Wikipedia. Heilman teaches medical students and residents to verify decisions by checking multiple authoritative sources such as Wikipedia, the CDC, and WHO. If all sources agree, one can be confident, but Wikipedia should be a starting point where readers follow the references provided to verify information.",
+    "expert_name": "James Heilman",
+    "start_seconds": 745,
+    "end_seconds": 963
+  },
+  {
+    "podcast_name": "Between the Brackets: a MediaWiki Podcast",
+    "episode_title": "Episode 217: James Heilman",
+    "audio_url": "https://traffic.libsyn.com/secure/betweenthebrackets/James_Heilman_BTB.mp3?dest-id=653610",
+    "question": "What is the problem with predatory publishers in medical journals and how does Wikipedia address this?",
+    "transcript_excerpt": "There has been a tremendous rise in predatory publishers which are fly-by-night journals that charge authors to publish with little peer review and low quality standards. At Wikipedia, tens of thousands of journal articles from these known predatory journals are not deemed reliable sources. Distinguishing legitimate journals from predatory ones requires significant research into the journal's reputation and publishing history.",
+    "expert_name": "James Heilman",
+    "start_seconds": 971,
+    "end_seconds": 1067
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Federal Tech Podcast:  for innovators, entrepreneurs, and CEOs who want to increase reach and improve brand awareness",
+    "episode_title": "Ep. 357 How to Reduce Federal Cybersecurity Attack Surface",
+    "audio_url": "https://traffic.libsyn.com/secure/86da2e04-6de5-40f5-9fe5-ff006b5de38d/102926-FedTechPodcast-357_securityscorecard_mike.mp3?dest-id=3336116",
+    "question": "What is attack surface management and how does the outside-in approach differ from traditional asset inventory methods?",
+    "transcript_excerpt": "Attack surface management uses an outside-in approach by asking what an adversary sitting on the Internet sees when looking at an organization, rather than relying only on internal asset inventory systems. This approach, called the hacker's view, scans for exposed vulnerabilities, misconfigurations, and forgotten entry points that attackers would find. The key principle is that you cannot protect what you don't know exists, making visibility from an external perspective critical for large organizations with cloud environments, legacy infrastructure, and dispersed IP addresses.",
+    "expert_name": "Michael Centrella",
+    "start_seconds": 160,
+    "end_seconds": 405
+  },
+  {
+    "podcast_name": "Federal Tech Podcast:  for innovators, entrepreneurs, and CEOs who want to increase reach and improve brand awareness",
+    "episode_title": "Ep. 357 How to Reduce Federal Cybersecurity Attack Surface",
+    "audio_url": "https://traffic.libsyn.com/secure/86da2e04-6de5-40f5-9fe5-ff006b5de38d/102926-FedTechPodcast-357_securityscorecard_mike.mp3?dest-id=3336116",
+    "question": "How should CISOs prioritize among thousands of vulnerabilities when AI and frontier models are generating massive vulnerability lists?",
+    "transcript_excerpt": "CISOs should move away from treating cybersecurity as just a checklist and focus on context and criticality. With 10,000 vulnerabilities, perhaps only 900 or 9,000 matter; the real question is which 10 to worry about first. Organizations must understand what system each vulnerability sits on and whether it is critical to mission operations. Intelligence should help prioritize by identifying active exploitation, threat actors, and ransomware campaigns, transforming vulnerability lists into actionable intelligence showing exposure levels, operational consequences, and mission risk.",
+    "expert_name": "Michael Centrella",
+    "start_seconds": 428,
+    "end_seconds": 635
+  },
+  {
+    "podcast_name": "Federal Tech Podcast:  for innovators, entrepreneurs, and CEOs who want to increase reach and improve brand awareness",
+    "episode_title": "Ep. 357 How to Reduce Federal Cybersecurity Attack Surface",
+    "audio_url": "https://traffic.libsyn.com/secure/86da2e04-6de5-40f5-9fe5-ff006b5de38d/102926-FedTechPodcast-357_securityscorecard_mike.mp3?dest-id=3336116",
+    "question": "What three questions should government agencies ask when receiving threat intelligence to ensure it is actionable?",
+    "transcript_excerpt": "The three critical questions are: What can we see? Why does it matter? And what can the government or state agency do with this information? When providing intelligence to an organization, these three questions must be addressed. If all three are answered, the agency receives actionable intelligence that can be executed on, remediated, or acted upon appropriately. Simply giving raw intelligence without actionable guidance becomes unhelpful and muddies decision-making.",
+    "expert_name": "Michael Centrella",
+    "start_seconds": 789,
+    "end_seconds": 1001
+  },
+  {
+    "podcast_name": "Federal Tech Podcast:  for innovators, entrepreneurs, and CEOs who want to increase reach and improve brand awareness",
+    "episode_title": "Ep. 357 How to Reduce Federal Cybersecurity Attack Surface",
+    "audio_url": "https://traffic.libsyn.com/secure/86da2e04-6de5-40f5-9fe5-ff006b5de38d/102926-FedTechPodcast-357_securityscorecard_mike.mp3?dest-id=3336116",
+    "question": "How does AI accelerate both offensive and defensive cybersecurity capabilities in federal attack surface environments?",
+    "transcript_excerpt": "AI accelerates both threat development and defensive capabilities. As AI speeds up software development and infrastructure deployment, it increases attack surface and connectivity risks. However, AI is increasingly valuable for defense: security organizations can use AI to correlate enormous amounts of existing data, identify patterns difficult for humans to see at scale, and answer what has changed and which vulnerabilities matter. But AI cannot eliminate human judgment—humans must still understand mission consequence, such as whether a system processes payroll, controls water systems, or supports military missions.",
+    "expert_name": "Michael Centrella",
+    "start_seconds": 927,
+    "end_seconds": 1153
+  },
+  {
+    "podcast_name": "Federal Tech Podcast:  for innovators, entrepreneurs, and CEOs who want to increase reach and improve brand awareness",
+    "episode_title": "Ep. 357 How to Reduce Federal Cybersecurity Attack Surface",
+    "audio_url": "https://traffic.libsyn.com/secure/86da2e04-6de5-40f5-9fe5-ff006b5de38d/102926-FedTechPodcast-357_securityscorecard_mike.mp3?dest-id=3336116",
+    "question": "What immediate action should a federal CIO take this week to improve visibility of their agency's attack surface?",
+    "transcript_excerpt": "A federal CIO should ask their chief information security officer: Show me what the Internet sees when it looks at us—not what the asset inventory says or what last year's assessment says, but what is visible today. Then compare that external picture against internal inventory; if something appears externally and cannot be explained, investigate why. Next, pick 10 to 20 critical organizations that mission absolutely depends on and ask what their external attack surface looks like and what happens if those systems fail. Starting this exercise this week typically reveals information leaders did not know.",
+    "expert_name": "Michael Centrella",
+    "start_seconds": 1094,
+    "end_seconds": 1209
+  }
+]

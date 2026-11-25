@@ -1,0 +1,42 @@
+[
+  {
+    "podcast_name": "DevOps Leaders Podcast",
+    "episode_title": "פרק 30 - ינון גולן מפאפאיה גאיימינג - חזרתו של הקולבויניק",
+    "audio_url": "https://anchor.fm/s/e656f7c0/podcast/play/129440494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436734715-44100-2-c2cd22362b77a8.mp3",
+    "question": "What is Pappaya Gaming and what games does the company develop?",
+    "transcript_excerpt": "Pappaya Gaming is an Israeli gaming company with three founders. The company develops casual games including Pingo and Bubbles. These are skill-based games where if you are better than your opponent, you will win when placing a bet. The games involve strategy similar to tournament poker, where skill is the primary factor determining outcomes.",
+    "expert_name": "Inon Golan",
+    "start_seconds": 465,
+    "end_seconds": 563
+  },
+  {
+    "podcast_name": "DevOps Leaders Podcast",
+    "episode_title": "פרק 30 - ינון גולן מפאפאיה גאיימינג - חזרתו של הקולבויניק",
+    "audio_url": "https://anchor.fm/s/e656f7c0/podcast/play/129440494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436734715-44100-2-c2cd22362b77a8.mp3",
+    "question": "What was Inon Golan's experience managing infrastructure at Checkpoint?",
+    "transcript_excerpt": "At Checkpoint, Golan managed a management information systems group and was responsible for scaling infrastructure significantly. He expanded server capacity from 30 servers to more than 150 servers while handling multiple systems including HRIS, AIOps, and Talent Management platforms. He worked directly with the VP HR and employees to consolidate and optimize all IT systems in-house.",
+    "expert_name": "Inon Golan",
+    "start_seconds": 675,
+    "end_seconds": 900
+  },
+  {
+    "podcast_name": "DevOps Leaders Podcast",
+    "episode_title": "פרק 30 - ינון גולן מפאפאיה גאיימינג - חזרתו של הקולבויניק",
+    "audio_url": "https://anchor.fm/s/e656f7c0/podcast/play/129440494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436734715-44100-2-c2cd22362b77a8.mp3",
+    "question": "How does Inon Golan view the evolution of R&D in the technology sector?",
+    "transcript_excerpt": "Golan describes technology development as working in cycles, with periods of high tech followed by low tech, similar to a sine wave pattern. He emphasizes that the key differentiator today is the speed of change rather than the technology itself. He believes the role of R&D is becoming more expensive and complex, and that many professionals entering the field need to understand this cyclical nature and prepare for continuous adaptation.",
+    "expert_name": "Inon Golan",
+    "start_seconds": 960,
+    "end_seconds": 1140
+  },
+  {
+    "podcast_name": "DevOps Leaders Podcast",
+    "episode_title": "פרק 30 - ינון גולן מפאפאיה גאיימינג - חזרתו של הקולבויניק",
+    "audio_url": "https://anchor.fm/s/e656f7c0/podcast/play/129440494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436734715-44100-2-c2cd22362b77a8.mp3",
+    "question": "What was Inon Golan's early exposure to technology at Intel?",
+    "transcript_excerpt": "While a student at Intel, Golan was given the opportunity to observe and participate in cleanroom processes. Through this experience, he learned about automation, data systems, and the operational needs required in semiconductor manufacturing. This exposure shaped his understanding of large-scale technical operations and infrastructure management.",
+    "expert_name": "Inon Golan",
+    "start_seconds": 780,
+    "end_seconds": 870
+  }
+]

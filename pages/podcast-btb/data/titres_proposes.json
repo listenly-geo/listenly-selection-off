@@ -1,0 +1,275 @@
+{
+ "date": "2026-11-25",
+ "propositions": [
+  {
+   "page": "ai-a16z/1c61d4bcc8",
+   "titre_actuel": "Why do enterprises choose to deploy open-weight models instead of relying on proprietary APIs, beyond cost considerations?",
+   "titre_propose": "Why do enterprises choose to deploy open-weight models instead of relying on proprietary APIs, beyond cost considerations? | AI + a16z",
+   "caracteres": 134,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "ai-a16z/de75aa3c5b",
+   "titre_actuel": "Why are open-source model labs implementing commercial licensing terms and usage restrictions on recently released models?",
+   "titre_propose": "Why are open-source model labs implementing commercial licensing terms and usage restrictions on recently released models? | AI + a16z",
+   "caracteres": 134,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "b2b-vault-the-biz-to-biz-podcast/ede582f8e0",
+   "titre_actuel": "Why do payment processors and advertising platforms require LegitScript certification?",
+   "titre_propose": "Why do payment processors and advertising platforms require LegitScript certification? | B2B Vault: The Biz To Biz",
+   "caracteres": 114,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "b2b-vault-the-biz-to-biz-podcast/9e927e8ebe",
+   "titre_actuel": "What documentation is required from a merchant applying for LegitScript certification?",
+   "titre_propose": "What documentation is required from a merchant applying for LegitScript certification? | B2B Vault: The Biz To Biz",
+   "caracteres": 114,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "coffee-cap-rates-commercial-real-estate/7454d64b9f",
+   "titre_actuel": "What affordable housing and residential development activity has been recorded in Brooklyn's development sector year-to-date?",
+   "titre_propose": "What affordable housing and residential development activity has been recorded in Brooklyn's development sector year-to-date? | Coffee & Cap Rates: Commer",
+   "caracteres": 154,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "commercially-speaking-podcast-commercial/70cb367c6d",
+   "titre_actuel": "Why does creating handmade gifts produce greater satisfaction than purchasing gifts for others?",
+   "titre_propose": "Why does creating handmade gifts produce greater satisfaction than purchasing gifts for others? | Commercially Speaking Podc",
+   "caracteres": 124,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "commercially-speaking-podcast-commercial/14a389d5f0",
+   "titre_actuel": "What are the key characteristics that define alternative investments like private credit?",
+   "titre_propose": "What are the key characteristics that define alternative investments like private credit? | Commercially Speaking Podc",
+   "caracteres": 118,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "guy-kawasaki-s-remarkable-people/94069356e1",
+   "titre_actuel": "How can AI potentially be used to improve Wikipedia without compromising its integrity?",
+   "titre_propose": "How can AI potentially be used to improve Wikipedia without compromising its integrity? | Guy Kawasaki's Remarkable",
+   "caracteres": 115,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/fa4843f006",
+   "titre_actuel": "What are the two core metrics lawn care business owners must focus on to achieve profitability from day one?",
+   "titre_propose": "What are the two core metrics lawn care business owners must focus on to achieve profitability from day one? | LCR Media Podcast",
+   "caracteres": 128,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/8afda803db",
+   "titre_actuel": "What leadership skills from retail management transfer most directly to building a successful lawn care business?",
+   "titre_propose": "What leadership skills from retail management transfer most directly to building a successful lawn care business? | LCR Media Podcast",
+   "caracteres": 133,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/16c4357b24",
+   "titre_actuel": "How did Taliaferro balance replacing his retail income while building his lawn care business?",
+   "titre_propose": "How did Taliaferro balance replacing his retail income while building his lawn care business? | LCR Media Podcast",
+   "caracteres": 113,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/0b40827962",
+   "titre_actuel": "Why do business owners often fail to price profitably when starting a lawn care business compared to traditional employment?",
+   "titre_propose": "Why do business owners often fail to price profitably when starting a lawn care business compared to traditional employment? | LCR Media Podcast",
+   "caracteres": 144,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "money-guy-show/32c3046b1b",
+   "titre_actuel": "Why is increasing investment risk not a good strategy when you are behind on retirement savings?",
+   "titre_propose": "Why is increasing investment risk not a good strategy when you are behind on retirement savings? | Money Guy Show",
+   "caracteres": 113,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "morning-brew-daily/bd309575a3",
+   "titre_actuel": "What are the three major companies developing new treatments for hair loss and what are their distinct approaches?",
+   "titre_propose": "What are the three major companies developing new treatments for hair loss and what are their distinct approaches? | Morning Brew Daily",
+   "caracteres": 135,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "morning-brew-daily/6587148dcf",
+   "titre_actuel": "How does Tesla's autonomous vehicle approach differ from the rest of the industry regarding sensor technology?",
+   "titre_propose": "How does Tesla's autonomous vehicle approach differ from the rest of the industry regarding sensor technology? | Morning Brew Daily",
+   "caracteres": 131,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "msp-unplugged/31f896ead2",
+   "titre_actuel": "How can MSPs differentiate themselves and win more business by focusing on human risk management?",
+   "titre_propose": "How can MSPs differentiate themselves and win more business by focusing on human risk management? | MSP Unplugged",
+   "caracteres": 113,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "restaurant-influencers/97436fe30e",
+   "titre_actuel": "What business lesson emerged from studying breakfast buffet success in German bars?",
+   "titre_propose": "What business lesson emerged from studying breakfast buffet success in German bars? | Restaurant Influencers",
+   "caracteres": 108,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "airdrie-inside/e72a93bd5c",
+   "titre_actuel": "What real difference does affordable supportive living housing make for seniors transitioning from homelessness?",
+   "titre_propose": "What real difference does affordable supportive living housing make for seniors transitioning from homelessness? | Airdrie Inside",
+   "caracteres": 129,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "dentists-who-invest-podcast/7570f21840",
+   "titre_actuel": "What deposit options are available for dentists buying residential property with limited savings?",
+   "titre_propose": "What deposit options are available for dentists buying residential property with limited savings? | Dentists Who Invest Podcast",
+   "caracteres": 127,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "profits-with-pajak/f81ae29551",
+   "titre_actuel": "Why did the eBay lawn care equipment seller fail to fulfill the original advertised machine order?",
+   "titre_propose": "Why did the eBay lawn care equipment seller fail to fulfill the original advertised machine order? | Profits with Pajak",
+   "caracteres": 119,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "beyond-luxury/c27f0614f9",
+   "titre_actuel": "How should luxury brands approach heritage documentation and storytelling in the digital age?",
+   "titre_propose": "How should luxury brands approach heritage documentation and storytelling in the digital age? | Beyond Luxury",
+   "caracteres": 109,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "ecomm-breakthrough/265f52cc7f",
+   "titre_actuel": "What is the difference between leading indicators and lagging metrics in e-commerce business management?",
+   "titre_propose": "What is the difference between leading indicators and lagging metrics in e-commerce business management? | Ecomm Breakthrough",
+   "caracteres": 125,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "extropy-on-air-finance-transformation-ap/3bd756b678",
+   "titre_actuel": "What capabilities are missing for leaders managing digital transformation projects?",
+   "titre_propose": "What capabilities are missing for leaders managing digital transformation projects? | Extropy on AIR: Finance Tr",
+   "caracteres": 112,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/7d4b905224",
+   "titre_actuel": "How does route density impact profitability and work-life balance in lawn care operations?",
+   "titre_propose": "How does route density impact profitability and work-life balance in lawn care operations? | LCR Media Podcast",
+   "caracteres": 110,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/7bea42e43e",
+   "titre_actuel": "How can automation and AI reduce implementation work for solo lawn care operators?",
+   "titre_propose": "How can automation and AI reduce implementation work for solo lawn care operators? | LCR Media Podcast",
+   "caracteres": 102,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/8af4b0637a",
+   "titre_actuel": "What is the five-year and ten-year scaling roadmap Taliaferro used to grow his lawn care business?",
+   "titre_propose": "What is the five-year and ten-year scaling roadmap Taliaferro used to grow his lawn care business? | LCR Media Podcast",
+   "caracteres": 118,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/74a2147546",
+   "titre_actuel": "When should lawn care owners invest in equipment upgrades like zero-turn mowers to improve efficiency?",
+   "titre_propose": "When should lawn care owners invest in equipment upgrades like zero-turn mowers to improve efficiency? | LCR Media Podcast",
+   "caracteres": 122,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "lcr-media-podcast/b5d5d43569",
+   "titre_actuel": "How can lawn care business owners communicate time off for industry conferences without losing customer trust?",
+   "titre_propose": "How can lawn care business owners communicate time off for industry conferences without losing customer trust? | LCR Media Podcast",
+   "caracteres": 130,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "the-astonishing-healthcare-podcast/4a05f2ea68",
+   "titre_actuel": "Why is data validation critical when using price transparency files and claims data to identify drug pricing opportunities?",
+   "titre_propose": "Why is data validation critical when using price transparency files and claims data to identify drug pricing opportunities? | The Astonishing Healthcare",
+   "caracteres": 152,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  },
+  {
+   "page": "retirement-results/c783d5d108",
+   "titre_actuel": "What are the main challenges retirees face when converting retirement savings into income according to AARP research?",
+   "titre_propose": "What are the main challenges retirees face when converting retirement savings into income according to AARP research? | Retirement Results",
+   "caracteres": 138,
+   "tronque": true,
+   "alerte_longueur": true,
+   "statut": "brouillon_a_relire"
+  }
+ ]
+}

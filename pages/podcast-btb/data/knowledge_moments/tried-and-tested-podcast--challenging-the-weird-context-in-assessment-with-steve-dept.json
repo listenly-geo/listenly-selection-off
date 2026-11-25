@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Tried and Tested Podcast",
+    "episode_title": "﻿Challenging the WEIRD Context in Assessment with Steve Dept",
+    "audio_url": "https://anchor.fm/s/eba9f77c/podcast/play/129198604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436410864-44100-2-607e5de005fc.mp3",
+    "question": "What is the WEIRD framework and how does it relate to AI bias in assessment and translation?",
+    "transcript_excerpt": "WEIRD stands for Western, educated, industrialized, rich, and democratic. The creators of artificial intelligence systems, those who collect data, program, and train the models, almost all belong to WEIRD countries, and they instill their worldview into training. AI is algorithmic and probabilistic—it does not understand culture, but whatever it has been fed about culture, it retrieves and copies into what it believes is a plausible context. If that context has been created by people with one worldview, you gradually push that worldview onto other cultures not ahead in the AI race.",
+    "expert_name": "Steve Dept",
+    "start_seconds": 800,
+    "end_seconds": 908
+  },
+  {
+    "podcast_name": "Tried and Tested Podcast",
+    "episode_title": "﻿Challenging the WEIRD Context in Assessment with Steve Dept",
+    "audio_url": "https://anchor.fm/s/eba9f77c/podcast/play/129198604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436410864-44100-2-607e5de005fc.mp3",
+    "question": "How did the OECD PISA program influence the development of assessment translation methodology?",
+    "transcript_excerpt": "The OECD called for tenders for the first round of PISA (Program for International Student Assessment) in the late 1990s, which assessed reading literacy, mathematical literacy, and science literacy in 15-year-olds across 32 industrialized countries at that time. Steve Dept was asked to develop a methodology to check whether translations maintained the same level of difficulty across languages and cultures and preserved psychometric characteristics. This work revealed that translation involved much more than initially anticipated—including adaptation features and cultural relevance—which led to the founding of Capstan in 2000.",
+    "expert_name": "Steve Dept",
+    "start_seconds": 222,
+    "end_seconds": 460
+  },
+  {
+    "podcast_name": "Tried and Tested Podcast",
+    "episode_title": "﻿Challenging the WEIRD Context in Assessment with Steve Dept",
+    "audio_url": "https://anchor.fm/s/eba9f77c/podcast/play/129198604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436410864-44100-2-607e5de005fc.mp3",
+    "question": "What cultural and contextual adaptations are necessary when administering computer-based tests in regions unfamiliar with keyboard technology?",
+    "transcript_excerpt": "The Nigerian National Examination Council encountered a challenge when switching from paper and pencil tests to computer-based tests in regions where people had used smartphones but never keyboards. They adopted a hybrid approach: for multiple choice questions, they switched to computer-based delivery, but for open-ended questions, they allowed candidates to write answers on paper, which were then scanned and entered into the system. This adaptation ensured that unfamiliarity with keyboards did not disadvantage test-takers.",
+    "expert_name": "Steve Dept",
+    "start_seconds": 659,
+    "end_seconds": 725
+  },
+  {
+    "podcast_name": "Tried and Tested Podcast",
+    "episode_title": "﻿Challenging the WEIRD Context in Assessment with Steve Dept",
+    "audio_url": "https://anchor.fm/s/eba9f77c/podcast/play/129198604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436410864-44100-2-607e5de005fc.mp3",
+    "question": "Why is human expertise with adequate time critical for validating AI-generated assessment content, and what does 'human in the loop' actually require?",
+    "transcript_excerpt": "If human in the loop merely means passive validation, it is worthless. You need someone with the right expertise who has the time to review. If you have massive output and no time, it does not help either. There must be a due process to change and revise whatever the AI is proposing. It is not efficient to look at an assessment through different lenses because it is time-consuming and sometimes seems redundant, but you are not always trying to save time—you are trying to increase the quality of what you are measuring and look at validity, reliability, and fairness.",
+    "expert_name": "Steve Dept",
+    "start_seconds": 999,
+    "end_seconds": 1166
+  },
+  {
+    "podcast_name": "Tried and Tested Podcast",
+    "episode_title": "﻿Challenging the WEIRD Context in Assessment with Steve Dept",
+    "audio_url": "https://anchor.fm/s/eba9f77c/podcast/play/129198604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436410864-44100-2-607e5de005fc.mp3",
+    "question": "How do Anglo-Saxon item formats and multiple choice questions create bias in international assessment when translated to non-English cultures?",
+    "transcript_excerpt": "The Anglo world has taken the lead in assessment, and the invention of the multiple choice question and item formats are Anglo-Saxon centered. There are countries where people have not been exposed to that format at all. Translating a test and saying it is correctly translated while assuming the construct can be measured in both places is insufficient if one population lacks exposure to the item format itself.",
+    "expert_name": "Steve Dept",
+    "start_seconds": 611,
+    "end_seconds": 684
+  }
+]

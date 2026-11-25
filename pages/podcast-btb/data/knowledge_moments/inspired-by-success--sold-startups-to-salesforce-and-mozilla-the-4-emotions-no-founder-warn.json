@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Inspired By Success",
+    "episode_title": "Sold Startups to Salesforce and Mozilla: The 4 Emotions No Founder Warns You About | Raj Singh",
+    "audio_url": "https://www.buzzsprout.com/2239308/episodes/20094893-sold-startups-to-salesforce-and-mozilla-the-4-emotions-no-founder-warns-you-about-raj-singh.mp3",
+    "question": "What approach does Raj Singh use to identify successful startup categories before the market recognizes them?",
+    "transcript_excerpt": "Singh identifies categories by looking for personal pain points and solving them for himself first. He believes that if a solution works for himself, he can find other people with similar problems. This approach gives him deep domain knowledge and understanding of the core problem, which is essential for building a product that doesn't look like a copycat solution but truly addresses the job to be done.",
+    "expert_name": "Raj Singh",
+    "start_seconds": 240,
+    "end_seconds": 255
+  },
+  {
+    "podcast_name": "Inspired By Success",
+    "episode_title": "Sold Startups to Salesforce and Mozilla: The 4 Emotions No Founder Warns You About | Raj Singh",
+    "audio_url": "https://www.buzzsprout.com/2239308/episodes/20094893-sold-startups-to-salesforce-and-mozilla-the-4-emotions-no-founder-warns-you-about-raj-singh.mp3",
+    "question": "Why do most startup categories fail to reach IPO according to Raj Singh?",
+    "transcript_excerpt": "Singh explains that a successful startup category is one where at least one company within that category reaches IPO. However, most startup categories ultimately get acquired or shut down. He points to examples like P2P file sharing where only Skype had a notable exit, and most other companies in the category never went public, eventually becoming just a technology layer rather than standalone successful companies.",
+    "expert_name": "Raj Singh",
+    "start_seconds": 172,
+    "end_seconds": 187
+  },
+  {
+    "podcast_name": "Inspired By Success",
+    "episode_title": "Sold Startups to Salesforce and Mozilla: The 4 Emotions No Founder Warns You About | Raj Singh",
+    "audio_url": "https://www.buzzsprout.com/2239308/episodes/20094893-sold-startups-to-salesforce-and-mozilla-the-4-emotions-no-founder-warns-you-about-raj-singh.mp3",
+    "question": "What is Raj Singh's main lesson about creating products that people genuinely love?",
+    "transcript_excerpt": "Singh emphasizes solving problems for yourself first rather than trying to solve problems for other people. He believes that every product decision is a triangulation of quantitative data, qualitative input, personal intuition, and overall strategy. While he acknowledges this approach may not work for everyone, he credits his method of building for himself as giving him unfair advantage because he has deep understanding of his own pain point.",
+    "expert_name": "Raj Singh",
+    "start_seconds": 375,
+    "end_seconds": 390
+  },
+  {
+    "podcast_name": "Inspired By Success",
+    "episode_title": "Sold Startups to Salesforce and Mozilla: The 4 Emotions No Founder Warns You About | Raj Singh",
+    "audio_url": "https://www.buzzsprout.com/2239308/episodes/20094893-sold-startups-to-salesforce-and-mozilla-the-4-emotions-no-founder-warns-you-about-raj-singh.mp3",
+    "question": "Does Raj Singh believe founders need millions in venture funding to build successful companies?",
+    "transcript_excerpt": "Singh says no, raising money is not necessary. He bootstrapped his first three startups: a music download aggregator built over one summer, a college dating site, and a ringtone customization company. He believes it's easier today than ever to start without funding because of cloud infrastructure, SDKs, API credits, and AI tools that allow solo builders to scale. The challenge today is not building, but growth and customer acquisition.",
+    "expert_name": "Raj Singh",
+    "start_seconds": 503,
+    "end_seconds": 518
+  },
+  {
+    "podcast_name": "Inspired By Success",
+    "episode_title": "Sold Startups to Salesforce and Mozilla: The 4 Emotions No Founder Warns You About | Raj Singh",
+    "audio_url": "https://www.buzzsprout.com/2239308/episodes/20094893-sold-startups-to-salesforce-and-mozilla-the-4-emotions-no-founder-warns-you-about-raj-singh.mp3",
+    "question": "What does Raj Singh believe is the natural evolution of failed startup categories into successful technology layers?",
+    "transcript_excerpt": "Singh uses the assistant category as an example. The assistant category appeared to fail in 2013 with products like Siri and Google Now not reaching IPO, but it eventually became a technology layer omnipresent across applications. Now every application has some form of personalization and predictive intent-driven experience built in, showing how failed categories can eventually succeed by becoming infrastructure rather than standalone products.",
+    "expert_name": "Raj Singh",
+    "start_seconds": 302,
+    "end_seconds": 332
+  }
+]

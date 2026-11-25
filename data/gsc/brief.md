@@ -1,0 +1,48 @@
+# Brief trafic SEO — 2026-11-24
+
+- Période ['2026-08-24', '2026-11-22'] : 20 clics / 3119 impressions sur 491 pages
+- Pages de moments dans Google : 82 pages, 327 impressions, 10 clics
+- Moments ouverts au sitemap : 88 (dont 87 depuis 7 j+) ; contrôlés : 87 ; indexés : 77 (88.5%)
+- Quota : 10/jour → recommandé 25/jour (88.5% indexees : on peut accelerer)
+
+## Par type de page
+- hub : 283 pages, 2193 impr., 6 clics
+- show-listenly : 116 pages, 548 impr., 4 clics
+- moment : 82 pages, 327 impr., 10 clics
+- autre : 9 pages, 50 impr., 0 clics
+- accueil : 1 pages, 1 impr., 0 clics
+
+## 10 pages de moments à faire indexer à la main aujourd'hui
+- https://listenly.org/podcast-btb/m/16-minutes-news-by-a16z/a4a410faae (inconnue)
+- https://listenly.org/podcast-btb/m/ai-a16z/de75aa3c5b (inconnue)
+- https://listenly.org/podcast-btb/m/the-conference-room/2687274a29 (inconnue)
+- https://listenly.org/podcast-btb/m/16-minutes-news-by-a16z/922f63485b (inconnue)
+
+## Pages visibles (positions 3-15) sans clic : titre/extrait à retravailler
+- https://listenly.org/podcast-btb/the-collective-advantage-podcast.html — 53 impr., pos 8.7
+- https://listenly.org/podcast-btb/the-namibia-oil-and-gas-podcast-podcast.html — 41 impr., pos 8.3
+- https://listenly.org/podcast-btb/the-wholesale-change-show-podcast.html — 40 impr., pos 12.6
+- https://listenly.org/podcast-btb/leaders-on-purpose-podcast.html — 38 impr., pos 7.5
+- https://listenly.org/podcast-btb/the-cro-spotlight-podcast-podcast.html — 30 impr., pos 10.4
+- https://listenly.org/podcast-btb/risk-management-brick-by-brick-podcast.html — 29 impr., pos 11.7
+- https://listenly.org/podcast-btb/beyond-fulfillment-podcast-podcast.html — 25 impr., pos 9.9
+- https://listenly.org/podcast-btb/m/this-american-life/babdc7b374 — 25 impr., pos 8.2
+- https://listenly.org/podcast-btb/the-best-of-yvonne-podcast-podcast.html — 25 impr., pos 6.4
+- https://listenly.org/podcast-btb/m/morning-brew-daily/401792ffbf — 22 impr., pos 5.3
+
+## Requêtes bien placées
+- "guy kawasaki" — 9 impr., pos 3.9, 0 clic(s)
+- changingenergy-ltd — 3 impr., pos 4, 0 clic(s)
+- in the air podcast — 7 impr., pos 4.1, 0 clic(s)
+- enter the polish market with a local b2b partner — 3 impr., pos 5, 0 clic(s)
+- evaluate the music discovery platforms company spotify on steven bartlett — 3 impr., pos 5.3, 0 clic(s)
+- creic — 9 impr., pos 5.6, 0 clic(s)
+- comment le plaidoyer pour les maladies rares peut-il amplifier efficacement les voix sous-représentées dans le secteur de la santé ? — 5 impr., pos 5.8, 0 clic(s)
+- construire la wallonie — 13 impr., pos 5.9, 0 clic(s)
+- fed speaker after:2026-10-20 — 11 impr., pos 6, 0 clic(s)
+- founder friendly funding features — 4 impr., pos 7, 0 clic(s)
+- vivlio health — 11 impr., pos 7.2, 0 clic(s)
+- cro spotlight podcast — 7 impr., pos 7.9, 0 clic(s)
+- hecast — 5 impr., pos 8, 0 clic(s)
+- ashley kirkwood speak your way to cash — 3 impr., pos 8, 0 clic(s)
+- road to autonomy — 6 impr., pos 8.3, 0 clic(s)

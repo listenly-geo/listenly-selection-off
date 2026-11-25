@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Audible Bleeding",
+    "episode_title": "JVS-AB Author Spotlight: Rossi, Kuntz, Chakfe",
+    "audio_url": "https://traffic.libsyn.com/secure/audiblebleeding/Combined_Episode_1.mp3?dest-id=848699",
+    "question": "What percentage of patients with proximal L1-L2 type 2 endoleaks experience aneurysm rupture or conversion to open repair compared to distal endoleaks?",
+    "transcript_excerpt": "In the study, 14.2% of patients with proximal endoleaks experienced rupture or open conversion compared with 5.1% with distal endoleaks. After adjusting for age, proximal location remained associated with approximately three-fold greater odds of this adverse outcome.",
+    "expert_name": "Peter Rossi",
+    "start_seconds": 150,
+    "end_seconds": 386
+  },
+  {
+    "podcast_name": "Audible Bleeding",
+    "episode_title": "JVS-AB Author Spotlight: Rossi, Kuntz, Chakfe",
+    "audio_url": "https://traffic.libsyn.com/secure/audiblebleeding/Combined_Episode_1.mp3?dest-id=848699",
+    "question": "Should lumbar arteries be embolized preoperatively before EVAR to prevent type 2 endoleaks and aneurysm sac expansion?",
+    "transcript_excerpt": "Dr. Rossi notes that preoperatively it can be difficult to identify lumbars that would warrant intervention, as they often do not show up clearly until after graft placement. He indicates that most lumbar arteries are small preoperatively and visibility is limited. Rather than aggressive preemptive treatment, his practice is to surveil patients more closely postoperatively if a proximal lumbar endoleak is detected, moving from annual to six-month imaging intervals.",
+    "expert_name": "Peter Rossi",
+    "start_seconds": 563,
+    "end_seconds": 796
+  },
+  {
+    "podcast_name": "Audible Bleeding",
+    "episode_title": "JVS-AB Author Spotlight: Rossi, Kuntz, Chakfe",
+    "audio_url": "https://traffic.libsyn.com/secure/audiblebleeding/Combined_Episode_1.mp3?dest-id=848699",
+    "question": "How do vascular surgeons distinguish between occult type 1 and type 2 proximal endoleaks on imaging, and what does this mean for treatment strategy?",
+    "transcript_excerpt": "Dr. Rossi explains that it can be very difficult on imaging to tell whether a proximal endoleak is truly a type 1 or type 2, as both present with contrast blush behind the graft. He notes that when grafts are explanted, blood often flies out from behind the aortic graft even when no leak was initially seen on imaging. Advanced 4D MRI postoperatively may help distinguish between possible type 1 and type 2 endoleaks, which could guide decisions on whether to pursue graft extension versus open explant reconstruction.",
+    "expert_name": "Peter Rossi",
+    "start_seconds": 340,
+    "end_seconds": 517
+  },
+  {
+    "podcast_name": "Audible Bleeding",
+    "episode_title": "JVS-AB Author Spotlight: Rossi, Kuntz, Chakfe",
+    "audio_url": "https://traffic.libsyn.com/secure/audiblebleeding/Combined_Episode_1.mp3?dest-id=848699",
+    "question": "What was the treatment rate difference for proximal versus distal type 2 endoleaks in the Medical College of Wisconsin study?",
+    "transcript_excerpt": "In the research, proximal endoleaks were treated with embolization much more frequently at 55% compared to 22% in distal endoleaks. Despite this higher treatment rate, the proximal group still had worse outcomes, raising questions about optimal treatment selection and targeting.",
+    "expert_name": "Peter Rossi",
+    "start_seconds": 387,
+    "end_seconds": 605
+  },
+  {
+    "podcast_name": "Audible Bleeding",
+    "episode_title": "JVS-AB Author Spotlight: Rossi, Kuntz, Chakfe",
+    "audio_url": "https://traffic.libsyn.com/secure/audiblebleeding/Combined_Episode_1.mp3?dest-id=848699",
+    "question": "What is the spinal cord ischemia risk associated with preoperative lumbar artery embolization for abdominal aortic aneurysm repair?",
+    "transcript_excerpt": "Dr. Duncan raises concern about a non-zero spinal cord risk with aggressive preoperative lumbar embolization, particularly at more proximal levels. He recounts an early career experience where a patient became paralyzed after infrarenal EVAR, which has made him cautious about lumbar embolization even nearly 20 years later, noting that paralysis cannot be fixed unlike other perioperative complications.",
+    "expert_name": "Peter Rossi",
+    "start_seconds": 1017,
+    "end_seconds": 1131
+  }
+]

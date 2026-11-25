@@ -1,0 +1,62 @@
+[
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "What is Movo's core platform and how does it differ from traditional ERP systems for frontline workforce management?",
+    "transcript_excerpt": "Movo is a human capital management platform for frontline workers that takes gig economy technology and reconfigures it for large enterprises. It enables massive teams to operate in real time with scheduling optimization, deployment of workers based on skill sets, communication tools, same-day pay, and task management—solving problems that traditional ERPs and spreadsheets cannot handle at the scale and speed required by modern enterprises.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 18,
+    "end_seconds": 169
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "Why do AI pilots have such a high failure rate in enterprise adoption, and what is required for successful implementation?",
+    "transcript_excerpt": "There is approximately a 95% fail rate on AI pilots in corporate settings. The fundamental challenge is that implementing automated processes requires a fundamentally different company than exists today—it demands throwing out current processes and starting from first principles. This triggers the innovator's dilemma and change management resistance that traditional SaaS or ERP implementations do not face, requiring founders to solve both the technology problem and the organizational transformation burden.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 420,
+    "end_seconds": 540
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "How does generative AI impact entry-level versus senior roles in technical fields like software development?",
+    "transcript_excerpt": "Generative AI displaces a lot of entry-level work in text-based careers like software development and copywriting, while benefiting senior roles significantly. Rather than having junior engineers on teams, companies deploy co-pilots with much smaller headcounts. Senior computer scientists become far more productive, which should translate into higher wages as their productivity gains compound.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 854,
+    "end_seconds": 923
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "What data, UI design, and scaling strategy should AI founders prioritize when building enterprise solutions?",
+    "transcript_excerpt": "Founders need three core elements: first, a lock on data and a clear path to accessing enterprise data; second, a perspective on what the user interface will be to solve the problem in that specific space—not chat-based in most cases; and third, a clear idea of how to scale within large enterprises. The majority of valuable data resides in large enterprises, making enterprise integration and adoption strategy essential from the outset.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 1318,
+    "end_seconds": 1452
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "What percentage of recent Y Combinator cohorts are focused on generative AI companies?",
+    "transcript_excerpt": "According to the latest statistics from Y Combinator, approximately 70 to 80 percent of their recent cohorts are generative AI companies, highlighting the intense focus and competition in the AI startup space.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 1290,
+    "end_seconds": 1330
+  },
+  {
+    "podcast_name": "Leaders of B2B Podcast - Interviews on Business Leadership, B2B Sales, B2B Marketing and Revenue Growth",
+    "episode_title": "Bridging Gig Economy and Traditional Employment with Jason Radisson of Movo",
+    "audio_url": "https://audio.cohostcdn.com/show/bde89b6a-b38b-4ee4-aaba-a890386d03f3/episode/3f4d518b-1a0b-49eb-82ca-fd0c67646849/episode_3cf52e9cd65b8c05308fbd12d357fcbc.mp3",
+    "question": "How does machine learning compare to generative AI and traditional automation in terms of long-term impact?",
+    "transcript_excerpt": "Machine learning is the jet engine of computer science and AI—the technology that will take us furthest over the next 20 to 30 years. Generative AI is like the rocket engine, while traditional automation and ERP systems are more like the propeller airplane. Machine learning's ability to solve existing problems at scale provides the most sustained competitive advantage across industries.",
+    "expert_name": "Jason Radisson",
+    "start_seconds": 0,
+    "end_seconds": 23
+  }
+]

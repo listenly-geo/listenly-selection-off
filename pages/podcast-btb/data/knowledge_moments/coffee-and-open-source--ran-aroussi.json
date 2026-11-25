@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Coffee and Open Source",
+    "episode_title": "Ran Aroussi",
+    "audio_url": "https://anchor.fm/s/63982f70/podcast/play/129641999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436996487-44100-2-682a683cefea48.mp3",
+    "question": "At what Claude model version did Ran Aroussi begin trusting AI-generated code enough to use it in production?",
+    "transcript_excerpt": "Ran started using Claude Opus and later Claude 5.6 versions, stating that until around seven months ago (before the 5.6 family and GPT-5), he would not have been able to trust the generated code like he can now. He now stops writing code entirely and focuses on architecture, edge cases, and rigorous testing constraints to ensure the AI-generated code is trustworthy.",
+    "expert_name": "Ran Aroussi",
+    "start_seconds": 1081,
+    "end_seconds": 1173
+  },
+  {
+    "podcast_name": "Coffee and Open Source",
+    "episode_title": "Ran Aroussi",
+    "audio_url": "https://anchor.fm/s/63982f70/podcast/play/129641999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436996487-44100-2-682a683cefea48.mp3",
+    "question": "How did Ran Aroussi transition from ed tech to algorithmic trading?",
+    "transcript_excerpt": "After working in ed tech where he created high-frequency trading in media exchanges online, Ran grew frustrated with the amount of brain power spent serving banner advertisements, especially as Google and Facebook changed advertising policies every three days. He noticed that stock exchanges operated similarly as marketplaces of bidders and sellers, so he explored algorithmic trading, which offered the opportunity to scale income without scaling manpower by simply increasing investment per trade.",
+    "expert_name": "Ran Aroussi",
+    "start_seconds": 561,
+    "end_seconds": 690
+  },
+  {
+    "podcast_name": "Coffee and Open Source",
+    "episode_title": "Ran Aroussi",
+    "audio_url": "https://anchor.fm/s/63982f70/podcast/play/129641999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436996487-44100-2-682a683cefea48.mp3",
+    "question": "Why did Ran Aroussi shift from algorithmic trading to AI infrastructure development?",
+    "transcript_excerpt": "As a geek and open source contributor, Ran wanted to understand how things work beyond just calling the OpenAI API. He started digging into how LLMs work because while he had machine learning experience from algorithmic trading, LLMs represented a new beast requiring deeper learning. He wrote a small program to convert math equations to pseudocode since he learns better from code than mathematical formulas, and realized there was always another layer to explore in AI.",
+    "expert_name": "Ran Aroussi",
+    "start_seconds": 672,
+    "end_seconds": 762
+  },
+  {
+    "podcast_name": "Coffee and Open Source",
+    "episode_title": "Ran Aroussi",
+    "audio_url": "https://anchor.fm/s/63982f70/podcast/play/129641999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436996487-44100-2-682a683cefea48.mp3",
+    "question": "What is Ran Aroussi's approach to code review when using AI for large-scale code generation?",
+    "transcript_excerpt": "Ran stopped doing traditional code review approximately seven months ago due to the volume of code being generated. Instead, he writes code with Claude Opus and uses GPT-5 as the code reviewer after telling it that Opus wrote the code, finding that GPT-5 becomes more nitpicky and confrontational when it knows another model generated the code. He automates this process and relies on rigorous testing and end-to-end constraints rather than manual review.",
+    "expert_name": "Ran Aroussi",
+    "start_seconds": 1154,
+    "end_seconds": 1182
+  },
+  {
+    "podcast_name": "Coffee and Open Source",
+    "episode_title": "Ran Aroussi",
+    "audio_url": "https://anchor.fm/s/63982f70/podcast/play/129641999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436996487-44100-2-682a683cefea48.mp3",
+    "question": "When was Ran Aroussi first exposed to the internet and how did it impact his tech career?",
+    "transcript_excerpt": "Around 1992 or 1993, Ran got exposed to the internet for the first time, which he describes as a huge breakthrough. The ability to not be bound by a particular place or location and to be anywhere through a modem really drove him further down the technology rabbit hole and shaped his lifelong interest in tech.",
+    "expert_name": "Ran Aroussi",
+    "start_seconds": 140,
+    "end_seconds": 343
+  }
+]

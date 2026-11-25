@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Get the Check",
+    "episode_title": "Jensen Huang out at NVIDIA, chips to China, Anthropic’s IPO",
+    "audio_url": "https://anchor.fm/s/fb142688/podcast/play/129595700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436934884-44100-2-72d6f67516e9a8.mp3",
+    "question": "What is Megaspeed's business model and how much AI equipment has it purchased between June 2024 and February 2026?",
+    "transcript_excerpt": "Megaspeed is a data center firm that buys NVIDIA chips and builds data centers in places like Malaysia or Indonesia to rent compute capacity to Chinese companies. Between June 2024 and February 2026, Megaspeed has purchased at least five billion dollars of AI equipment, with reports estimating it could be as high as twelve billion dollars.",
+    "expert_name": null,
+    "start_seconds": 232,
+    "end_seconds": 397
+  },
+  {
+    "podcast_name": "Get the Check",
+    "episode_title": "Jensen Huang out at NVIDIA, chips to China, Anthropic’s IPO",
+    "audio_url": "https://anchor.fm/s/fb142688/podcast/play/129595700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436934884-44100-2-72d6f67516e9a8.mp3",
+    "question": "Who is Alice Huang and what are the allegations regarding her role at Megaspeed?",
+    "transcript_excerpt": "Alice Huang is the CEO of Megaspeed and is alleged to be a CCP spy. According to classified memos under Secretary Rubio that reached Trump, she is suspected of working for China's Ministry of State Security. The business model involves buying NVIDIA chips and renting compute to Chinese companies, with allegations that she is helping smuggle actual chips into China, which differs from the technically legal loophole of renting to Chinese companies.",
+    "expert_name": null,
+    "start_seconds": 245,
+    "end_seconds": 368
+  },
+  {
+    "podcast_name": "Get the Check",
+    "episode_title": "Jensen Huang out at NVIDIA, chips to China, Anthropic’s IPO",
+    "audio_url": "https://anchor.fm/s/fb142688/podcast/play/129595700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436934884-44100-2-72d6f67516e9a8.mp3",
+    "question": "Why did Jensen Huang resign as NVIDIA CEO and what were the specific violations?",
+    "transcript_excerpt": "Jensen Huang resigned as NVIDIA CEO following the discovery of affairs with Alice Huang, an alleged Chinese spy and Megaspeed executive, and with Kimberly Powell, the head of NVIDIA Healthcare who was a direct report to him. Beyond the personal affairs, the primary concern was potential treason-related charges given his alleged lobbying for an exception for Megaspeed while she was using the company to smuggle chips to China. Additionally, having a relationship with a subordinate violates employee conduct policies and SEC regulations.",
+    "expert_name": null,
+    "start_seconds": 335,
+    "end_seconds": 559
+  },
+  {
+    "podcast_name": "Get the Check",
+    "episode_title": "Jensen Huang out at NVIDIA, chips to China, Anthropic’s IPO",
+    "audio_url": "https://anchor.fm/s/fb142688/podcast/play/129595700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436934884-44100-2-72d6f67516e9a8.mp3",
+    "question": "How does the timing of Jensen Huang's resignation relate to Anthropic's upcoming IPO?",
+    "transcript_excerpt": "Jensen Huang's resignation occurred the week that Anthropic was most likely going public. Some analysts suggest this timing is suspiciously convenient, as Anthropic could benefit from NVIDIA's weakened position given that Anthropic is more anti-open source and anti-China compared to NVIDIA's support for the open source ecosystem and chip sales to China, potentially shifting the competitive landscape.",
+    "expert_name": null,
+    "start_seconds": 557,
+    "end_seconds": 777
+  },
+  {
+    "podcast_name": "Get the Check",
+    "episode_title": "Jensen Huang out at NVIDIA, chips to China, Anthropic’s IPO",
+    "audio_url": "https://anchor.fm/s/fb142688/podcast/play/129595700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436934884-44100-2-72d6f67516e9a8.mp3",
+    "question": "What was the scale of NVIDIA stock decline following Jensen Huang's affairs becoming public?",
+    "transcript_excerpt": "NVIDIA stock was down thirteen percent just that week, marking its worst performance since the tariffs in April. The decline was attributed to multiple factors including circular financing concerns, the AI CapEx debate, CoreWeave discussions, midterm election concerns, and finally the affairs revelations.",
+    "expert_name": null,
+    "start_seconds": 478,
+    "end_seconds": 668
+  }
+]

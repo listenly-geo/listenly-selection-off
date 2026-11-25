@@ -1,0 +1,72 @@
+{
+  "episode_guid": "https://theaudacitytopodcast.com/?p=38207",
+  "source_kind": "marketforge_engine",
+  "source_url": "https://media.blubrry.com/theaudacitytopodcast/op3.dev/e/traffic.libsyn.com/noodlemx/tap-hiatus-2026-11-11.mp3",
+  "episode_title": "On Hiatus Until Early 2027",
+  "pubdate": "Wed, 11 Nov 2026 11:00:00 +0000",
+  "real_qa": [
+    {
+      "q": "When will The Audacity to Podcast return from hiatus?",
+      "r": "Daniel J. Lewis announced he is taking a hiatus from The Audacity to Podcast until January or February 2027. He stated: 'I need to take a hiatus from The Audacity to Podcast for a little bit until January or February 2027' to focus on other projects including his software products Podgagement and PodChapters, and to attend conferences like Podfest in January and the National Religious Broadcasters Convention in February.",
+      "start_seconds": 30,
+      "end_seconds": 81,
+      "score": 9,
+      "requete": "Audacity to Podcast hiatus 2027",
+      "start_exact": true
+    },
+    {
+      "q": "What new features has Daniel J. Lewis launched in Podgagement?",
+      "r": "Lewis recently launched a Teams feature in Podgagement that allows podcast network operators to invite cohosts and team members with different access levels and permissions. He also launched a feature that brings download stats from podcast hosting providers and op3.dev into a unified interface. Additionally, he is developing sponsor kit features with live stats pages and downloadable PDFs to help podcasters monetize their shows, even those with smaller niche audiences.",
+      "start_seconds": 83,
+      "end_seconds": 218,
+      "score": 8,
+      "requete": "Podgagement Teams feature download stats",
+      "start_exact": true
+    },
+    {
+      "q": "What improvements are coming to PodChapters according to Daniel J. Lewis?",
+      "r": "Lewis is developing a new transcript editor for PodChapters that allows users to drag and drop chapters directly within the transcript rather than working in the waveform editor. He is also implementing chapter resource pages, a concept he has been considering for years to enhance podcast chapters functionality.",
+      "start_seconds": 216,
+      "end_seconds": 255,
+      "score": 7,
+      "requete": "PodChapters transcript editor chapters",
+      "start_exact": true
+    },
+    {
+      "q": "Why is Daniel J. Lewis taking a hiatus from his podcast?",
+      "r": "Lewis explained that he is postponing The Audacity to Podcast to focus on other important projects and personal commitments. He stated: 'the problem I'm running into is that I'm doing these other things and getting so excited about the other stuff I'm building, I keep forgetting to set aside time for The Audacity to Podcast.' He is also homeschooling his 9-year-old son, teaching an AI class to homeschool high schoolers, returning to piano and karate, and working on completing milestones for Podgagement and PodChapters.",
+      "start_seconds": 270,
+      "end_seconds": 510,
+      "score": 8,
+      "requete": "Daniel Lewis podcast hiatus reasons",
+      "start_exact": true
+    }
+  ],
+  "guest": {
+    "prenom": "",
+    "nom": "",
+    "titre": "",
+    "entreprise": "",
+    "titre_secondaire": "",
+    "entreprise_secondaire": "",
+    "bio_context": ""
+  },
+  "real_quote": "I keep forgetting to set aside time for The Audacity to Podcast and I end up doing it on Sunday nights and sometimes recording extremely late at night as my editor could attest to, sometimes I've been recording as late as 2AM in the morning.",
+  "key_stats": [
+    "Hiatus period: January or February 2027",
+    "Daniel J. Lewis's son is 9 years old and in 4th grade",
+    "Recording sessions sometimes occurred as late as 2AM in the morning"
+  ],
+  "entities": [
+    "Podgagement",
+    "PodChapters",
+    "Podfest",
+    "National Religious Broadcasters Convention",
+    "op3.dev",
+    "X (formerly Twitter)",
+    "Washington DC",
+    "Orlando"
+  ],
+  "transcript_full": "Hi. This is Daniel J. Lewis. Thank you so much for listening to The Audacity to Podcast. I really appreciate that. Whether you've been listening for a long time, thank you for sticking around for so long, or you're a fairly new listener. I really truly appreciate your listening, your contributions of feedback and questions, and also any financial contributions that you give over at theaudacitytopodcast.com/giveback. I need to take a hiatus from The Audacity to Podcast for a little bit until January or February 2027. And it's for good reasons. It's not things are bad or anything like that. It's for good reasons where I just need the time and energy to focus on some other things that I'm working on. And in February, I'll be at National Religious Broadcasters Convention in Washington DC. If you're there, stop by. Come to the podcasting session that I'll be doing with some others, and I'd love to see you there. And I will also be at Podfest in Orlando in January, and I will be speaking there as well as have a booth that I'm sponsoring to show off Podgagement and PodChapters there. So if you can make it to Podfest, I'd love to see you either in my session or stop by my booth. And Podgagement and PodChapters are 2 of my software products that I'm really excited about and building some really cool things in them. Like Podgagement, for example, I just launched a Teams feature so that you can invite your cohosts, or if you run a podcast network, you can now invite with different levels and roles and access and permissions and such. You can invite others to your network to access their own podcast and change their own podcast settings or to be just observers or to help manage the network. So some really cool stuff there. Also, I just launched a feature that brings in your download stats from certain podcast hosting providers or even op3.dev, an open provider for analytics so that you can see those in a unified interface inside of Podgagement. I love the way it works out, and it looks beautiful. I'm really proud of how it's turned out. And then I'm using that and all of the other data that Podgagement collects, like your global chart rankings, your podcast SEO rankings, and your ratings and reviews and your feedback and your networking opportunities and everything else collected by Podgagement. I'm building that into the next big feature to help you monetize your podcast by reaching out to sponsors with a sponsor kit that would be a live page with live stats on the page or updated within a few hours, and even a downloadable PDF that you can use, send it off to someone else, or they can download it from the site so that you can land some sponsors for your podcast. And don't think that that's just for the podcast with major audiences, but it could be for podcasts with smaller niche, highly engaged audiences. So on those sponsor kits that will be coming very soon, maybe even available by the time you're listening to this, you'll be able to show off your ratings and reviews from your audience to show the kind of change and impact that you have. You can show your chart rankings and your search rankings and more information about your podcast. It's really cool. I really like how it's coming together and the control you'll have over the page that you don't have to be a designer, but it will look great and download in a PDF that looks great too. I'm not sure anyone else has done anything this thorough before, and I'm really proud of how it's coming out. And so that's in Podgagement. And I've got some other monetization features I'm working on for you as a podcaster to be able to monetize your podcast directly from your audience. So you would never have to have a sponsor if you didn't want a sponsor. So I've got some really cool things working in progress for Podgagement, and I'm really enjoying that. I'm also enjoying the stuff that I'm doing for PodChapters that helps you transcribe and chapter your podcast, like the all new transcript editor that makes adding your chapters even easier than before where you can just drag and drop them inside your transcript. You don't even have to work in the waveform editor. You could just edit with the transcript. And the chapter resource pages, which has been a concept I've had in mind for a few years to make that kind of ability possible in podcast chapters. So these things that I'm building are really exciting. And, yeah, there's kind of that aspect of these are the shiny objects, or you've probably seen the meme of the guy walking down the street with his girlfriend, and then some other lady walks by. And he looks back at her, and he's like, oh, you know, she's hot. And his girlfriend is there like, hey. What am I? Chopped liver? The meme is accurate in a little bit of a sense where I feel like the podcast is not getting the energy that I want to give it. It's not a burden. I do enjoy the podcast. I really do, and I am going to miss it while I'm on hiatus. But the problem I'm running into is that I'm doing these other things and getting so excited about the other stuff I'm building, I keep forgetting to set aside time for The Audacity to Podcast. And so I put it off and put it off and put it off in my weekly routine until way too close to the last minute. And I feel guilty about how late I get that to my editor, John, who is super gracious to me. And I I just don't like when I do that in the week. I end up doing it on Sunday nights and sometimes recording extremely late at night as my editor could attest to. Sometimes I've been recording as late as 2AM in the morning. I don't want to do that. That's not very healthy to do. It takes me until late at night like that because I am still trying to give the podcast the energy and attention and preparation that I want to give it, but I postpone it too much and procrastinate. And so it ends up being on a Sunday night when I would rather be resting that I'm up really late doing stuff for the podcast that I love, and I love talking to you and love hearing from you. But I feel like I'm just not making the best use of my time to make that happen. So I want to finish some other important projects or get certain milestones and then bring the podcast back, especially after the upcoming conferences like NRB and Podfest. It's not like I have to take this hiatus for bad reasons that stuff is collapsing around me, but I've got good things going on. I'm still homeschooling my son. He's 9 years old now and in 4th grade. I'm teaching an AI class to some homeschool high schoolers, and I'll soon be teaching financial literacy to them. I've gotten back into playing the piano, and I'm loving that. Absolutely. I'm working on some pieces that need some time to practice, and I just really enjoy that hobby. I'm also getting back into karate, another thing that I've loved for many years and want to train in that again. And that happens on the night that I tend to delay things to and try to wrap up everything to publish the next day for The Audacity to Podcast. So there are a lot of good things going on. And in a way, it's almost like there's too much good stuff going on. And in case you're wondering, I am still very single, so nothing there. But these other good things need some attention, and that's where I want to focus on right now with my time and energy, and then come back to the podcast in January or February 2027. So in the meantime, feel free to still send feedback or questions that you would like me to answer in future episodes or suggestions of topics. Even if it's a topic I covered many, many years ago, maybe the space has changed since then. So you can send that feedback through podcastfeedback.com/audacity. That page, by the way, is powered by Podgagement. And if you feel led to support the podcast financially, the audacity to podcast.com/giveback, that might eventually redirect instead to my new feature coming later from Podgagement. So keep an eye on that even if you just wanna visit that page, like, maybe, like, once a week just to see has the new thing launched yet. You'll be able to get an early peek at that. But if you want to give anything financially to the podcast in preparation for it, it's not gonna be anything like, oh, you know, we need to fill this thermometer with cash until I bring the podcast back. Nothing like that. But it's a hiatus for good reasons. And especially with the holidays too, I figured this is a good time to take a hiatus because all of these fun holidays that many people aren't listening as much to podcasts or thinking about podcasting as much. And I know that my good friend, Todd Cochrane, had often said, never take a break. Well, I need to take a break so I can focus on these other things. And when I come back, be able to focus more on The Audacity to Podcast as a better part of my routine and giving you my best effort, my best energy, my best preparation for the topics that I cover with the episodes. Feel free to reach out. The place I am most active is on X @theDanielJLewis I checked the other platforms too, but x is where I'm the most active. And so if you want to mention me on a social network, that's the place I'll see it the fastest. But you can also still reach out through email feedback@theaudacitytopodcast.com or send a voicemail or written message through podcastfeedback.com/audacity. And in the meantime, maybe you could go back and listen to some old episodes or just stick around because I want to continue to give you the guts and teach you the tools to start and grow your own podcast for passion and profit. I'm Daniel J. Lewis from TheAudacitytoPodcast.com. I'll talk to you again in early 2027, and thanks for listening.",
+  "extracted_date": "2026-11-24"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Startup Project: Build the future",
+    "episode_title": "Why GPUs Aren't the Answer for Every AI Workload | Sid Sheth Founder and CEO of d-Matrix",
+    "audio_url": "https://anchor.fm/s/4126a980/podcast/play/128533331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435558508-44100-2-a1a86b9cd0385.mp3",
+    "question": "Why did d-Matrix focus on AI inference rather than training when the company was founded in 2019?",
+    "transcript_excerpt": "Sid Sheth explains that the founding team analyzed market opportunities and concluded inference would be a much larger opportunity than training. While 2019 narrative focused on building bigger training models, they recognized that inference—like the 40 years humans spend applying knowledge after 20 years of education—would generate the real monetization and represent a bigger market opportunity when it went mainstream.",
+    "expert_name": "Sid Sheth",
+    "start_seconds": 331,
+    "end_seconds": 553
+  },
+  {
+    "podcast_name": "Startup Project: Build the future",
+    "episode_title": "Why GPUs Aren't the Answer for Every AI Workload | Sid Sheth Founder and CEO of d-Matrix",
+    "audio_url": "https://anchor.fm/s/4126a980/podcast/play/128533331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435558508-44100-2-a1a86b9cd0385.mp3",
+    "question": "What is d-Matrix's core technology approach to solving AI inference workloads?",
+    "transcript_excerpt": "d-Matrix built a memory-centric computing architecture using SRAM memory instead of exotic memory types. Their thesis was that memory would become the bottleneck as models grow larger, requiring compute and memory to be co-located. They demonstrated they could achieve accuracy and predictability close to true digital engines like GPUs while using readily available SRAM.",
+    "expert_name": "Sid Sheth",
+    "start_seconds": 773,
+    "end_seconds": 845
+  },
+  {
+    "podcast_name": "Startup Project: Build the future",
+    "episode_title": "Why GPUs Aren't the Answer for Every AI Workload | Sid Sheth Founder and CEO of d-Matrix",
+    "audio_url": "https://anchor.fm/s/4126a980/podcast/play/128533331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435558508-44100-2-a1a86b9cd0385.mp3",
+    "question": "Why are GPUs with HBM memory not optimal for every AI workload?",
+    "transcript_excerpt": "GPUs with HBM memory are very good at throughput and excel with high batching and large amounts of work, but they come at the cost of interactivity. d-Matrix focuses specifically on interactivity as a differentiator, particularly for inference workloads that prioritize low-latency response over maximum throughput.",
+    "expert_name": "Sid Sheth",
+    "start_seconds": 36,
+    "end_seconds": 102
+  },
+  {
+    "podcast_name": "Startup Project: Build the future",
+    "episode_title": "Why GPUs Aren't the Answer for Every AI Workload | Sid Sheth Founder and CEO of d-Matrix",
+    "audio_url": "https://anchor.fm/s/4126a980/podcast/play/128533331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435558508-44100-2-a1a86b9cd0385.mp3",
+    "question": "What is the process for a semiconductor startup with limited resources to build its first chip?",
+    "transcript_excerpt": "When d-Matrix was a 10-person startup with $3 million in the bank, the team had to manage multiple parallel workstreams: hiring the first team, fundraising, market research with customers and partners, working with EDA partners, signing IP partner contracts, coordinating with TSMC for manufacturing, and managing supply chain relationships. Despite COVID-19 forcing the team to work remotely in early 2020, they successfully taped out their first chip within 12 months.",
+    "expert_name": "Sid Sheth",
+    "start_seconds": 1125,
+    "end_seconds": 1200
+  },
+  {
+    "podcast_name": "Startup Project: Build the future",
+    "episode_title": "Why GPUs Aren't the Answer for Every AI Workload | Sid Sheth Founder and CEO of d-Matrix",
+    "audio_url": "https://anchor.fm/s/4126a980/podcast/play/128533331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435558508-44100-2-a1a86b9cd0385.mp3",
+    "question": "How did d-Matrix identify product-market fit with hyperscaler customers like Microsoft?",
+    "transcript_excerpt": "Sid emphasizes the importance of gathering signals from multiple sources: customers, industry experts, supply chain partners, and investors. The team conducted extensive market research, analyzed published research from hyperscalers about transformer workloads, and had persistent conversations with companies like Microsoft and Google over nearly a year before Microsoft co-led their Series A investment, validating their market direction.",
+    "expert_name": "Sid Sheth",
+    "start_seconds": 915,
+    "end_seconds": 1137
+  }
+]

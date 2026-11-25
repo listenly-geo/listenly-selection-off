@@ -1,0 +1,658 @@
+{
+ "note": "Niveaux de notoriete des podcasts (18/10/2026). A = podcasts connus, ouverts en premier. B = reconnus dans leur secteur. Tous les autres = C (ouverts plus tard). Classement fait a la main, a relire.",
+ "niveaux": {
+  "the-josh-bersin-podcast": "B",
+  "the-daily-podcast": "A",
+  "the-staffing-ring": "B",
+  "the-costa-property": "C",
+  "acq2-by-acquired": "A",
+  "restaurant-influencers": "B",
+  "automotive-engineering-daily-a-workforce": "B",
+  "business-daily": "B",
+  "the-single-source": "B",
+  "money-guy-show": "A",
+  "legal-innovation-spotlight": "B",
+  "talentbuzz": "C",
+  "wait-wait-dont-tell-me": "A",
+  "creatures-of-the-industry": "C",
+  "the-namibia-oil-and-gas-podcast": "B",
+  "biggerpockets-real-estate-podcast": "C",
+  "b2b-vault-the-biz-to-biz-podcast": "A",
+  "the-produce-industry-podcast-w-patrick-k": "B",
+  "pod-save-america": "A",
+  "wired-stories-of-impactful-women": "B",
+  "bite-sized-business-law": "B",
+  "best-damn-coach-podcast-conversations-fo": "B",
+  "invest-like-the-best": "A",
+  "the-think-small": "B",
+  "how-much-can-i-make": "B",
+  "up-first-from-npr": "A",
+  "the-athena-rebels-podcast": "B",
+  "guy-kawasaki-s-remarkable-people": "A",
+  "the-conference-room": "B",
+  "rev-up-accelerating-your-growth": "B",
+  "sync-or-swim-the-multifamily-growth-show": "C",
+  "freakonomics-radio": "A",
+  "b2b-healthcare-marketing-strategies-to-b": "B",
+  "drew-talks-business-investing-entreprene": "B",
+  "the-dynamo-show-a-dynamo-ventures-podcas": "B",
+  "unfiltered-by-propertymanagement-com": "B",
+  "the-diary-of-a-ceo-with-steven-bartlett": "A",
+  "plugged-in-the-energy-news-podcast": "C",
+  "get-real-the-official-podcast-of-magicbr": "B",
+  "the-mel-robbins-podcast": "A",
+  "mission-ctrl": "B",
+  "date-line-nbc": "A",
+  "how-i-invest-with-david-weisburd": "B",
+  "education-joining-the-dots": "B",
+  "masters-of-scale": "A",
+  "your-next-dollar-money-management-for-hi": "B",
+  "propulsion-d-entreprise-succ-s-et-croiss": "B",
+  "the-crexi-commercial-real-estate-podcast": "B",
+  "the-ramsey-show": "A",
+  "lcr-media-podcast": "B",
+  "wildly-capable-by-novoed": "C",
+  "the-rev-up": "B",
+  "stacking-growth-the-b2b-marketing-podcas": "B",
+  "this-american-life": "A",
+  "ai-a16z": "B",
+  "ceo-numbers-network-with-danielle-hayden": "C",
+  "counting-on-calibre": "C",
+  "accreditation-conversations": "C",
+  "the-make-more-placements-show-for-recrui": "B",
+  "empowering-industry-podcast-a-production": "B",
+  "the-vurge": "B",
+  "hull-trains-moving-minds": "C",
+  "technically-legal-a-legal-technology-and": "B",
+  "beyond-3d-podcast": "C",
+  "broker-to-broker-real-estate-podcast": "B",
+  "latitude-navigating-business-culture": "B",
+  "how-i-built-this-with-guy-raz": "A",
+  "rock-your-money-rock-your-life": "B",
+  "the-payroll-podcast": "B",
+  "php-podcast-episodes-from-php-architect": "B",
+  "the-astonishing-healthcare-podcast": "C",
+  "the-tim-ferriss-show": "A",
+  "ignited-striking-industrial-automation-c": "B",
+  "just-in-time-your-e-commerce-logistics-p": "B",
+  "the-goal-digger-podcast-top-business-and": "B",
+  "beyond-the-ordinary": "B",
+  "the-uncut-short-term-rental-podcast": "C",
+  "a16z-crypto-show": "B",
+  "veteran-business-community-podcast": "C",
+  "the-balancing-act-podcast-with-singerlew": "B",
+  "the-road-to-autonomy": "B",
+  "the-collective-co-podcast": "C",
+  "the-wholesale-change-show": "B",
+  "the-nassau-reimagine-podcast": "C",
+  "the-wealth-exchange": "C",
+  "driving-forward-podcast": "B",
+  "young-and-profiting-with-hala-taha-entrepreneurship": "A",
+  "trucking-for-millennials": "B",
+  "the-angel-next-door": "A",
+  "the-cro-spotlight-podcast": "B",
+  "world-war-2-podcast": "A",
+  "founders": "B",
+  "global-medical-device-podcast-powered-by": "B",
+  "exit-is-now-plan-accordingly": "B",
+  "the-mastering-commercial-real-estate-pod": "B",
+  "storydriven-marketing-the-b2b-brand-stor": "B",
+  "unprompted-real-aI-in-ic": "C",
+  "the-treppwire-podcast-a-commercial-real": "B",
+  "16-minutes-news-by-a16z": "B",
+  "high-impact-growth": "B",
+  "the-bob-lefsetz-podcast": "A",
+  "cash-flow-tell": "C",
+  "vivlio-health-improving-the-medical-reco": "B",
+  "bulkloads-podcast": "C",
+  "agoracom-small-cap-ceo-interviews": "C",
+  "proven-podcast": "C",
+  "supply-chain-therapy": "B",
+  "3-take-away": "A",
+  "wise-content-creates-wealth": "C",
+  "rec-tech-the-recruiting-technology-podca": "B",
+  "trucking-matters-from-reliance-partners": "B",
+  "shore-capital-podcast-network": "B",
+  "the-rag-company-podcast": "C",
+  "inside-the-cfo-office": "B",
+  "content-briefly": "B",
+  "britevibe-podcast-live-brite-live-bold-a": "C",
+  "rogue-startups": "B",
+  "the-toddle-about-show": "A",
+  "morning-brew-daily": "A",
+  "leaders-of-b2b-podcast-interviews-on-bus": "B",
+  "random-but-memorable": "C",
+  "business-broken-to-smokin-podcast": "C",
+  "the-rest-is-history": "A",
+  "tip-of-the-law": "B",
+  "the-sales-compensation-show": "B",
+  "modern-comms": "C",
+  "slow-marketing-le-podcast-des-cmo-a-impact": "B",
+  "purpose-people-podcast": "B",
+  "japan-s-top-business-interviews-podcast": "B",
+  "workplace-stories-by-redthread-research": "B"
+ },
+ "defaut": "C",
+ "manuel": {
+  "the-diary-of-a-ceo-with-steven-bartlett": "A",
+  "this-american-life": "A",
+  "freakonomics-radio": "A",
+  "the-daily-podcast": "A",
+  "money-guy-show": "A",
+  "the-rest-is-history": "A",
+  "the-tim-ferriss-show": "A",
+  "how-i-built-this-with-guy-raz": "A",
+  "pod-save-america": "A",
+  "the-mel-robbins-podcast": "A",
+  "morning-brew-daily": "A",
+  "masters-of-scale": "A",
+  "the-ramsey-show": "A",
+  "up-first-from-npr": "A",
+  "wait-wait-dont-tell-me": "A",
+  "date-line-nbc": "A",
+  "guy-kawasaki-s-remarkable-people": "A",
+  "invest-like-the-best": "A",
+  "young-and-profiting-with-hala-taha-entrepreneurship": "A",
+  "world-war-2-podcast": "A",
+  "acq2-by-acquired": "A",
+  "the-bob-lefsetz-podcast": "A",
+  "3-take-away": "B",
+  "a16z-crypto-show": "B",
+  "16-minutes-news-by-a16z": "B",
+  "ai-a16z": "B",
+  "the-angel-next-door": "B",
+  "the-conference-room": "B",
+  "the-single-source": "B",
+  "leaders-of-b2b-podcast-interviews-on-bus": "B",
+  "b2b-vault-the-biz-to-biz-podcast": "B",
+  "the-josh-bersin-podcast": "B",
+  "founders": "B",
+  "your-next-dollar-money-management-for-hi": "B",
+  "the-crexi-commercial-real-estate-podcast": "B",
+  "the-goal-digger-podcast-top-business-and": "B",
+  "the-think-small": "B",
+  "purpose-people-podcast": "B"
+ },
+ "signaux_gsc": {
+  "storydriven-marketing-the-b2b-brand-stor": {
+   "clics": 0,
+   "impressions": 94
+  },
+  "the-daily-podcast": {
+   "clics": 0,
+   "impressions": 58
+  },
+  "3-take-away": {
+   "clics": 2,
+   "impressions": 62
+  },
+  "the-road-to-autonomy": {
+   "clics": 0,
+   "impressions": 43
+  },
+  "the-namibia-oil-and-gas-podcast": {
+   "clics": 0,
+   "impressions": 41
+  },
+  "the-wholesale-change-show": {
+   "clics": 0,
+   "impressions": 40
+  },
+  "the-cro-spotlight-podcast": {
+   "clics": 0,
+   "impressions": 30
+  },
+  "this-american-life": {
+   "clics": 0,
+   "impressions": 44
+  },
+  "business-daily": {
+   "clics": 0,
+   "impressions": 24
+  },
+  "morning-brew-daily": {
+   "clics": 0,
+   "impressions": 24
+  },
+  "slow-marketing-le-podcast-des-cmo-a-impact": {
+   "clics": 0,
+   "impressions": 20
+  },
+  "technically-legal-a-legal-technology-and": {
+   "clics": 0,
+   "impressions": 19
+  },
+  "legal-innovation-spotlight": {
+   "clics": 0,
+   "impressions": 18
+  },
+  "the-angel-next-door": {
+   "clics": 1,
+   "impressions": 44
+  },
+  "japan-s-top-business-interviews-podcast": {
+   "clics": 0,
+   "impressions": 14
+  },
+  "php-podcast-episodes-from-php-architect": {
+   "clics": 0,
+   "impressions": 14
+  },
+  "vivlio-health-improving-the-medical-reco": {
+   "clics": 0,
+   "impressions": 13
+  },
+  "b2b-healthcare-marketing-strategies-to-b": {
+   "clics": 0,
+   "impressions": 12
+  },
+  "latitude-navigating-business-culture": {
+   "clics": 0,
+   "impressions": 12
+  },
+  "the-rev-up": {
+   "clics": 0,
+   "impressions": 12
+  },
+  "the-payroll-podcast": {
+   "clics": 0,
+   "impressions": 11
+  },
+  "inside-the-cfo-office": {
+   "clics": 0,
+   "impressions": 10
+  },
+  "guy-kawasaki-s-remarkable-people": {
+   "clics": 0,
+   "impressions": 13
+  },
+  "the-toddle-about-show": {
+   "clics": 1,
+   "impressions": 14
+  },
+  "the-rest-is-history": {
+   "clics": 0,
+   "impressions": 12
+  },
+  "exit-is-now-plan-accordingly": {
+   "clics": 0,
+   "impressions": 9
+  },
+  "high-impact-growth": {
+   "clics": 0,
+   "impressions": 9
+  },
+  "date-line-nbc": {
+   "clics": 1,
+   "impressions": 8
+  },
+  "ignited-striking-industrial-automation-c": {
+   "clics": 0,
+   "impressions": 8
+  },
+  "how-i-built-this-with-guy-raz": {
+   "clics": 1,
+   "impressions": 12
+  },
+  "restaurant-influencers": {
+   "clics": 0,
+   "impressions": 13
+  },
+  "the-dynamo-show-a-dynamo-ventures-podcas": {
+   "clics": 0,
+   "impressions": 8
+  },
+  "masters-of-scale": {
+   "clics": 5,
+   "impressions": 38
+  },
+  "b2b-vault-the-biz-to-biz-podcast": {
+   "clics": 1,
+   "impressions": 10
+  },
+  "automotive-engineering-daily-a-workforce": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "best-damn-coach-podcast-conversations-fo": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "leaders-of-b2b-podcast-interviews-on-bus": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "stacking-growth-the-b2b-marketing-podcas": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "the-think-small": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "ai-a16z": {
+   "clics": 0,
+   "impressions": 10
+  },
+  "bite-sized-business-law": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "founders": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "rogue-startups": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "the-athena-rebels-podcast": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "unfiltered-by-propertymanagement-com": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "empowering-industry-podcast-a-production": {
+   "clics": 0,
+   "impressions": 13
+  },
+  "freakonomics-radio": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "mission-ctrl": {
+   "clics": 0,
+   "impressions": 5
+  },
+  "rev-up-accelerating-your-growth": {
+   "clics": 0,
+   "impressions": 5
+  },
+  "the-make-more-placements-show-for-recrui": {
+   "clics": 0,
+   "impressions": 5
+  },
+  "driving-forward-podcast": {
+   "clics": 0,
+   "impressions": 4
+  },
+  "lcr-media-podcast": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "the-diary-of-a-ceo-with-steven-bartlett": {
+   "clics": 0,
+   "impressions": 11
+  },
+  "wired-stories-of-impactful-women": {
+   "clics": 0,
+   "impressions": 7
+  },
+  "the-balancing-act-podcast-with-singerlew": {
+   "clics": 0,
+   "impressions": 4
+  },
+  "the-bob-lefsetz-podcast": {
+   "clics": 0,
+   "impressions": 9
+  },
+  "the-sales-compensation-show": {
+   "clics": 0,
+   "impressions": 4
+  },
+  "trucking-matters-from-reliance-partners": {
+   "clics": 0,
+   "impressions": 4
+  },
+  "workplace-stories-by-redthread-research": {
+   "clics": 0,
+   "impressions": 4
+  },
+  "global-medical-device-podcast-powered-by": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "acq2-by-acquired": {
+   "clics": 0,
+   "impressions": 5
+  },
+  "education-joining-the-dots": {
+   "clics": 0,
+   "impressions": 6
+  },
+  "just-in-time-your-e-commerce-logistics-p": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "rec-tech-the-recruiting-technology-podca": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "supply-chain-therapy": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "the-goal-digger-podcast-top-business-and": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "the-staffing-ring": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "beyond-the-ordinary": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "broker-to-broker-real-estate-podcast": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "content-briefly": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "drew-talks-business-investing-entreprene": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "get-real-the-official-podcast-of-magicbr": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "how-much-can-i-make": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "invest-like-the-best": {
+   "clics": 0,
+   "impressions": 5
+  },
+  "propulsion-d-entreprise-succ-s-et-croiss": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "rock-your-money-rock-your-life": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "shore-capital-podcast-network": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "the-mastering-commercial-real-estate-pod": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "the-treppwire-podcast-a-commercial-real": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "the-vurge": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "tip-of-the-law": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "trucking-for-millennials": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "a16z-crypto-show": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "accreditation-conversations": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "agoracom-small-cap-ceo-interviews": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "beyond-3d-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "biggerpockets-real-estate-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "britevibe-podcast-live-brite-live-bold-a": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "business-broken-to-smokin-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "cash-flow-tell": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "ceo-numbers-network-with-danielle-hayden": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "counting-on-calibre": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "creatures-of-the-industry": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "how-i-invest-with-david-weisburd": {
+   "clics": 0,
+   "impressions": 2
+  },
+  "hull-trains-moving-minds": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "bulkloads-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-conference-room": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-crexi-commercial-real-estate-podcast": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "the-mel-robbins-podcast": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "the-produce-industry-podcast-w-patrick-k": {
+   "clics": 0,
+   "impressions": 3
+  },
+  "the-tim-ferriss-show": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-wealth-exchange": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "modern-comms": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "plugged-in-the-energy-news-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "proven-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "random-but-memorable": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "sync-or-swim-the-multifamily-growth-show": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "talentbuzz": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-astonishing-healthcare-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-collective-co-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-costa-property": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-josh-bersin-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-nassau-reimagine-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-rag-company-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-ramsey-show": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "the-uncut-short-term-rental-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "unprompted-real-aI-in-ic": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "veteran-business-community-podcast": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "wildly-capable-by-novoed": {
+   "clics": 0,
+   "impressions": 1
+  },
+  "wise-content-creates-wealth": {
+   "clics": 0,
+   "impressions": 1
+  }
+ }
+}

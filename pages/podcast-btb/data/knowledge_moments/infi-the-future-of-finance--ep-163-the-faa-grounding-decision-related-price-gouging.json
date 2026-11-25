@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "InFi: the Future of Finance",
+    "episode_title": "Ep. 163: The FAA Grounding Decision & Related Price Gouging",
+    "audio_url": "https://traffic.libsyn.com/secure/e86540bd-c269-4e1c-9977-72fca5cd2809/InFi_-_Ep._163_-_Bob_solo_on_FAA__Price_Gouging.mp3?dest-id=3851883",
+    "question": "Why did the FAA ground all flights in the United States and what was the official cause of the outage?",
+    "transcript_excerpt": "According to the official story, a contractor in Arkansas was doing routine maintenance and updating old equipment. The equipment then pinged the service repeatedly trying to get back online, which rippled throughout the system and caused air traffic control equipment across the country to temporarily lose connectivity. Out of an abundance of caution, the FAA grounded all flights until they could figure out what was happening, which took approximately four hours to resume.",
+    "expert_name": null,
+    "start_seconds": 168,
+    "end_seconds": 414
+  },
+  {
+    "podcast_name": "InFi: the Future of Finance",
+    "episode_title": "Ep. 163: The FAA Grounding Decision & Related Price Gouging",
+    "audio_url": "https://traffic.libsyn.com/secure/e86540bd-c269-4e1c-9977-72fca5cd2809/InFi_-_Ep._163_-_Bob_solo_on_FAA__Price_Gouging.mp3?dest-id=3851883",
+    "question": "How do price increases for transportation and hotel rooms during emergencies like flight groundings actually benefit the market?",
+    "transcript_excerpt": "Price increases serve two critical functions: first, they ration demand by signaling scarcity to consumers, causing those with lower urgency to drop out and allocate scarce resources to those who need them most; second, they elicit more supply by incentivizing additional service providers to enter the market. For example, surge pricing on Uber and Lyft attracts more drivers to activate their cars and go to the airport, expanding the total supply of available transportation during the shortage.",
+    "expert_name": null,
+    "start_seconds": 612,
+    "end_seconds": 1197
+  },
+  {
+    "podcast_name": "InFi: the Future of Finance",
+    "episode_title": "Ep. 163: The FAA Grounding Decision & Related Price Gouging",
+    "audio_url": "https://traffic.libsyn.com/secure/e86540bd-c269-4e1c-9977-72fca5cd2809/InFi_-_Ep._163_-_Bob_solo_on_FAA__Price_Gouging.mp3?dest-id=3851883",
+    "question": "What historical example illustrates how government agencies respond to major failures with more funding rather than accountability?",
+    "transcript_excerpt": "When Value Jet crashed in the Everglades, the investigation revealed that among other failures, FAA inspectors were signing off on maintenance items they should not have approved. Rather than the FAA being held accountable for failing to enforce its own protocols, the agency received more funding in response to the crash.",
+    "expert_name": null,
+    "start_seconds": 466,
+    "end_seconds": 531
+  },
+  {
+    "podcast_name": "InFi: the Future of Finance",
+    "episode_title": "Ep. 163: The FAA Grounding Decision & Related Price Gouging",
+    "audio_url": "https://traffic.libsyn.com/secure/e86540bd-c269-4e1c-9977-72fca5cd2809/InFi_-_Ep._163_-_Bob_solo_on_FAA__Price_Gouging.mp3?dest-id=3851883",
+    "question": "What structural problem does centralized government control of air traffic create when systems fail?",
+    "transcript_excerpt": "When the government controls air traffic nationwide, a single failure point can shut down the entire country's aviation system. If instead air traffic control were decentralized by state or operated through market-based systems, a failure in one region would not ground flights everywhere else, as demonstrated by how flights continued in other countries while only U.S. airspace was affected.",
+    "expert_name": null,
+    "start_seconds": 263,
+    "end_seconds": 468
+  },
+  {
+    "podcast_name": "InFi: the Future of Finance",
+    "episode_title": "Ep. 163: The FAA Grounding Decision & Related Price Gouging",
+    "audio_url": "https://traffic.libsyn.com/secure/e86540bd-c269-4e1c-9977-72fca5cd2809/InFi_-_Ep._163_-_Bob_solo_on_FAA__Price_Gouging.mp3?dest-id=3851883",
+    "question": "Why are FAA air traffic control systems considered antiquated and what real-world example demonstrates this?",
+    "transcript_excerpt": "FAA systems are described as ludicrously antiquated based on accounts from pilots and industry professionals. One pilot recounted using his iPhone to help land a plane in snowing conditions because the official guidance equipment from the FAA was unreliable, illustrating how outdated the technology is compared to commercial smartphone navigation tools.",
+    "expert_name": null,
+    "start_seconds": 355,
+    "end_seconds": 448
+  }
+]

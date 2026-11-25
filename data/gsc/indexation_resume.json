@@ -1,0 +1,11 @@
+{
+ "date": "2026-11-24",
+ "pages_proposees": 88,
+ "inspectees_ce_jour": 64,
+ "par_etat": {
+  "indexee": 221,
+  "explorée_non_indexee": 10,
+  "inconnue": 26,
+  "noindex": 1
+ }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "AMIcast - podcast about Amiga, from A500 to X5000",
+    "episode_title": "KI-Programmierung – Grzegorz „Angree“ Korycki – AMIcast – Folge 39",
+    "audio_url": "https://anchor.fm/s/ee433ed0/podcast/play/129475421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F3c7fd42f-fed7-0a68-e259-fb767c693c7c.mp3",
+    "question": "How did Grzegorz Korycki port Grand Theft Auto to the Amiga using AI?",
+    "transcript_excerpt": "Grzegorz Korycki said GTA is not a complicated game and he only had to do a little bit on the 3D-optimization and simplify things. He obtained a license from the original author Master of Magic, which made the porting process much faster—the first version was completed in a few hours compared to writing from zero.",
+    "expert_name": "Grzegorz Korycki",
+    "start_seconds": 648,
+    "end_seconds": 699
+  },
+  {
+    "podcast_name": "AMIcast - podcast about Amiga, from A500 to X5000",
+    "episode_title": "KI-Programmierung – Grzegorz „Angree“ Korycki – AMIcast – Folge 39",
+    "audio_url": "https://anchor.fm/s/ee433ed0/podcast/play/129475421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F3c7fd42f-fed7-0a68-e259-fb767c693c7c.mp3",
+    "question": "What is Claude Opus and how does it help with Amiga game porting?",
+    "transcript_excerpt": "Claude Opus 5.5 can work with subagents and GitHub projects to handle complex porting tasks. The main agent orchestrates everything by sending tasks to subagents, receiving results back, and building exactly what is needed. Korycki provides Claude with example projects from GitHub to teach it how to write programs for specific systems like Amiga or MorphOS.",
+    "expert_name": "Grzegorz Korycki",
+    "start_seconds": 1056,
+    "end_seconds": 1094
+  },
+  {
+    "podcast_name": "AMIcast - podcast about Amiga, from A500 to X5000",
+    "episode_title": "KI-Programmierung – Grzegorz „Angree“ Korycki – AMIcast – Folge 39",
+    "audio_url": "https://anchor.fm/s/ee433ed0/podcast/play/129475421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F3c7fd42f-fed7-0a68-e259-fb767c693c7c.mp3",
+    "question": "How has AI changed the role of developers in game porting since 2024?",
+    "transcript_excerpt": "Korycki explained that since AI became available, he has written progressively less code himself each year—by December 2025 and January 2026, he was writing very little code because AI could handle most tasks. The developer's role shifted from writing code to being like a chef of a virtual software company, managing tasks and directing AI agents rather than programming directly.",
+    "expert_name": "Grzegorz Korycki",
+    "start_seconds": 1020,
+    "end_seconds": 1140
+  },
+  {
+    "podcast_name": "AMIcast - podcast about Amiga, from A500 to X5000",
+    "episode_title": "KI-Programmierung – Grzegorz „Angree“ Korycki – AMIcast – Folge 39",
+    "audio_url": "https://anchor.fm/s/ee433ed0/podcast/play/129475421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F3c7fd42f-fed7-0a68-e259-fb767c693c7c.mp3",
+    "question": "What technical challenges did porting Frontier First Encounters to Amiga present?",
+    "transcript_excerpt": "Frontier First Encounters required three months of work because the original code was in x86 Assembler and had to be converted to 68k Assembler—a completely different architecture. The biggest problem was converting all variables to a different format; assembler translation itself was not difficult. After three months, the port ran on Amiga 68060 at four to six frames per second with AGA graphics, or possibly two more frames per second with RTG.",
+    "expert_name": "Grzegorz Korycki",
+    "start_seconds": 476,
+    "end_seconds": 643
+  },
+  {
+    "podcast_name": "AMIcast - podcast about Amiga, from A500 to X5000",
+    "episode_title": "KI-Programmierung – Grzegorz „Angree“ Korycki – AMIcast – Folge 39",
+    "audio_url": "https://anchor.fm/s/ee433ed0/podcast/play/129475421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F3c7fd42f-fed7-0a68-e259-fb767c693c7c.mp3",
+    "question": "Does Claude AI require Amiga documentation to understand Amiga programming?",
+    "transcript_excerpt": "Newer versions of Claude require hardly any help understanding Amiga programming. Korycki teaches Claude by having him download example projects from his GitHub and use them as templates showing how Amiga programs are structured. By studying two or three donor projects, Claude can learn specific functions like chunky planar conversion and MIDI to PCM conversion used in Amiga development.",
+    "expert_name": "Grzegorz Korycki",
+    "start_seconds": 780,
+    "end_seconds": 900
+  }
+]

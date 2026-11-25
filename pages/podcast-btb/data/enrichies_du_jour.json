@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-25",
+ "cles": [
+  "the-retirement-ready-show/8993dac98b",
+  "the-entrepreneurial-strategy-series/3f1027a4ca"
+ ],
+ "rapport": [
+  {
+   "groupe": "connu",
+   "cle": "the-diary-of-a-ceo-with-steven-bartlett/c1568118e2",
+   "question": "What is Daniel Ek's current philosophy on company culture, and how has his perspective evolved since founding Spotify?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
+   "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "how-i-built-this-with-guy-raz/4c0330f93f",
+   "question": "What was the key difference between Dell computers and IBM computers in the mid-1980s?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "authority-hacker-podcast-ai-automation-f/92ccf9bfb6",
+   "question": "What are the individual Claude subscription pricing tiers and usage limits in 2024?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "mcnamaraonmoney/1a69387777",
+   "question": "What is a Student Aid Index (SAI) calculator and how do families use it to estimate financial aid eligibility?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "the-ecom-ops-podcast/766eff2f07",
+   "question": "What is the difference between innovation and invention in e-commerce product trends?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "the-campaign-a-marketing-podcast-by-97th/225a09e8b9",
+   "question": "Why should marketers adopt short-form video as their primary creative practice in the zero click era?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "benefits-executive-roundtable/de8408837e",
+   "question": "What is the Medicare Part B late enrollment penalty structure for those who delay enrollment?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "the-retirement-ready-show/8993dac98b",
+   "question": "What is the difference between a revocable trust and an irrevocable trust?",
+   "resultat": "ok",
+   "titre": "Revocable vs irrevocable trust? | Listenly"
+  },
+  {
+   "groupe": "mot_cle",
+   "cle": "the-entrepreneurial-strategy-series/3f1027a4ca",
+   "question": "What are the four main types of intellectual property and how do they differ?",
+   "resultat": "ok"
+  }
+ ]
+}

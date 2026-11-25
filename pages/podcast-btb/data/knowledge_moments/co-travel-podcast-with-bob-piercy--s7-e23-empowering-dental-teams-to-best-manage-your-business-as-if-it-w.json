@@ -1,0 +1,52 @@
+[
+  {
+    "podcast_name": "Co-Travel Podcast with Bob Piercy",
+    "episode_title": "S7 E23 - Empowering dental teams to best manage your business as if it were their own withTrent Wehrhahn, DentalBrio",
+    "audio_url": "https://www.buzzsprout.com/1447378/episodes/20171135-s7-e23-empowering-dental-teams-to-best-manage-your-business-as-if-it-were-their-own-withtrent-wehrhahn-dentalbrio.mp3",
+    "question": "How does Dental Brio connect marketing data to patient production in dental practices?",
+    "transcript_excerpt": "Dental Brio pulls patient information from the practice management system (PMS) and matches it with incoming patient data from call tracking and advertising platforms by pseudonymizing phone numbers. This allows dentists to track exactly which marketing channel (such as Google Ads) produced how much revenue, linking specific leads to actual treatment production rather than just counting clicks or phone calls.",
+    "expert_name": "Trent Wehrhahn",
+    "start_seconds": 397,
+    "end_seconds": 562
+  },
+  {
+    "podcast_name": "Co-Travel Podcast with Bob Piercy",
+    "episode_title": "S7 E23 - Empowering dental teams to best manage your business as if it were their own withTrent Wehrhahn, DentalBrio",
+    "audio_url": "https://www.buzzsprout.com/1447378/episodes/20171135-s7-e23-empowering-dental-teams-to-best-manage-your-business-as-if-it-were-their-own-withtrent-wehrhahn-dentalbrio.mp3",
+    "question": "What is the difference in cost per acquisition between Google Ads and Meta for dental practices?",
+    "transcript_excerpt": "In one client test, the cost per acquisition on Google Ads was $72, while the cost per acquisition on Meta was $900. The practice was spending $2,000 per month on each platform but had no visibility into which channel was actually performing efficiently until Dental Brio analyzed the data.",
+    "expert_name": "Trent Wehrhahn",
+    "start_seconds": 831,
+    "end_seconds": 1039
+  },
+  {
+    "podcast_name": "Co-Travel Podcast with Bob Piercy",
+    "episode_title": "S7 E23 - Empowering dental teams to best manage your business as if it were their own withTrent Wehrhahn, DentalBrio",
+    "audio_url": "https://www.buzzsprout.com/1447378/episodes/20171135-s7-e23-empowering-dental-teams-to-best-manage-your-business-as-if-it-were-their-own-withtrent-wehrhahn-dentalbrio.mp3",
+    "question": "What capacity management features does Dental Brio include for dental office managers?",
+    "transcript_excerpt": "Dental Brio includes staff scheduling, clock in/out functionality, the ability for employees to swap shifts with manager approval, and automatic notifications to temp agencies when an employee calls in sick. It also allows office managers to set capacity thresholds—for example, defining how far out new patient exam appointments can be booked before it signals a capacity issue.",
+    "expert_name": "Trent Wehrhahn",
+    "start_seconds": 566,
+    "end_seconds": 768
+  },
+  {
+    "podcast_name": "Co-Travel Podcast with Bob Piercy",
+    "episode_title": "S7 E23 - Empowering dental teams to best manage your business as if it were their own withTrent Wehrhahn, DentalBrio",
+    "audio_url": "https://www.buzzsprout.com/1447378/episodes/20171135-s7-e23-empowering-dental-teams-to-best-manage-your-business-as-if-it-were-their-own-withtrent-wehrhahn-dentalbrio.mp3",
+    "question": "How do Google Ads and Meta advertising work together for dental practices?",
+    "transcript_excerpt": "When dental practices run both Google Ads and Meta ads simultaneously, patients first become aware of the practice through Meta content and educational posts. When they are ready to take action, they search Google to find the practice and call. Dental Brio observed in four client tests that Google Ads performance increased by approximately two weeks after Meta campaigns began, suggesting the platforms work synergistically rather than competitively.",
+    "expert_name": "Trent Wehrhahn",
+    "start_seconds": 1023,
+    "end_seconds": 1143
+  },
+  {
+    "podcast_name": "Co-Travel Podcast with Bob Piercy",
+    "episode_title": "S7 E23 - Empowering dental teams to best manage your business as if it were their own withTrent Wehrhahn, DentalBrio",
+    "audio_url": "https://www.buzzsprout.com/1447378/episodes/20171135-s7-e23-empowering-dental-teams-to-best-manage-your-business-as-if-it-were-their-own-withtrent-wehrhahn-dentalbrio.mp3",
+    "question": "Why do some dental practices spend money on marketing that is not generating results?",
+    "transcript_excerpt": "Many practices do not understand their return on investment because marketing platforms show only clicks, phone calls, and form submissions without connecting that data to actual patient production and revenue. Additionally, some practices face capacity issues—they cannot accommodate new patients even when marketing brings them in—so they continue spending on marketing that cannot convert without first solving the underlying staffing or scheduling problem.",
+    "expert_name": "Trent Wehrhahn",
+    "start_seconds": 675,
+    "end_seconds": 910
+  }
+]
