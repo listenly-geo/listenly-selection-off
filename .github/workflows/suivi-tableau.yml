@@ -73,3 +73,4 @@ jobs:
           local-dir: ./_tableau/
           server-dir: /listenly.fr/podcast-btb/
           state-name: .ftp-deploy-sync-state-tableau.json
+          protocol: ftps
