@@ -110,5 +110,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      - name: Attendre que GitHub enregistre le fichier
+        run: sleep 25
       - id: deploy
         uses: actions/deploy-pages@v4
