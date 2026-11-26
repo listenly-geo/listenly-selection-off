@@ -1,9 +1,7 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "cles": [
-  "3-take-away/6d1a7e7a3e",
-  "date-line-nbc/6bcce2ed29",
-  "techbytes/dd657fe9b1"
+  "the-decision-making-studio-podcast/3d1e7ff4a2"
  ],
  "rapport": [
   {
@@ -14,20 +12,14 @@
   },
   {
    "groupe": "connu",
-   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
-   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
-   "resultat": "transcription insuffisante"
-  },
-  {
-   "groupe": "connu",
    "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
    "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "the-daily-podcast/c790a2fa36",
-   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -38,16 +30,21 @@
   },
   {
    "groupe": "connu",
-   "cle": "3-take-away/6d1a7e7a3e",
-   "question": "How did Chicago public school teachers cheat on No Child Left Behind tests and what did this reveal?",
-   "resultat": "ok",
-   "titre": "Chicago teachers cheating NCLB tests? | 3 Takeaways™"
+   "cle": "the-daily-podcast/c790a2fa36",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "date-line-nbc/6bcce2ed29",
-   "question": "What evidence did prosecutors present that Andrew Griffin traveled to Ohio to commit the Strushan murders?",
-   "resultat": "ok"
+   "cle": "the-daily-podcast/797063edb0",
+   "question": "Why did Keisha Lance Bottoms win the Georgia governor's race despite being outspent by Republican rival Rick Jackson?",
+   "resultat": "transcription insuffisante"
+  },
+  {
+   "groupe": "connu",
+   "cle": "date-line-nbc/447c70e748",
+   "question": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
+   "resultat": "transcription insuffisante"
   },
   {
    "groupe": "mot_cle",
@@ -87,10 +84,9 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "techbytes/dd657fe9b1",
-   "question": "What is Jack's Family Restaurants and how many locations does it operate?",
-   "resultat": "ok",
-   "titre": "How many Jack's Family Restaurants locations? | Listenly"
+   "cle": "the-decision-making-studio-podcast/3d1e7ff4a2",
+   "question": "Why is it impossible to remove emotions from decision-making in leadership?",
+   "resultat": "ok"
   }
  ]
 }

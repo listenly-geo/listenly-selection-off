@@ -116767,16 +116767,16 @@
 "credibilite": 15,
 "forme": 30,
 "maillage": 10,
-"richesse": 6,
+"richesse": 20,
 "sujet": 25
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "The Decision-Making Studio Podcast",
 "podcast": "the-decision-making-studio-podcast",
 "question": "Why is it impossible to remove emotions from decision-making in leadership?",
-"score": 86,
-"score_final": 69,
+"score": 100,
+"score_final": 80,
 "t": 1235
 },
 "the-decision-making-studio-podcast/9a89030444": {
