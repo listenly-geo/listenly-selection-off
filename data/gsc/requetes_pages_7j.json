@@ -8,20 +8,20 @@
   "position": 85.8
  },
  {
-  "requete": "b2b brand storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 4,
-  "ctr": 0,
-  "position": 84.8
- },
- {
   "requete": "we study billionaires podcast",
   "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
   "clics": 0,
-  "impressions": 4,
+  "impressions": 5,
   "ctr": 0,
-  "position": 68.5
+  "position": 68
+ },
+ {
+  "requete": "b2b brand storytelling",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "clics": 0,
+  "impressions": 3,
+  "ctr": 0,
+  "position": 81
  },
  {
   "requete": "b2b storytelling",
@@ -40,14 +40,6 @@
   "position": 5.3
  },
  {
-  "requete": "office of the cfo",
-  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 83.7
- },
- {
   "requete": "b2b marketing in apac",
   "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
@@ -62,6 +54,14 @@
   "impressions": 2,
   "ctr": 0,
   "position": 75.5
+ },
+ {
+  "requete": "office of the cfo",
+  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 86.5
  },
  {
   "requete": "art et gestion de patrimoine",
@@ -88,28 +88,12 @@
   "position": 25
  },
  {
-  "requete": "founder friendly venture capital",
-  "page": "https://listenly.org/podcast-btb/founder-friendly-venture-capital-startup-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 86
- },
- {
   "requete": "new york times the daily",
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 66
- },
- {
-  "requete": "podcast about podcasts npr",
-  "page": "https://listenly.org/podcast/creator/npr",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 76
  },
  {
   "requete": "podsmart marketing for manufacturing",
@@ -134,5 +118,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 63
+ },
+ {
+  "requete": "the daily nyt",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 84
  }
 ]

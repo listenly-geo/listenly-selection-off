@@ -147,6 +147,13 @@
   "position": 21.8
  },
  {
+  "requete": "we study billionaires podcast",
+  "clics": 0,
+  "impressions": 10,
+  "ctr": 0,
+  "position": 61.3
+ },
+ {
   "requete": "wholesale change",
   "clics": 0,
   "impressions": 10,
@@ -194,13 +201,6 @@
   "impressions": 9,
   "ctr": 0,
   "position": 28.9
- },
- {
-  "requete": "we study billionaires podcast",
-  "clics": 0,
-  "impressions": 9,
-  "ctr": 0,
-  "position": 60.8
  },
  {
   "requete": "women in utilities",
@@ -2266,6 +2266,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 44
+ },
+ {
+  "requete": "the daily nyt",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 84
  },
  {
   "requete": "the daily nytimes podcast",

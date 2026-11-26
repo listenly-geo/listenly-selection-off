@@ -1,16 +1,16 @@
 {
- "date": "2026-11-25",
- "fin": "2026-11-23",
+ "date": "2026-11-26",
+ "fin": "2026-11-24",
  "7j": {
-  "debut": "2026-11-16",
-  "impressions": 38,
+  "debut": "2026-11-17",
+  "impressions": 36,
   "clics": 0,
-  "lignes": 17
+  "lignes": 16
  },
  "28j": {
-  "debut": "2026-10-26",
-  "impressions": 428,
+  "debut": "2026-10-27",
+  "impressions": 313,
   "clics": 0,
-  "lignes": 167
+  "lignes": 135
  }
 }
