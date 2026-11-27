@@ -326,8 +326,13 @@ def main():
     QUOTA_PROUVES = round(N * 0.7)
     vus = set()
 
+    try:
+        exclues = set(json.load(open(f"{PAGES}/data/fiches_exclues.json", encoding="utf-8")).get("cles", []))
+    except (OSError, json.JSONDecodeError):
+        exclues = set()
+
     def essayer(slug, mid, score):
-        if (slug, mid) in vus:
+        if (slug, mid) in vus or (slug + "/" + mid) in exclues:
             return
         vus.add((slug, mid))
         if par_podcast.get(slug, 0) >= 3:
