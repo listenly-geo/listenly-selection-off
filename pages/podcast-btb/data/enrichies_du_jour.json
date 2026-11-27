@@ -1,8 +1,7 @@
 {
  "date": "2026-11-27",
  "cles": [
-  "the-bob-lefsetz-podcast/b3b3dd418c",
-  "digital-transformation-ai-for-humans/3cf204e3cc"
+  "engaging-marketeer/93d6acfaee"
  ],
  "rapport": [
   {
@@ -43,10 +42,9 @@
   },
   {
    "groupe": "connu",
-   "cle": "the-bob-lefsetz-podcast/b3b3dd418c",
-   "question": "What was Joaquin Garay's role in Walt Disney's The Three Caballeros?",
-   "resultat": "ok",
-   "titre": "Joaquin Garay Three Caballeros? | The Bob Lefsetz Podcast"
+   "cle": "masters-of-scale/a989439e86",
+   "question": "Why did Chase Bank block Meta's Muse agent specifically?",
+   "resultat": "transcription insuffisante"
   },
   {
    "groupe": "mot_cle",
@@ -86,10 +84,10 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "digital-transformation-ai-for-humans/3cf204e3cc",
-   "question": "How does AI enhance music creation compared to traditional composition methods?",
+   "cle": "engaging-marketeer/93d6acfaee",
+   "question": "What are the key traits that make a successful entrepreneur according to leadership expert Nicky Marshall?",
    "resultat": "ok",
-   "titre": "How does AI improve music creation? | Listenly"
+   "titre": "What traits make successful entrepreneurs? | Listenly"
   }
  ]
 }
