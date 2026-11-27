@@ -1076,5 +1076,22 @@
   "deja_indexees": 0,
   "essai": "demande d'indexation du 24/11 via Claude in Chrome, Search Console (adresses par question), lancee a ~17h20 (Cologne)",
   "resultat": "10 demandes envoyees (Google : Indexation demandee), quota non atteint ; 7 fiches etaient en 404 a 8h mais en ligne a 17h"
+ },
+ "2026-11-26": {
+  "urls_demandees": [
+   "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/1fd3482a24",
+   "https://listenly.org/podcast-btb/m/the-jay-maymi-talk-show/c782d2ed34",
+   "https://listenly.org/podcast-btb/m/point-of-impact-with-aaron-hale/28904cea37",
+   "https://listenly.org/podcast-btb/m/engineering-unblocked/8e0a6faf0d",
+   "https://listenly.org/podcast-btb/m/more-than-commas/can-losses-offset-gambling-gains",
+   "https://listenly.org/podcast-btb/m/paid-vocation-with-lupe-prado/f9b8588cd0",
+   "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/c9c6a07784"
+  ],
+  "urls_en_attente": [],
+  "deja_indexees": 0,
+  "essai": "demande d'indexation du 24/11 via Claude in Chrome, Search Console (adresses par question), lancee a ~17h20 (Cologne)",
+  "resultat": "10 demandes envoyees (Google : Indexation demandee), quota non atteint ; 7 fiches etaient en 404 a 8h mais en ligne a 17h",
+  "date": "2026-11-26",
+  "note": "Demandes faites par Etienne le 26/11 (enregistrees apres coup)"
  }
 }
