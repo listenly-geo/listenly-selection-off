@@ -187,6 +187,40 @@ def titre_pour(slug, mid, titres):
     return t["titre"]
 
 
+import re as _re
+import unicodedata as _ud
+
+_STOP = set("the and for with that this what how why when who can does did are was were you your our from into about "
+            "les des une est que qui pour dans sur avec par aux ces ses son sont pas plus comme quoi quel quelle "
+            "comment pourquoi quand peut faut fait faire etre avoir".split())
+
+
+def _mots(s):
+    s = _ud.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode()
+    return [w for w in _re.findall(r"[a-z0-9]+", s) if len(w) >= 3 and w not in _STOP]
+
+
+def titre_coherent(question, titre):
+    """27/11/2026 : le titre SEO doit rester la question (raccourcie ou reformulee). Refuse un titre trop court pour une
+    recherche, un titre dont les noms propres n'apparaissent pas dans la question (ex. Redbox+ au lieu de Kaizen), ou
+    sans lien de sens avec elle. Retourne (ok, raison)."""
+    coeur = titre.split(" | ")[0].split(" — ")[0].strip()
+    mt = _mots(coeur)
+    interro = _re.match(r"(what|how|why|when|who|which|can|is|are|will|do|does|should|could|would|comment|pourquoi|quel|quelle|quels|est-ce)\b", coeur.lower())
+    if len(coeur.split()) < 3 or len(mt) < 2 or (len(coeur.split()) < 5 and not interro):
+        return False, "titre trop court ou trop vague pour une recherche"
+    st = lambda w: w[:4]
+    sq = {st(w) for w in _mots(question)}
+    propres = [w for w in _re.findall(r"[A-Z][\w'+&.-]+", " ".join(coeur.split()[1:])) if len(w) >= 3 and not w.isupper() and not _re.fullmatch(r"[A-Z]*s", w)]
+    pm = [st(_mots(w)[0]) for w in propres if _mots(w)]
+    if pm and not any(x in sq for x in pm):
+        return False, "le titre parle d'un autre sujet que la question (%s)" % ", ".join(propres[:3])
+    commun = sum(1 for w in mt if st(w) in sq)
+    if commun / len(mt) < 0.25:
+        return False, "titre sans lien avec la question (%d/%d mots en commun)" % (commun, len(mt))
+    return True, ""
+
+
 def token():
     from google.oauth2 import service_account
     from google.auth.transport.requests import Request
@@ -301,6 +335,32 @@ def main():
         titre = titre_pour(slug, mid, titres)
         if not titre:
             return
+        # 27/11/2026 (Etienne) : controle de coherence titre/question. Titre derive ou trop court : on tente le titre
+        # regenere depuis la question ; s'il ne convient pas non plus, la fiche est ecartee (jamais proposee a Google).
+        try:
+            dq = json.load(open(f"{PAGES}/data/moments/{slug}.json", encoding="utf-8"))
+            question = dq["entries"][mid]["q"]
+            nom = dq.get("podcast") or slug
+        except (OSError, KeyError, json.JSONDecodeError):
+            question = None
+        if question:
+            ok, raison = titre_coherent(question, titre)
+            if not ok:
+                try:
+                    import importlib.util
+                    spec = importlib.util.spec_from_file_location("mam", "automation/scripts/moteur_autonome_moments.py")
+                    mam = importlib.util.module_from_spec(spec); spec.loader.exec_module(mam)
+                    t2 = mam.seo_title(question, nom)
+                    ok2, _ = titre_coherent(question, t2["titre"])
+                    if ok2 and not t2["tronque"] and not t2["alerte_longueur"]:
+                        titre = t2["titre"]
+                        nouveaux[slug + "/" + mid] = titre
+                        ok = True
+                except Exception:
+                    pass
+            if not ok:
+                REJETS.append({"cle": slug + "/" + mid, "titre": titre, "raison": raison})
+                return
         # 19/11/2026 (Etienne) : filtre « sens dans la recherche ». Une question incomprehensible sans l'episode,
         # centree sur une personne/entreprise inconnue ou sans interet durable n'est jamais proposee a Google ;
         # un bon sujet au titre flou recoit un titre plus clair.
