@@ -133,6 +133,13 @@
   "position": 7.2
  },
  {
+  "requete": "apac b2b agency",
+  "clics": 0,
+  "impressions": 10,
+  "ctr": 0,
+  "position": 25.3
+ },
+ {
   "requete": "podcast maladies rares",
   "clics": 0,
   "impressions": 10,
@@ -166,13 +173,6 @@
   "impressions": 9,
   "ctr": 0,
   "position": 3.9
- },
- {
-  "requete": "apac b2b agency",
-  "clics": 0,
-  "impressions": 9,
-  "ctr": 0,
-  "position": 17.2
  },
  {
   "requete": "clean energy podcast",
@@ -369,6 +369,13 @@
   "impressions": 5,
   "ctr": 0,
   "position": 22.8
+ },
+ {
+  "requete": "apac b2b marketing",
+  "clics": 0,
+  "impressions": 5,
+  "ctr": 0,
+  "position": 64.8
  },
  {
   "requete": "b2b brand story",
@@ -614,13 +621,6 @@
   "impressions": 4,
   "ctr": 0,
   "position": 9.8
- },
- {
-  "requete": "apac b2b marketing",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 62
  },
  {
   "requete": "ashley kirkwood speak your way to cash",
@@ -1967,6 +1967,13 @@
   "position": 95
  },
  {
+  "requete": "ny times daily podcast",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 100
+ },
+ {
   "requete": "nyt daily",
   "clics": 0,
   "impressions": 1,
@@ -2175,6 +2182,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 10
+ },
+ {
+  "requete": "staffing mastery",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 72
  },
  {
   "requete": "strategy room",

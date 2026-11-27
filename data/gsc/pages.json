@@ -9,9 +9,9 @@
  {
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
-  "impressions": 61,
+  "impressions": 62,
   "ctr": 0,
-  "position": 45.3
+  "position": 46.2
  },
  {
   "page": "https://listenly.org/podcast-btb/m/3-take-away/4c372f45cd",
@@ -126,6 +126,13 @@
   "position": 31.9
  },
  {
+  "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 28,
+  "ctr": 0,
+  "position": 39.8
+ },
+ {
   "page": "https://listenly.org/podcast-btb/the-dsr-network-podcast.html",
   "clics": 0,
   "impressions": 27,
@@ -138,13 +145,6 @@
   "impressions": 26,
   "ctr": 0,
   "position": 41.5
- },
- {
-  "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
-  "clics": 0,
-  "impressions": 25,
-  "ctr": 0,
-  "position": 35.1
  },
  {
   "page": "https://listenly.org/podcast-btb/beyond-fulfillment-podcast-podcast.html",
@@ -427,6 +427,13 @@
   "position": 7.7
  },
  {
+  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
+  "clics": 0,
+  "impressions": 12,
+  "ctr": 0,
+  "position": 31.5
+ },
+ {
   "page": "https://listenly.org/podcast-btb/the-executive-connect-podcast-podcast.html",
   "clics": 0,
   "impressions": 12,
@@ -460,13 +467,6 @@
   "impressions": 11,
   "ctr": 0,
   "position": 34.4
- },
- {
-  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
-  "clics": 0,
-  "impressions": 11,
-  "ctr": 0,
-  "position": 27.8
  },
  {
   "page": "https://listenly.org/podcast-btb/shopify1percent-the-best-shopify-podcast-podcast.html",
@@ -509,6 +509,13 @@
   "impressions": 10,
   "ctr": 0,
   "position": 10.9
+ },
+ {
+  "page": "https://listenly.org/podcast-btb/high-impact-growth-podcast.html",
+  "clics": 0,
+  "impressions": 10,
+  "ctr": 0,
+  "position": 6.4
  },
  {
   "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
@@ -607,13 +614,6 @@
   "impressions": 9,
   "ctr": 0,
   "position": 8.2
- },
- {
-  "page": "https://listenly.org/podcast-btb/high-impact-growth-podcast.html",
-  "clics": 0,
-  "impressions": 9,
-  "ctr": 0,
-  "position": 6.7
  },
  {
   "page": "https://listenly.org/podcast-btb/iot-ai-leaders-podcast.html",
@@ -945,6 +945,13 @@
   "position": 28.1
  },
  {
+  "page": "https://listenly.org/podcast-btb/le-si%C3%A8ge-podcast.html",
+  "clics": 1,
+  "impressions": 6,
+  "ctr": 0.1667,
+  "position": 3.3
+ },
+ {
   "page": "https://listenly.org/podcast-btb/top-performer-the-podcast-podcast.html",
   "clics": 1,
   "impressions": 6,
@@ -1104,13 +1111,6 @@
   "impressions": 6,
   "ctr": 0,
   "position": 4.5
- },
- {
-  "page": "https://listenly.org/podcast-btb/le-si%C3%A8ge-podcast.html",
-  "clics": 1,
-  "impressions": 5,
-  "ctr": 0.2,
-  "position": 2.6
  },
  {
   "page": "https://listenly.org/podcast-btb/aon-at-the-top-interviewing-executives-o-podcast.html",
@@ -1540,6 +1540,13 @@
   "position": 7.2
  },
  {
+  "page": "https://listenly.org/podcast/show/how-to-acquire-podcast",
+  "clics": 0,
+  "impressions": 4,
+  "ctr": 0,
+  "position": 6.8
+ },
+ {
   "page": "https://listenly.org/podcast/show/insurance-you-indemnify-me",
   "clics": 0,
   "impressions": 4,
@@ -1820,7 +1827,7 @@
   "position": 12
  },
  {
-  "page": "https://listenly.org/podcast/show/how-to-acquire-podcast",
+  "page": "https://listenly.org/podcast/show/hospital-matters-from-the-minnesota-hospital-association",
   "clics": 0,
   "impressions": 3,
   "ctr": 0,
@@ -2366,13 +2373,6 @@
   "position": 7.5
  },
  {
-  "page": "https://listenly.org/podcast/show/hospital-matters-from-the-minnesota-hospital-association",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 7
- },
- {
   "page": "https://listenly.org/podcast/show/kainexus-continuous-improvement-leadership-and-more",
   "clics": 0,
   "impressions": 2,
@@ -2882,6 +2882,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 8
+ },
+ {
+  "page": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/4511b8bc68",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 11
  },
  {
   "page": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/570159587b",

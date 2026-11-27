@@ -3,33 +3,9 @@
   "requete": "commercial real estate podcast",
   "page": "https://listenly.org/podcast-btb/commercial-real-estate-investment-confer-podcast.html",
   "clics": 0,
-  "impressions": 8,
+  "impressions": 7,
   "ctr": 0,
-  "position": 85.8
- },
- {
-  "requete": "we study billionaires podcast",
-  "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
-  "clics": 0,
-  "impressions": 5,
-  "ctr": 0,
-  "position": 68
- },
- {
-  "requete": "b2b brand storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 81
- },
- {
-  "requete": "b2b storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 3,
-  "ctr": 0,
-  "position": 75.3
+  "position": 87.7
  },
  {
   "requete": "evaluate the music discovery platforms company spotify on steven bartlett",
@@ -40,6 +16,22 @@
   "position": 5.3
  },
  {
+  "requete": "apac b2b marketing",
+  "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 69
+ },
+ {
+  "requete": "b2b brand storytelling",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 73
+ },
+ {
   "requete": "b2b marketing in apac",
   "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
@@ -48,20 +40,28 @@
   "position": 86.5
  },
  {
-  "requete": "medtech commercialization podcast",
-  "page": "https://listenly.org/podcast-btb/medtech-business-academy-podcast.html",
+  "requete": "b2b storytelling",
+  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 75.5
+  "position": 77.5
  },
  {
-  "requete": "office of the cfo",
-  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
+  "requete": "we study billionaires podcast",
+  "page": "https://listenly.org/podcast-btb/the-investor-s-podcast-we-study-billiona-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 86.5
+  "position": 68
+ },
+ {
+  "requete": "apac b2b agency",
+  "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 98
  },
  {
   "requete": "art et gestion de patrimoine",
@@ -88,12 +88,28 @@
   "position": 25
  },
  {
+  "requete": "medtech commercialization podcast",
+  "page": "https://listenly.org/podcast-btb/medtech-business-academy-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 75
+ },
+ {
   "requete": "new york times the daily",
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 66
+ },
+ {
+  "requete": "ny times daily podcast",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 100
  },
  {
   "requete": "podsmart marketing for manufacturing",
@@ -104,20 +120,20 @@
   "position": 71
  },
  {
+  "requete": "staffing mastery",
+  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 72
+ },
+ {
   "requete": "staffing podcasts",
   "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 71
- },
- {
-  "requete": "the cfo office",
-  "page": "https://listenly.org/podcast-btb/inside-the-cfo-office-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 63
  },
  {
   "requete": "the daily nyt",
