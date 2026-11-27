@@ -11,16 +11,6 @@
  "a_rendre_indexables": 0,
  "urls": [
   {
-   "url": "https://listenly.org/podcast-btb/m/southeast-texas-works/how-to-become-a-texas-game-warden",
-   "titre": "How to become a texas game warden? | Listenly",
-   "score_qualite": 56,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
    "url": "https://listenly.org/podcast-btb/m/insight-out-big-ideas-decoded/heart-rate-variability-and-stress",
    "titre": "Heart rate variability and stress? | Listenly",
    "score_qualite": 72,
@@ -109,14 +99,19 @@
    "existante": true,
    "noindex": false,
    "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/beyond-luxury/can-luxury-brands-build-real-culture",
+   "titre": "Can luxury brands build real culture? | Beyond Luxury",
+   "score_qualite": 82,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   }
  ],
  "ecartees_sens_recherche": [
-  {
-   "cle": "more-than-commas/4b67d7caf2",
-   "titre": "Can gambling losses offset winnings for taxes? | Listenly",
-   "raison": "titre sans lien avec la question (1/5 mots en commun)"
-  },
   {
    "cle": "the-retirement-ready-show/8993dac98b",
    "titre": "Revocable vs irrevocable trust? | Listenly",

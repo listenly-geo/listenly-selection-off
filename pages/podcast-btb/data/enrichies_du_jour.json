@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
  "cles": [
-  "make-life-less-taxing-podcast/2be64225b5"
+  "the-cto-lens/54968e0ca8"
  ],
  "rapport": [
   {
@@ -84,10 +84,10 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "make-life-less-taxing-podcast/2be64225b5",
-   "question": "What is Bank-Owned Life Insurance (BOLI) and how do banks use it to build wealth?",
+   "cle": "the-cto-lens/54968e0ca8",
+   "question": "How many employees is Barclays laying off and what is the stated reason?",
    "resultat": "ok",
-   "titre": "How do banks use BOLI to build wealth? | Listenly"
+   "titre": "How many employees is Barclays laying off? | Listenly"
   }
  ]
 }

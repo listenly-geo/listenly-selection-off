@@ -116067,16 +116067,16 @@
 "credibilite": 15,
 "forme": 15,
 "maillage": 10,
-"richesse": 11,
+"richesse": 16,
 "sujet": 15
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "The CTO Lens",
 "podcast": "the-cto-lens",
 "question": "How many employees is Barclays laying off and what is the stated reason?",
-"score": 66,
-"score_final": 53,
+"score": 71,
+"score_final": 57,
 "t": 699
 },
 "the-cto-lens/59947f4b34": {
