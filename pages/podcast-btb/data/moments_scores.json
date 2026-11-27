@@ -80447,16 +80447,16 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 6,
-"sujet": 15
+"richesse": 15,
+"sujet": 25
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "Make Life Less Taxing Podcast",
 "podcast": "make-life-less-taxing-podcast",
 "question": "What is Bank-Owned Life Insurance (BOLI) and how do banks use it to build wealth?",
-"score": 66,
-"score_final": 53,
+"score": 85,
+"score_final": 68,
 "t": 1125
 },
 "make-life-less-taxing-podcast/5c1c0c6d30": {

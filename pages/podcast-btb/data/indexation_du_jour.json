@@ -11,76 +11,6 @@
  "a_rendre_indexables": 0,
  "urls": [
   {
-   "url": "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/1fd3482a24",
-   "titre": "How does CA insurance affect home sales? | Kern County",
-   "score_qualite": 65,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/the-jay-maymi-talk-show/c782d2ed34",
-   "titre": "When did solar tax credits end? | The Jay Maymi Talk Show",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/point-of-impact-with-aaron-hale/28904cea37",
-   "titre": "Why quit the Marines? | Point Of Impact With Aaron Hale",
-   "score_qualite": 60,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/engineering-unblocked/8e0a6faf0d",
-   "titre": "How long did Swarmia's build take? | Engineering Unblocked",
-   "score_qualite": 65,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/more-than-commas/can-losses-offset-gambling-gains",
-   "titre": "Can losses offset gambling gains? | More Than Commas",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/paid-vocation-with-lupe-prado/f9b8588cd0",
-   "titre": "When did Bird's open? | Paid Vocation with Lupe Prado",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/c9c6a07784",
-   "titre": "What is attack surface management? | Federal Tech Podcast",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
    "url": "https://listenly.org/podcast-btb/m/southeast-texas-works/how-to-become-a-texas-game-warden",
    "titre": "How to become a texas game warden? | Listenly",
    "score_qualite": 56,
@@ -109,6 +39,76 @@
    "existante": true,
    "noindex": false,
    "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/msp-unplugged/can-msps-win-with-human-risk-management",
+   "titre": "Can MSPs win with human risk management? | MSP Unplugged",
+   "score_qualite": 94,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/3bd756b678",
+   "titre": "Skills leaders need digital transformation? | Listenly",
+   "score_qualite": 90,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/b5d5d43569",
+   "titre": "Can owners close for conferences? | LCR Media Podcast",
+   "score_qualite": 90,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/the-astonishing-healthcare-podcast/4a05f2ea68",
+   "titre": "Why validate claims data for drug pricing? | Healthcare",
+   "score_qualite": 90,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/0a55250484",
+   "titre": "Why finance teams need peer communities? | Listenly",
+   "score_qualite": 86,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/the-josh-bersin-podcast/616e46088f",
+   "titre": "How do teams shift to AI-driven performance? | Bersin",
+   "score_qualite": 84,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/small-business-finance-your-guide-to-bus/how-do-s-corp-owners-use-self-rental-strategy",
+   "titre": "How do S-Corp owners build real estate equity? | Listenly",
+   "score_qualite": 83,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   }
  ],
  "ecartees_sens_recherche": [
@@ -116,6 +116,16 @@
    "cle": "more-than-commas/4b67d7caf2",
    "titre": "Can gambling losses offset winnings for taxes? | Listenly",
    "raison": "titre sans lien avec la question (1/5 mots en commun)"
+  },
+  {
+   "cle": "the-retirement-ready-show/8993dac98b",
+   "titre": "Revocable vs irrevocable trust? | Listenly",
+   "raison": "titre trop court ou trop vague pour une recherche"
+  },
+  {
+   "cle": "billion-dollar-backstory/c1e329b50c",
+   "titre": "Relationship roles equal PMs? | Billion Dollar Backstory",
+   "raison": "titre trop court ou trop vague pour une recherche"
   }
  ]
 }

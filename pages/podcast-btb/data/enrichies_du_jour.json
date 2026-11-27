@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
  "cles": [
-  "insight-out-big-ideas-decoded/1240feb7af"
+  "make-life-less-taxing-podcast/2be64225b5"
  ],
  "rapport": [
   {
@@ -24,14 +24,14 @@
   },
   {
    "groupe": "connu",
-   "cle": "the-bob-lefsetz-podcast/e6810db1d5",
-   "question": "When did Val Garay leave Stanford School of Medicine to pursue music?",
+   "cle": "the-daily-podcast/c790a2fa36",
+   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
    "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "the-daily-podcast/c790a2fa36",
-   "question": "What specific policy priorities will Governor-Elect Keisha Lance Bottoms pursue in her first days in office in Georgia?",
+   "cle": "the-bob-lefsetz-podcast/e6810db1d5",
+   "question": "When did Val Garay leave Stanford School of Medicine to pursue music?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -42,8 +42,8 @@
   },
   {
    "groupe": "connu",
-   "cle": "masters-of-scale/a989439e86",
-   "question": "Why did Chase Bank block Meta's Muse agent specifically?",
+   "cle": "date-line-nbc/447c70e748",
+   "question": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -84,10 +84,10 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "insight-out-big-ideas-decoded/1240feb7af",
-   "question": "What is the difference between normal and optimal testosterone levels, and why does it matter?",
+   "cle": "make-life-less-taxing-podcast/2be64225b5",
+   "question": "What is Bank-Owned Life Insurance (BOLI) and how do banks use it to build wealth?",
    "resultat": "ok",
-   "titre": "How much testosterone do I need? | Listenly"
+   "titre": "How do banks use BOLI to build wealth? | Listenly"
   }
  ]
 }
