@@ -1114,5 +1114,25 @@
   "resultat": "10 demandes envoyees (Google : Indexation demandee), quota non atteint ; 7 fiches etaient en 404 a 8h mais en ligne a 17h",
   "date": "2026-11-25",
   "note": "Demandes faites par Etienne (enregistrees apres coup)"
+ },
+ "2026-11-27": {
+  "urls_demandees": [
+   "https://listenly.org/podcast-btb/m/insight-out-big-ideas-decoded/heart-rate-variability-and-stress",
+   "https://listenly.org/podcast-btb/m/the-entrepreneurial-strategy-series/3f1027a4ca",
+   "https://listenly.org/podcast-btb/m/msp-unplugged/can-msps-win-with-human-risk-management",
+   "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/3bd756b678",
+   "https://listenly.org/podcast-btb/m/lcr-media-podcast/b5d5d43569",
+   "https://listenly.org/podcast-btb/m/the-astonishing-healthcare-podcast/4a05f2ea68",
+   "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/0a55250484",
+   "https://listenly.org/podcast-btb/m/the-josh-bersin-podcast/616e46088f",
+   "https://listenly.org/podcast-btb/m/small-business-finance-your-guide-to-bus/how-do-s-corp-owners-use-self-rental-strategy",
+   "https://listenly.org/podcast-btb/m/beyond-luxury/can-luxury-brands-build-real-culture"
+  ],
+  "urls_en_attente": [],
+  "deja_indexees": [],
+  "essai": "",
+  "resultat": "",
+  "date": "2026-11-27",
+  "note": "Vague faite dans Search Console avec Claude : 10 demandes acceptees"
  }
 }
