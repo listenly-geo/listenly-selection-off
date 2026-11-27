@@ -298,7 +298,43 @@ def prioriser_en_ligne(keys, maxi=200):
     return ok + [k for k in keys if k not in set(ok)]
 
 
+def archiver_liste_precedente():
+    """27/11/2026 (Etienne) : le suivi est 100 % automatique. Avant d'ecraser la liste du jour, la liste de la veille
+    (ou d'un jour precedent) est ajoutee au journal des demandes (index_requests.json). Le controle Search Console
+    verifie ensuite ces pages : elles apparaissent « En cours » puis « Indexe » sans aucune saisie."""
+    try:
+        ancienne = json.load(open(f"{PAGES}/data/indexation_du_jour.json", encoding="utf-8"))
+        jour = ancienne.get("date")
+        if not jour or jour >= datetime.date.today().isoformat():
+            return
+        try:
+            exclues = set(json.load(open(f"{PAGES}/data/fiches_exclues.json", encoding="utf-8")).get("cles", []))
+        except (OSError, json.JSONDecodeError):
+            exclues = set()
+        urls = [u["url"] for u in ancienne.get("urls", []) if "/m/" in u["url"]
+                and "/".join(u["url"].split("/m/")[1].split("/")[:2]) not in exclues]
+        fp = f"{PAGES}/data/index_requests.json"
+        req = json.load(open(fp, encoding="utf-8"))
+        e = req.get(jour)
+        if not isinstance(e, dict):
+            e = {"urls_demandees": [], "urls_en_attente": [], "deja_indexees": [], "essai": "", "resultat": ""}
+        deja = set(e.get("urls_demandees", []))
+        for v in req.values():
+            if isinstance(v, dict):
+                deja |= set(v.get("urls_demandees", []))
+        nouvelles = [u for u in urls if u not in deja]
+        if nouvelles:
+            e["urls_demandees"] = list(e.get("urls_demandees", [])) + nouvelles
+            e.setdefault("note", "Liste du jour archivee automatiquement")
+            req[jour] = e
+            json.dump(req, open(fp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            print(f"archivage : {len(nouvelles)} fiche(s) de la liste du {jour} ajoutee(s) au journal")
+    except (OSError, json.JSONDecodeError, KeyError) as ex:
+        print("archivage impossible :", ex)
+
+
 def main():
+    archiver_liste_precedente()
     items = []
     try:
         tok = token() if os.environ.get("GSC_SERVICE_ACCOUNT_JSON") else None
