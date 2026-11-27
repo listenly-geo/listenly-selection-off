@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
  "cles": [
-  "engaging-marketeer/93d6acfaee"
+  "insight-out-big-ideas-decoded/1240feb7af"
  ],
  "rapport": [
   {
@@ -12,14 +12,14 @@
   },
   {
    "groupe": "connu",
-   "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
-   "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
+   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
+   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
    "groupe": "connu",
-   "cle": "guy-kawasaki-s-remarkable-people/6150c7b187",
-   "question": "What does the seesaw metaphor mean in Sonja Lyubomirsky's framework for feeling loved?",
+   "cle": "guy-kawasaki-s-remarkable-people/dad3407a75",
+   "question": "What are the five mindsets in Sonja Lyubomirsky's framework for feeling loved?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -84,10 +84,10 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "engaging-marketeer/93d6acfaee",
-   "question": "What are the key traits that make a successful entrepreneur according to leadership expert Nicky Marshall?",
+   "cle": "insight-out-big-ideas-decoded/1240feb7af",
+   "question": "What is the difference between normal and optimal testosterone levels, and why does it matter?",
    "resultat": "ok",
-   "titre": "What traits make successful entrepreneurs? | Listenly"
+   "titre": "How much testosterone do I need? | Listenly"
   }
  ]
 }

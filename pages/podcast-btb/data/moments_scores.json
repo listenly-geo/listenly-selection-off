@@ -67247,16 +67247,16 @@
 "credibilite": 15,
 "forme": 30,
 "maillage": 10,
-"richesse": 11,
+"richesse": 20,
 "sujet": 5
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "Insight Out : Big Ideas, Decoded",
 "podcast": "insight-out-big-ideas-decoded",
 "question": "What is the difference between normal and optimal testosterone levels, and why does it matter?",
-"score": 71,
-"score_final": 57,
+"score": 80,
+"score_final": 64,
 "t": 466
 },
 "insight-out-big-ideas-decoded/132fd934c1": {

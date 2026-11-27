@@ -71,16 +71,6 @@
    "pret_pour_demande": true
   },
   {
-   "url": "https://listenly.org/podcast-btb/m/best-franchise-brands-podcast/6847ae5310",
-   "titre": "What makes Redbox+ unique? | Best Franchise Brands Podcast",
-   "score_qualite": 68,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
    "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/c9c6a07784",
    "titre": "What is attack surface management? | Federal Tech Podcast",
    "score_qualite": 72,
@@ -109,14 +99,19 @@
    "existante": true,
    "noindex": false,
    "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/the-entrepreneurial-strategy-series/3f1027a4ca",
+   "titre": "What are the main types of IP? | Entrepreneurial Strategy",
+   "score_qualite": 65,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
   }
  ],
  "ecartees_sens_recherche": [
-  {
-   "cle": "the-bob-lefsetz-podcast/b3b3dd418c",
-   "titre": "Joaquin Garay Three Caballeros? | The Bob Lefsetz Podcast",
-   "raison": "titre trop court ou trop vague pour une recherche"
-  },
   {
    "cle": "more-than-commas/4b67d7caf2",
    "titre": "Can gambling losses offset winnings for taxes? | Listenly",
