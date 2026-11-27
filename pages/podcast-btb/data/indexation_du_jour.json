@@ -1,15 +1,25 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "mode": "liste a traiter dans Claude + Chrome (demande d'indexation manuelle, validation par page)",
  "repartition": {
-  "connu": 0,
-  "mot_cle": 10
+  "connu": 1,
+  "mot_cle": 9
  },
  "selection": "note seule (volumes non a jour, Keyword Planner en echec)",
- "pretes": 10,
+ "pretes": 9,
  "existantes": 10,
- "a_rendre_indexables": 0,
+ "a_rendre_indexables": 1,
  "urls": [
+  {
+   "url": "https://listenly.org/podcast-btb/m/the-bob-lefsetz-podcast/b3b3dd418c",
+   "titre": "Joaquin Garay Three Caballeros? | The Bob Lefsetz Podcast",
+   "score_qualite": 56,
+   "source": "connu",
+   "http": 200,
+   "existante": true,
+   "noindex": true,
+   "pret_pour_demande": false
+  },
   {
    "url": "https://listenly.org/podcast-btb/m/kern-county-real-estate-review/1fd3482a24",
    "titre": "How does CA insurance affect home sales? | Kern County",
@@ -94,16 +104,6 @@
    "url": "https://listenly.org/podcast-btb/m/federal-tech-podcast-for-innovators-entr/c9c6a07784",
    "titre": "What is attack surface management? | Federal Tech Podcast",
    "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/southeast-texas-works/how-to-become-a-texas-game-warden",
-   "titre": "How to become a texas game warden? | Listenly",
-   "score_qualite": 56,
    "source": "mot_cle",
    "http": 200,
    "existante": true,

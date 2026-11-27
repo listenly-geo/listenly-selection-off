@@ -1,7 +1,8 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "cles": [
-  "the-decision-making-studio-podcast/3d1e7ff4a2"
+  "the-bob-lefsetz-podcast/b3b3dd418c",
+  "digital-transformation-ai-for-humans/3cf204e3cc"
  ],
  "rapport": [
   {
@@ -42,9 +43,10 @@
   },
   {
    "groupe": "connu",
-   "cle": "date-line-nbc/447c70e748",
-   "question": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
-   "resultat": "transcription insuffisante"
+   "cle": "the-bob-lefsetz-podcast/b3b3dd418c",
+   "question": "What was Joaquin Garay's role in Walt Disney's The Three Caballeros?",
+   "resultat": "ok",
+   "titre": "Joaquin Garay Three Caballeros? | The Bob Lefsetz Podcast"
   },
   {
    "groupe": "mot_cle",
@@ -84,9 +86,10 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "the-decision-making-studio-podcast/3d1e7ff4a2",
-   "question": "Why is it impossible to remove emotions from decision-making in leadership?",
-   "resultat": "ok"
+   "cle": "digital-transformation-ai-for-humans/3cf204e3cc",
+   "question": "How does AI enhance music creation compared to traditional composition methods?",
+   "resultat": "ok",
+   "titre": "How does AI improve music creation? | Listenly"
   }
  ]
 }

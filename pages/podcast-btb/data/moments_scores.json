@@ -38867,16 +38867,16 @@
 "credibilite": 15,
 "forme": 30,
 "maillage": 10,
-"richesse": 6,
+"richesse": 15,
 "sujet": 15
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "Digital Transformation & AI for Humans",
 "podcast": "digital-transformation-ai-for-humans",
 "question": "How does AI enhance music creation compared to traditional composition methods?",
-"score": 76,
-"score_final": 61,
+"score": 85,
+"score_final": 68,
 "t": 583
 },
 "digital-transformation-ai-for-humans/4b27d27631": {
@@ -112507,16 +112507,16 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 3,
+"richesse": 20,
 "sujet": 5
 },
-"gate": false,
+"gate": true,
 "impressions": 0,
 "nom": "The Bob Lefsetz Podcast",
 "podcast": "the-bob-lefsetz-podcast",
 "question": "What was Joaquin Garay's role in Walt Disney's The Three Caballeros?",
-"score": 53,
-"score_final": 42,
+"score": 70,
+"score_final": 56,
 "t": 44
 },
 "the-bob-lefsetz-podcast/cfb5ecea36": {
