@@ -827,7 +827,7 @@
   "derniere_exploration": "2026-10-28T10:15:54Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/20e629786f",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "guy-kawasaki-s-remarkable-people/d75b2dbf48": {
   "page": "https://listenly.org/podcast-btb/m/guy-kawasaki-s-remarkable-people/d75b2dbf48",
@@ -967,7 +967,7 @@
   "derniere_exploration": "2026-11-04T08:50:24Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/f1eb6f3bb5",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "young-and-profiting-with-hala-taha-entrepreneurship/c96dd7a467": {
   "page": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/c96dd7a467",
@@ -1047,7 +1047,7 @@
   "derniere_exploration": "2026-11-02T09:56:15Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-angel-next-door/ccecaf4d22",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "freakonomics-radio/85bb20e157": {
   "page": "https://listenly.org/podcast-btb/m/freakonomics-radio/85bb20e157",
@@ -1247,7 +1247,7 @@
   "derniere_exploration": "2026-11-04T08:52:52Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/e93adcd000",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "3-take-away/2722ffc999": {
   "page": "https://listenly.org/podcast-btb/m/3-take-away/2722ffc999",
@@ -1267,7 +1267,7 @@
   "derniere_exploration": "2026-11-08T14:16:26Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/aa79a8d648",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "the-diary-of-a-ceo-with-steven-bartlett/47dc6c9f7d": {
   "page": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/47dc6c9f7d",
@@ -1417,7 +1417,7 @@
   "derniere_exploration": "2026-11-10T07:01:25Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-tim-ferriss-show/9c76b848ca",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "masters-of-scale/3e5f0c1039": {
   "page": "https://listenly.org/podcast-btb/m/masters-of-scale/3e5f0c1039",
@@ -1827,7 +1827,7 @@
   "derniere_exploration": "2026-11-16T16:40:50Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/beyond-luxury/c27f0614f9",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "lcr-media-podcast/16c4357b24": {
   "page": "https://listenly.org/podcast-btb/m/lcr-media-podcast/16c4357b24",
@@ -1847,7 +1847,7 @@
   "derniere_exploration": "2026-10-24T16:22:28Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/3-take-away/c27160a6c5",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "the-mel-robbins-podcast/754725d1f1": {
   "page": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/754725d1f1",
@@ -1857,7 +1857,7 @@
   "derniere_exploration": "2026-10-24T16:22:27Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-mel-robbins-podcast/754725d1f1",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "the-daily-podcast/7c74ac3fd6": {
   "page": "https://listenly.org/podcast-btb/m/the-daily-podcast/7c74ac3fd6",
@@ -1957,7 +1957,7 @@
   "derniere_exploration": "2026-10-24T16:24:28Z",
   "canonique_google": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/40c3eee48b",
   "indexation": "INDEXING_ALLOWED",
-  "controle": "2026-11-26"
+  "controle": "2026-11-28"
  },
  "young-and-profiting-with-hala-taha-entrepreneurship/a32aea6aba": {
   "page": "https://listenly.org/podcast-btb/m/young-and-profiting-with-hala-taha-entrepreneurship/a32aea6aba",
@@ -2868,5 +2868,105 @@
   "canonique_google": "https://listenly.org/podcast-btb/m/msp-unplugged/can-msps-win-with-human-risk-management",
   "indexation": "INDEXING_ALLOWED",
   "controle": "2026-11-27"
+ },
+ "executive-edge-podcast/a3790cb60c": {
+  "page": "https://listenly.org/podcast-btb/m/executive-edge-podcast/a3790cb60c",
+  "etat": "inconnue",
+  "couverture": "URL is unknown to Google",
+  "verdict": "NEUTRAL",
+  "derniere_exploration": "",
+  "canonique_google": "",
+  "indexation": "INDEXING_STATE_UNSPECIFIED",
+  "controle": "2026-11-28"
+ },
+ "commercially-speaking-podcast-commercial/0dde6bab24": {
+  "page": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/why-do-advisors-shun-alternatives",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:32:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/why-do-advisors-shun-alternatives",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "ordinary-to-badass/f071d215cf": {
+  "page": "https://listenly.org/podcast-btb/m/ordinary-to-badass/do-job-labels-limit-career-growth",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:36:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/ordinary-to-badass/do-job-labels-limit-career-growth",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "empowering-industry-podcast-a-production/0bca597933": {
+  "page": "https://listenly.org/podcast-btb/m/empowering-industry-podcast-a-production/how-do-professional-networks-solve-logistics",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:34:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/empowering-industry-podcast-a-production/how-do-professional-networks-solve-logistics",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "building-up-your-business/6767fd4dea": {
+  "page": "https://listenly.org/podcast-btb/m/building-up-your-business/6767fd4dea",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:40:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/building-up-your-business/6767fd4dea",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "better-business-better-life/4310c112d9": {
+  "page": "https://listenly.org/podcast-btb/m/better-business-better-life/4310c112d9",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:38:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/better-business-better-life/4310c112d9",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "do-business-do-life-the-financial-adviso/a24a59801a": {
+  "page": "https://listenly.org/podcast-btb/m/do-business-do-life-the-financial-adviso/a24a59801a",
+  "etat": "explorée_non_indexee",
+  "couverture": "Crawled - currently not indexed",
+  "verdict": "NEUTRAL",
+  "derniere_exploration": "2026-11-28T10:42:09Z",
+  "canonique_google": "",
+  "indexation": "INDEXING_STATE_UNSPECIFIED",
+  "controle": "2026-11-28"
+ },
+ "building-pa-podcast/d4d3a05345": {
+  "page": "https://listenly.org/podcast-btb/m/building-pa-podcast/why-choose-construction-management",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:38:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/building-pa-podcast/why-choose-construction-management",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "rock-your-money-rock-your-life/4b620a2fc4": {
+  "page": "https://listenly.org/podcast-btb/m/rock-your-money-rock-your-life/what-budget-gets-you-from-debt-to-wealth",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:36:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/rock-your-money-rock-your-life/what-budget-gets-you-from-debt-to-wealth",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
+ },
+ "austin-tech-connect-the-podcast-for-the/ceef4f6a53": {
+  "page": "https://listenly.org/podcast-btb/m/austin-tech-connect-the-podcast-for-the/why-is-strategy-hard-for-founders",
+  "etat": "indexee",
+  "couverture": "Submitted and indexed",
+  "verdict": "PASS",
+  "derniere_exploration": "2026-11-28T10:38:08Z",
+  "canonique_google": "https://listenly.org/podcast-btb/m/austin-tech-connect-the-podcast-for-the/why-is-strategy-hard-for-founders",
+  "indexation": "INDEXING_ALLOWED",
+  "controle": "2026-11-28"
  }
 }

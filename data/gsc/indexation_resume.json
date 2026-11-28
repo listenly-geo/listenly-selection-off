@@ -3,9 +3,9 @@
  "pages_proposees": 88,
  "inspectees_ce_jour": 65,
  "par_etat": {
-  "indexee": 242,
-  "explorée_non_indexee": 10,
-  "inconnue": 34,
+  "indexee": 250,
+  "explorée_non_indexee": 11,
+  "inconnue": 35,
   "noindex": 1
  }
 }
