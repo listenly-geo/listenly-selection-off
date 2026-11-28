@@ -18207,7 +18207,7 @@
 "credibilite": 15,
 "forme": 20,
 "maillage": 10,
-"richesse": 11,
+"richesse": 16,
 "sujet": 5
 },
 "gate": false,
@@ -18215,8 +18215,8 @@
 "nom": "Black Women’s Health",
 "podcast": "black-women-s-health",
 "question": "What women's health services does Midwest Express provide?",
-"score": 61,
-"score_final": 49,
+"score": 66,
+"score_final": 53,
 "t": 525
 },
 "bltnt-podcast/337994538a": {

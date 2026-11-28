@@ -1,5 +1,5 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "mode": "liste a traiter dans Claude + Chrome (demande d'indexation manuelle, validation par page)",
  "repartition": {
   "connu": 0,
@@ -11,99 +11,99 @@
  "a_rendre_indexables": 0,
  "urls": [
   {
-   "url": "https://listenly.org/podcast-btb/m/insight-out-big-ideas-decoded/heart-rate-variability-and-stress",
-   "titre": "Heart rate variability and stress? | Listenly",
-   "score_qualite": 72,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/the-entrepreneurial-strategy-series/3f1027a4ca",
-   "titre": "What are the main types of IP? | Entrepreneurial Strategy",
-   "score_qualite": 65,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/msp-unplugged/can-msps-win-with-human-risk-management",
-   "titre": "Can MSPs win with human risk management? | MSP Unplugged",
-   "score_qualite": 94,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/3bd756b678",
-   "titre": "Skills leaders need digital transformation? | Listenly",
-   "score_qualite": 90,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/lcr-media-podcast/b5d5d43569",
-   "titre": "Can owners close for conferences? | LCR Media Podcast",
-   "score_qualite": 90,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/the-astonishing-healthcare-podcast/4a05f2ea68",
-   "titre": "Why validate claims data for drug pricing? | Healthcare",
-   "score_qualite": 90,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/extropy-on-air-finance-transformation-ap/0a55250484",
-   "titre": "Why finance teams need peer communities? | Listenly",
-   "score_qualite": 86,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/the-josh-bersin-podcast/616e46088f",
-   "titre": "How do teams shift to AI-driven performance? | Bersin",
-   "score_qualite": 84,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/small-business-finance-your-guide-to-bus/how-do-s-corp-owners-use-self-rental-strategy",
-   "titre": "How do S-Corp owners build real estate equity? | Listenly",
-   "score_qualite": 83,
-   "source": "mot_cle",
-   "http": 200,
-   "existante": true,
-   "noindex": false,
-   "pret_pour_demande": true
-  },
-  {
-   "url": "https://listenly.org/podcast-btb/m/beyond-luxury/can-luxury-brands-build-real-culture",
-   "titre": "Can luxury brands build real culture? | Beyond Luxury",
+   "url": "https://listenly.org/podcast-btb/m/commercially-speaking-podcast-commercial/why-do-advisors-shun-alternatives",
+   "titre": "Why do advisors shun alternatives? | Commercially Speaking",
    "score_qualite": 82,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/empowering-industry-podcast-a-production/how-do-professional-networks-solve-logistics",
+   "titre": "How do professional networks solve logistics? | Listenly",
+   "score_qualite": 82,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/ordinary-to-badass/do-job-labels-limit-career-growth",
+   "titre": "Do job labels limit career growth? | Ordinary To Badass",
+   "score_qualite": 82,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/rock-your-money-rock-your-life/what-budget-gets-you-from-debt-to-wealth",
+   "titre": "What budget gets you from debt to wealth? | Rock Money",
+   "score_qualite": 82,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/austin-tech-connect-the-podcast-for-the/why-is-strategy-hard-for-founders",
+   "titre": "Why is strategy hard for founders? | Austin Tech Connect",
+   "score_qualite": 80,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/better-business-better-life/4310c112d9",
+   "titre": "How to handle top performers who break values? | BBBL",
+   "score_qualite": 80,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/building-pa-podcast/why-choose-construction-management",
+   "titre": "Why choose construction management? | Building PA Podcast",
+   "score_qualite": 80,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/building-up-your-business/6767fd4dea",
+   "titre": "Why miss vendor cost savings? | BUILDING UP your business",
+   "score_qualite": 80,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/do-business-do-life-the-financial-adviso/a24a59801a",
+   "titre": "Why should advisors avoid leading with products? | DBDL",
+   "score_qualite": 80,
+   "source": "mot_cle",
+   "http": 200,
+   "existante": true,
+   "noindex": false,
+   "pret_pour_demande": true
+  },
+  {
+   "url": "https://listenly.org/podcast-btb/m/executive-edge-podcast/a3790cb60c",
+   "titre": "How is supply risk spotted early? | Executive Edge Podcast",
+   "score_qualite": 80,
    "source": "mot_cle",
    "http": 200,
    "existante": true,

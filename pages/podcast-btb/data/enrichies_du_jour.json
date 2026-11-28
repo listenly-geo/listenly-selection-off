@@ -1,7 +1,7 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "cles": [
-  "the-cto-lens/54968e0ca8"
+  "black-women-s-health/e6f3e09272"
  ],
  "rapport": [
   {
@@ -42,8 +42,8 @@
   },
   {
    "groupe": "connu",
-   "cle": "date-line-nbc/447c70e748",
-   "question": "Why did Larry Miliete purchase spells from an online spellcaster according to prosecution testimony?",
+   "cle": "masters-of-scale/a989439e86",
+   "question": "Why did Chase Bank block Meta's Muse agent specifically?",
    "resultat": "transcription insuffisante"
   },
   {
@@ -84,10 +84,9 @@
   },
   {
    "groupe": "mot_cle",
-   "cle": "the-cto-lens/54968e0ca8",
-   "question": "How many employees is Barclays laying off and what is the stated reason?",
-   "resultat": "ok",
-   "titre": "How many employees is Barclays laying off? | Listenly"
+   "cle": "black-women-s-health/e6f3e09272",
+   "question": "What women's health services does Midwest Express provide?",
+   "resultat": "ok"
   }
  ]
 }
