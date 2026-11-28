@@ -5,15 +5,15 @@
   "clics": 0,
   "impressions": 7,
   "ctr": 0,
-  "position": 87.7
+  "position": 87.3
  },
  {
-  "requete": "evaluate the music discovery platforms company spotify on steven bartlett",
-  "page": "https://listenly.org/podcast-btb/m/the-diary-of-a-ceo-with-steven-bartlett/9ed9bf7833",
+  "requete": "business to business podcast",
+  "page": "https://listenly.org/podcast-btb/the-business-development-podcast-podcast.html",
   "clics": 0,
   "impressions": 3,
   "ctr": 0,
-  "position": 5.3
+  "position": 86.7
  },
  {
   "requete": "apac b2b marketing",
@@ -24,14 +24,6 @@
   "position": 69
  },
  {
-  "requete": "b2b brand storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
-  "clics": 0,
-  "impressions": 2,
-  "ctr": 0,
-  "position": 73
- },
- {
   "requete": "b2b marketing in apac",
   "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
@@ -40,12 +32,12 @@
   "position": 86.5
  },
  {
-  "requete": "b2b storytelling",
-  "page": "https://listenly.org/podcast-btb/storydriven-marketing-the-b2b-brand-stor-podcast.html",
+  "requete": "staffing mastery",
+  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
   "clics": 0,
   "impressions": 2,
   "ctr": 0,
-  "position": 77.5
+  "position": 72
  },
  {
   "requete": "we study billionaires podcast",
@@ -64,12 +56,12 @@
   "position": 98
  },
  {
-  "requete": "art et gestion de patrimoine",
-  "page": "https://listenly.org/podcast-btb/l-art-de-la-gestion-patrimoniale-podcast.html",
+  "requete": "b2b marketing apac",
+  "page": "https://listenly.org/podcast-btb/apac-s-b2b-growth-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
-  "position": 75
+  "position": 64
  },
  {
   "requete": "commercial real estate podcasts",
@@ -78,6 +70,14 @@
   "impressions": 1,
   "ctr": 0,
   "position": 97
+ },
+ {
+  "requete": "daily podcast new york times",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 82
  },
  {
   "requete": "ey women in utilities",
@@ -96,6 +96,14 @@
   "position": 75
  },
  {
+  "requete": "new york times daily podcast",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 93
+ },
+ {
   "requete": "new york times the daily",
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
@@ -112,35 +120,19 @@
   "position": 100
  },
  {
-  "requete": "podsmart marketing for manufacturing",
-  "page": "https://listenly.org/podcast-btb/made-to-grow-the-sme-manufacturing-podca-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 71
- },
- {
-  "requete": "staffing mastery",
-  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 72
- },
- {
-  "requete": "staffing podcasts",
-  "page": "https://listenly.org/podcast-btb/secrets-of-staffing-success-podcast.html",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 71
- },
- {
   "requete": "the daily nyt",
   "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
   "clics": 0,
   "impressions": 1,
   "ctr": 0,
   "position": 84
+ },
+ {
+  "requete": "the daily podcast nyt",
+  "page": "https://listenly.org/podcast-btb/the-daily-podcast-podcast.html",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 92
  }
 ]

@@ -65,7 +65,7 @@
  {
   "requete": "commercial real estate podcast",
   "clics": 0,
-  "impressions": 20,
+  "impressions": 21,
   "ctr": 0,
   "position": 71.5
  },
@@ -518,6 +518,13 @@
   "position": 17.5
  },
  {
+  "requete": "business to business podcast",
+  "clics": 0,
+  "impressions": 4,
+  "ctr": 0,
+  "position": 89.8
+ },
+ {
   "requete": "dentist money management",
   "clics": 0,
   "impressions": 4,
@@ -840,6 +847,13 @@
   "position": 45
  },
  {
+  "requete": "b2b marketing apac",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 60.5
+ },
+ {
   "requete": "b2b podcast storytelling",
   "clics": 0,
   "impressions": 2,
@@ -1127,6 +1141,13 @@
   "position": 28.5
  },
  {
+  "requete": "staffing mastery",
+  "clics": 0,
+  "impressions": 2,
+  "ctr": 0,
+  "position": 72
+ },
+ {
   "requete": "storytelling b2b",
   "clics": 0,
   "impressions": 2,
@@ -1316,13 +1337,6 @@
   "position": 48
  },
  {
-  "requete": "b2b marketing apac",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 57
- },
- {
   "requete": "b2b marketing in healthcare industry",
   "clics": 0,
   "impressions": 1,
@@ -1442,13 +1456,6 @@
   "position": 36
  },
  {
-  "requete": "business to business podcast",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 99
- },
- {
   "requete": "citrus juicery podcast",
   "clics": 0,
   "impressions": 1,
@@ -1531,6 +1538,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 69
+ },
+ {
+  "requete": "daily podcast new york times",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 82
  },
  {
   "requete": "deep state radio",
@@ -1925,6 +1939,13 @@
   "position": 99
  },
  {
+  "requete": "new york times daily podcast",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 93
+ },
+ {
   "requete": "new york times michael barbaro",
   "clics": 0,
   "impressions": 1,
@@ -2184,13 +2205,6 @@
   "position": 10
  },
  {
-  "requete": "staffing mastery",
-  "clics": 0,
-  "impressions": 1,
-  "ctr": 0,
-  "position": 72
- },
- {
   "requete": "strategy room",
   "clics": 0,
   "impressions": 1,
@@ -2301,6 +2315,13 @@
   "impressions": 1,
   "ctr": 0,
   "position": 60
+ },
+ {
+  "requete": "the daily podcast nyt",
+  "clics": 0,
+  "impressions": 1,
+  "ctr": 0,
+  "position": 92
  },
  {
   "requete": "the distribution podcast",
